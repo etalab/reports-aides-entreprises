@@ -18,5 +18,3 @@ jobs:
         uses: yaananth/run-notebook@v1
         with:
           notebook: "report-pdf.ipynb"
-          isReport: False
-          poll: True
