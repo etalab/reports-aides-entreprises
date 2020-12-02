@@ -16,7 +16,7 @@ jobs:
 
       - name: Run notebook
         uses: yaananth/run-notebook@v1
-          with:
-            notebook: "report-pdf.ipynb"
-            isReport: False
-            poll: True
+        with:
+          notebook: "report-pdf.ipynb"
+          isReport: False
+          poll: True
