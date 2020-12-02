@@ -1,0 +1,5 @@
+libelle_cat_juridique,montant,nombre,nombre_siren,color,montant_fr,nombre_fr,nombre_siren_fr
+Entrepreneur individuel,4053203884.28,3048892,1052960,#E53935,"4053,2 M€",3 048 892 aides,1 052 960 entreprises
+Société à responsabilité limitée (SARL),1952982481.12,1181607,430012,#FF8F00,"1953,0 M€",1 181 607 aides,430 012 entreprises
+Société par actions simplifiée,1196235189.27,707180,225057,#6D4C41,"1196,2 M€",707 180 aides,225 057 entreprises
+Autres Catégories Juridiques,193528058.74,122849,42228,#AAAAAA,"193,5 M€",122 849 aides,42 228 entreprises
