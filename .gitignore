@@ -1,5 +1,3 @@
 venv/
-img/
-data/
 .ipynb_checkpoints/*
 .DS_Store

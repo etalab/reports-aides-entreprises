@@ -1,4 +1,5 @@
 jupyterlab
+"ipywidgets>=7.5"
 pandas
 matplotlib
 fpdf
