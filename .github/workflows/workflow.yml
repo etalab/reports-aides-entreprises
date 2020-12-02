@@ -6,17 +6,17 @@ jobs:
   run_notebook:
     name: Run PDF Reports Notebook
     runs-on: ubuntu-latest
-		
+
     steps:
       - name: Checkout code
-	    uses: actions/checkout@v2
-		
-	  - name: Set up Python
-	    uses: actions/setup-python@v1
-		
-	  - name: Run notebook
-		uses: yaananth/run-notebook@v1
-		      with:
-		        notebook: "report-pdf.ipynb"
-		        isReport: False
-		        poll: True
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v1
+
+      - name: Run notebook
+        uses: yaananth/run-notebook@v1
+              with:
+                notebook: "report-pdf.ipynb"
+                isReport: False
+                poll: True
