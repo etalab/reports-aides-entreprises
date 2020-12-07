@@ -13,8 +13,7 @@ jobs:
       - shell: bash -l {0}
         run: conda create -y --name venv python=3.6 \
              conda activate venv
-             conda install pip
-             pip install -r requirements.txt
+             conda install --file requirements.txt
 #      - run: conda install pip
 #      - run: pip install -r requirements.txt
 #      - run: conda install -c plotly plotly-orca
