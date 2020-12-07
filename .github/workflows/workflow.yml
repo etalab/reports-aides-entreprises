@@ -14,9 +14,9 @@ jobs:
         with:
           activate-environment: venv
           python-version: 3.6
-      - run: conda install --file requirements.txt \
-             conda install -c travis fpdf \
-             conda install -c plotly plotly-orca
+      - run: conda install --file requirements.txt
+      - run: conda install -c travis fpdf \
+      - run: conda install -c plotly plotly-orca
 #      - run: conda install pip
 #      - run: pip install -r requirements.txt
 #      - run: conda install -c plotly plotly-orca
