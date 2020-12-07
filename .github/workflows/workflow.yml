@@ -5,15 +5,16 @@ on: [push]
 jobs:
   setup_python:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
     steps:
       - uses: actions/checkout@v2
       - uses: conda-incubator/setup-miniconda@v2
         with:
-          python-version: 3.7
-      - shell: bash -l {0}
-        run: conda create -y --name venv python=3.6 \
-             conda activate venv \
-             conda install --file requirements.txt
+          activate-environment: venv
+          python-version: 3.6
+      - run: conda install --file requirements.txt
 #      - run: conda install pip
 #      - run: pip install -r requirements.txt
 #      - run: conda install -c plotly plotly-orca
