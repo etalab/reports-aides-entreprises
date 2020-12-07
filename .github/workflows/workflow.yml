@@ -3,7 +3,7 @@ name: Run-PDFReports-Notebook
 on: [push]
 
 jobs:
-  setup_python:
+  workflow:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -17,6 +17,6 @@ jobs:
       - run: conda install --file requirements.txt
       - run: conda install -c travis fpdf
       - run: conda install -c plotly plotly-orca
-#      - run: conda install pip
-#      - run: pip install -r requirements.txt
-#      - run: conda install -c plotly plotly-orca
+      - uses: yaananth/run-notebook@v1
+        with:
+          notebook: "report-pdf.ipynb"
