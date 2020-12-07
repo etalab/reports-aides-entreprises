@@ -13,9 +13,9 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v2
         with:
           activate-environment: venv
-          python-version: 3.6
+          python-version: 2.7
       - run: conda install --file requirements.txt
-      - run: conda install -c travis fpdf \
+      - run: conda install -c travis fpdf
       - run: conda install -c plotly plotly-orca
 #      - run: conda install pip
 #      - run: pip install -r requirements.txt
