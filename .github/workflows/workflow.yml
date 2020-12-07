@@ -10,12 +10,21 @@ jobs:
         shell: bash -l {0}
     steps:
       - uses: actions/checkout@v2
-      - uses: conda-incubator/setup-miniconda@v2
+      #- uses: conda-incubator/setup-miniconda@v2
+      #  with:
+      #    activate-environment: venv
+      #    python-version: 2.7
+      - run: sudo apt update
+      - run: sudo apt install nodejs
+      - run: sudo apt install npm
+      - run: npm install -g electron@6.1.4 orca
+      - uses: actions/setup-python@v2
         with:
-          activate-environment: venv
-          python-version: 2.7
-      - run: conda install --file requirements.txt
-      - run: conda install -c travis fpdf
-      - run: conda install -c plotly plotly-orca
-      - run: conda install -c conda-forge papermill
+          python-version: 3.9
+      - run: pip install -r requirements.txt
+      #- run: conda install --file requirements.txt
+      #- run: conda install -c travis fpdf
+      #- run: conda install -c plotly plotly-orca
+      #- run: conda install -c conda-forge papermill
+      - run: pip install papermill
       - run: papermill report-pdf.ipynb report-pdf-output.ipynb
