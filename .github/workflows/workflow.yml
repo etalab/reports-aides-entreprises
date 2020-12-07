@@ -3,18 +3,13 @@ name: Run-PDFReports-Notebook
 on: [push]
 
 jobs:
-  run_notebook:
-    name: Run PDF Reports Notebook
+  setup_python:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v1
-
-      - name: Run notebook
-        uses: yaananth/run-notebook@v1
+      - uses: actions/checkout@v2
+      - uses: conda-incubator/setup-miniconda@v2
         with:
-          notebook: "report-pdf.ipynb"
+          auto-update-conda: true
+          python-version: "3.9"
+      - run: conda install pip
+      - run: pip install -r requirements.txt
