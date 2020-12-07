@@ -17,6 +17,5 @@ jobs:
       - run: conda install --file requirements.txt
       - run: conda install -c travis fpdf
       - run: conda install -c plotly plotly-orca
-      - uses: yaananth/run-notebook@v1
-        with:
-          notebook: "report-pdf.ipynb"
+      - run: conda install -c conda-forge papermill
+      - run: papermill report-pdf.ipynb report-pdf-output.ipynb
