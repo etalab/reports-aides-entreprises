@@ -10,6 +10,8 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v2
         with:
           python-version: 3.7
-      - run: conda install pip
-      - run: pip install -r requirements.txt
-      - run: conda install -c plotly plotly-orca
+      - shell: bash -l {0}
+        run: conda info
+#      - run: conda install pip
+#      - run: pip install -r requirements.txt
+#      - run: conda install -c plotly plotly-orca
