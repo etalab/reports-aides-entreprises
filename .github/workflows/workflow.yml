@@ -9,16 +9,23 @@ jobs:
       run:
         shell: bash -l {0}
     steps:
-      - uses: actions/checkout@v2
-      - run: sudo apt update
-      - run: sudo apt install nodejs
-      - run: sudo apt install npm
-      - run: sudo chown -R $USER /usr/local/lib/node_modules
-      - run: sudo chown -R $USER /usr/local/bin/
-      - run: npm install -g electron@6.1.4 orca
-      - uses: actions/setup-python@v2
+      - name: Import code from current GitHub repo
+        uses: actions/checkout@v2
+      - name: Install non-Python dependencies
+        run: |
+          sudo apt update
+          sudo apt install nodejs
+          sudo apt install npm
+          sudo chown -R $USER /usr/local/lib/node_modules
+          sudo chown -R $USER /usr/local/bin/
+          npm install -g electron@6.1.4 orca
+      - name: Setup Python 3
+        uses: actions/setup-python@v2
         with:
           python-version: 3.9
-      - run: pip install -r requirements.txt
-      - run: pip install papermill
-      - run: papermill report-pdf.ipynb report-pdf-output.ipynb
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install papermill
+      - name: Run notebook
+        run: papermill report-pdf.ipynb report-pdf.ipynb
