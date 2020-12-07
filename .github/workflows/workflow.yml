@@ -1,6 +1,8 @@
 name: Run-PDFReports-Notebook
 
 on: [push]
+  #schedule:
+  #- cron: "0 0 * * *"
 
 jobs:
   workflow:
@@ -33,7 +35,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Git Actions - Reports updates $(date)" -a
+          git commit -m "GitHub Actions - Reports updates $(date)" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
