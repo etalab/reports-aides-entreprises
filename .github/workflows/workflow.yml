@@ -19,6 +19,7 @@ jobs:
       - run: node -v
       - run: sudo apt install npm
       - run: sudo chown -R $USER /usr/local/lib/node_modules
+      - run: sudo chown -R $USER /usr/local/bin/
       - run: npm install -g electron@6.1.4 orca
       - uses: actions/setup-python@v2
         with:
