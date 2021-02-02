@@ -1,49 +1,55 @@
 mois,nombre_demandes_deposees,nombre_heures_demandees,nombre_salaries_concernes,libelle,color,nombre_demandes_deposees_fr,nombre_heures_demandees_fr,nombre_salaries_concernes_fr
-2020-03,131850,45102895,1111365,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,131 850 demandes,45 102 895 heures,1 111 365 salariés
-2020-04,159960,113868595,1341330,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,159 960 demandes,113 868 595 heures,1 341 330 salariés
-2020-05,144555,64014640,1096155,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,144 555 demandes,64 014 640 heures,1 096 155 salariés
-2020-06,74075,33141565,511810,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,74 075 demandes,33 141 565 heures,511 810 salariés
-2020-07,46680,20462455,311055,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,46 680 demandes,20 462 455 heures,311 055 salariés
-2020-08,31585,11039185,193955,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,31 585 demandes,11 039 185 heures,193 955 salariés
-2020-09,28530,12035365,179540,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,28 530 demandes,12 035 365 heures,179 540 salariés
-2020-10,21415,8503555,124935,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,21 415 demandes,8 503 555 heures,124 935 salariés
-2020-03,239580,64058860,1242005,Commerce,#006064,239 580 demandes,64 058 860 heures,1 242 005 salariés
-2020-04,269945,167329290,1527615,Commerce,#006064,269 945 demandes,167 329 290 heures,1 527 615 salariés
-2020-05,248795,69719605,1251085,Commerce,#006064,248 795 demandes,69 719 605 heures,1 251 085 salariés
-2020-06,95375,21631150,375525,Commerce,#006064,95 375 demandes,21 631 150 heures,375 525 salariés
-2020-07,46045,9895005,169010,Commerce,#006064,46 045 demandes,9 895 005 heures,169 010 salariés
-2020-08,25280,4856445,89585,Commerce,#006064,25 280 demandes,4 856 445 heures,89 585 salariés
-2020-09,22425,4834620,81615,Commerce,#006064,22 425 demandes,4 834 620 heures,81 615 salariés
-2020-10,30550,3986110,99325,Commerce,#006064,30 550 demandes,3 986 110 heures,99 325 salariés
-2020-03,143040,46909980,846245,Hébergement et restauration,#388E3C,143 040 demandes,46 909 980 heures,846 245 salariés
-2020-04,151685,114573095,931730,Hébergement et restauration,#388E3C,151 685 demandes,114 573 095 heures,931 730 salariés
-2020-05,143810,83815160,861995,Hébergement et restauration,#388E3C,143 810 demandes,83 815 160 heures,861 995 salariés
-2020-06,98090,40883540,556885,Hébergement et restauration,#388E3C,98 090 demandes,40 883 540 heures,556 885 salariés
-2020-07,68465,25626640,347850,Hébergement et restauration,#388E3C,68 465 demandes,25 626 640 heures,347 850 salariés
-2020-08,48900,15595330,233525,Hébergement et restauration,#388E3C,48 900 demandes,15 595 330 heures,233 525 salariés
-2020-09,53335,16901130,259750,Hébergement et restauration,#388E3C,53 335 demandes,16 901 130 heures,259 750 salariés
-2020-10,68565,19379630,350210,Hébergement et restauration,#388E3C,68 565 demandes,19 379 630 heures,350 210 salariés
-2020-03,148745,45080965,884940,Construction,#039BE5,148 745 demandes,45 080 965 heures,884 940 salariés
-2020-04,158810,108149570,1044430,Construction,#039BE5,158 810 demandes,108 149 570 heures,1 044 430 salariés
-2020-05,115160,33164525,556890,Construction,#039BE5,115 160 demandes,33 164 525 heures,556 890 salariés
-2020-06,32710,8047795,107270,Construction,#039BE5,32 710 demandes,8 047 795 heures,107 270 salariés
-2020-07,14505,3612420,43240,Construction,#039BE5,14 505 demandes,3 612 420 heures,43 240 salariés
-2020-08,6995,1631250,19725,Construction,#039BE5,6 995 demandes,1 631 250 heures,19 725 salariés
-2020-09,6195,1459950,18510,Construction,#039BE5,6 195 demandes,1 459 950 heures,18 510 salariés
-2020-10,4280,1045565,12815,Construction,#039BE5,4 280 demandes,1 045 565 heures,12 815 salariés
-2020-03,43910,24011650,534760,Fabrication d'autres produits indus.,#5C6BC0,43 910 demandes,24 011 650 heures,534 760 salariés
-2020-04,50120,60667830,681435,Fabrication d'autres produits indus.,#5C6BC0,50 120 demandes,60 667 830 heures,681 435 salariés
-2020-05,45540,28731155,519565,Fabrication d'autres produits indus.,#5C6BC0,45 540 demandes,28 731 155 heures,519 565 salariés
-2020-06,24480,14085880,280470,Fabrication d'autres produits indus.,#5C6BC0,24 480 demandes,14 085 880 heures,280 470 salariés
-2020-07,15535,8330810,179075,Fabrication d'autres produits indus.,#5C6BC0,15 535 demandes,8 330 810 heures,179 075 salariés
-2020-08,8900,3016160,84435,Fabrication d'autres produits indus.,#5C6BC0,8 900 demandes,3 016 160 heures,84 435 salariés
-2020-09,9780,4869125,110815,Fabrication d'autres produits indus.,#5C6BC0,9 780 demandes,4 869 125 heures,110 815 salariés
-2020-10,7270,3097535,70580,Fabrication d'autres produits indus.,#5C6BC0,7 270 demandes,3 097 535 heures,70 580 salariés
-2020-03,281735,69852570,1615580,Autres sections NACE 17,#AAAAAA,281 735 demandes,69 852 570 heures,1 615 580 salariés
-2020-04,340080,190577720,2161830,Autres sections NACE 17,#AAAAAA,340 080 demandes,190 577 720 heures,2 161 830 salariés
-2020-05,323595,106961895,1949200,Autres sections NACE 17,#AAAAAA,323 595 demandes,106 961 895 heures,1 949 200 salariés
-2020-06,144410,49753695,910200,Autres sections NACE 17,#AAAAAA,144 410 demandes,49 753 695 heures,910 200 salariés
-2020-07,78195,25833115,486865,Autres sections NACE 17,#AAAAAA,78 195 demandes,25 833 115 heures,486 865 salariés
-2020-08,45485,12634445,267060,Autres sections NACE 17,#AAAAAA,45 485 demandes,12 634 445 heures,267 060 salariés
-2020-09,39970,13267350,250830,Autres sections NACE 17,#AAAAAA,39 970 demandes,13 267 350 heures,250 830 salariés
-2020-10,51550,10331080,225430,Autres sections NACE 17,#AAAAAA,51 550 demandes,10 331 080 heures,225 430 salariés
+2020-03,239975,64189270,1245975,Commerce,#006064,239 975 demandes,64 189 270 heures,1 245 975 salariés
+2020-04,270585,167980410,1536995,Commerce,#006064,270 585 demandes,167 980 410 heures,1 536 995 salariés
+2020-05,249840,70109855,1259520,Commerce,#006064,249 840 demandes,70 109 855 heures,1 259 520 salariés
+2020-06,96865,21853655,380570,Commerce,#006064,96 865 demandes,21 853 655 heures,380 570 salariés
+2020-07,47240,10044130,172540,Commerce,#006064,47 240 demandes,10 044 130 heures,172 540 salariés
+2020-08,26090,4962635,91740,Commerce,#006064,26 090 demandes,4 962 635 heures,91 740 salariés
+2020-09,24445,5220085,90455,Commerce,#006064,24 445 demandes,5 220 085 heures,90 455 salariés
+2020-10,57350,6093415,201000,Commerce,#006064,57 350 demandes,6 093 415 heures,201 000 salariés
+2020-11,113330,37687535,494610,Commerce,#006064,113 330 demandes,37 687 535 heures,494 610 salariés
+2020-03,132120,45236215,1115165,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,132 120 demandes,45 236 215 heures,1 115 165 salariés
+2020-04,160610,114727255,1352005,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,160 610 demandes,114 727 255 heures,1 352 005 salariés
+2020-05,145815,64665200,1109760,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,145 815 demandes,64 665 200 heures,1 109 760 salariés
+2020-06,75065,33594420,521175,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,75 065 demandes,33 594 420 heures,521 175 salariés
+2020-07,47725,20861320,318945,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,47 725 demandes,20 861 320 heures,318 945 salariés
+2020-08,32715,11458055,203400,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,32 715 demandes,11 458 055 heures,203 400 salariés
+2020-09,31085,13213740,200565,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,31 085 demandes,13 213 740 heures,200 565 salariés
+2020-10,28560,10855040,179305,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,28 560 demandes,10 855 040 heures,179 305 salariés
+2020-11,43225,17497280,256795,Act. scientif. et tech. ; services admin. et de soutien,#FF8F00,43 225 demandes,17 497 280 heures,256 795 salariés
+2020-03,143200,46959095,847030,Hébergement et restauration,#388E3C,143 200 demandes,46 959 095 heures,847 030 salariés
+2020-04,151910,114685315,932960,Hébergement et restauration,#388E3C,151 910 demandes,114 685 315 heures,932 960 salariés
+2020-05,144085,83948835,863590,Hébergement et restauration,#388E3C,144 085 demandes,83 948 835 heures,863 590 salariés
+2020-06,98505,41013335,558955,Hébergement et restauration,#388E3C,98 505 demandes,41 013 335 heures,558 955 salariés
+2020-07,69270,25832050,351285,Hébergement et restauration,#388E3C,69 270 demandes,25 832 050 heures,351 285 salariés
+2020-08,49750,15863045,238540,Hébergement et restauration,#388E3C,49 750 demandes,15 863 045 heures,238 540 salariés
+2020-09,57250,17761120,277445,Hébergement et restauration,#388E3C,57 250 demandes,17 761 120 heures,277 445 salariés
+2020-10,95715,23932590,483735,Hébergement et restauration,#388E3C,95 715 demandes,23 932 590 heures,483 735 salariés
+2020-11,122010,66033365,667970,Hébergement et restauration,#388E3C,122 010 demandes,66 033 365 heures,667 970 salariés
+2020-03,149050,45200595,888100,Construction,#039BE5,149 050 demandes,45 200 595 heures,888 100 salariés
+2020-04,159200,108621320,1049625,Construction,#039BE5,159 200 demandes,108 621 320 heures,1 049 625 salariés
+2020-05,115425,33308235,559585,Construction,#039BE5,115 425 demandes,33 308 235 heures,559 585 salariés
+2020-06,32925,8106195,108125,Construction,#039BE5,32 925 demandes,8 106 195 heures,108 125 salariés
+2020-07,14790,3686960,44170,Construction,#039BE5,14 790 demandes,3 686 960 heures,44 170 salariés
+2020-08,7250,1716190,20740,Construction,#039BE5,7 250 demandes,1 716 190 heures,20 740 salariés
+2020-09,6830,1622800,21035,Construction,#039BE5,6 830 demandes,1 622 800 heures,21 035 salariés
+2020-10,5760,1343040,17205,Construction,#039BE5,5 760 demandes,1 343 040 heures,17 205 salariés
+2020-11,10900,2591800,29715,Construction,#039BE5,10 900 demandes,2 591 800 heures,29 715 salariés
+2020-03,43955,24029685,535140,Fabrication d'autres produits indus.,#5C6BC0,43 955 demandes,24 029 685 heures,535 140 salariés
+2020-04,50220,60733055,682640,Fabrication d'autres produits indus.,#5C6BC0,50 220 demandes,60 733 055 heures,682 640 salariés
+2020-05,45705,28830340,521495,Fabrication d'autres produits indus.,#5C6BC0,45 705 demandes,28 830 340 heures,521 495 salariés
+2020-06,24665,14220175,283140,Fabrication d'autres produits indus.,#5C6BC0,24 665 demandes,14 220 175 heures,283 140 salariés
+2020-07,15805,8451920,181670,Fabrication d'autres produits indus.,#5C6BC0,15 805 demandes,8 451 920 heures,181 670 salariés
+2020-08,9145,3140645,87980,Fabrication d'autres produits indus.,#5C6BC0,9 145 demandes,3 140 645 heures,87 980 salariés
+2020-09,10505,5459990,125090,Fabrication d'autres produits indus.,#5C6BC0,10 505 demandes,5 459 990 heures,125 090 salariés
+2020-10,9295,4140360,98870,Fabrication d'autres produits indus.,#5C6BC0,9 295 demandes,4 140 360 heures,98 870 salariés
+2020-11,13085,5142555,104850,Fabrication d'autres produits indus.,#5C6BC0,13 085 demandes,5 142 555 heures,104 850 salariés
+2020-03,211040,67083210,1617630,Autres sections NACE 17,#AAAAAA,211 040 demandes,67 083 210 heures,1 617 630 salariés
+2020-04,258295,188744905,2240705,Autres sections NACE 17,#AAAAAA,258 295 demandes,188 744 905 heures,2 240 705 salariés
+2020-05,245210,110237640,1993115,Autres sections NACE 17,#AAAAAA,245 210 demandes,110 237 640 heures,1 993 115 salariés
+2020-06,112395,52785770,935955,Autres sections NACE 17,#AAAAAA,112 395 demandes,52 785 770 heures,935 955 salariés
+2020-07,63970,29075375,529865,Autres sections NACE 17,#AAAAAA,63 970 demandes,29 075 375 heures,529 865 salariés
+2020-08,38815,15709710,316980,Autres sections NACE 17,#AAAAAA,38 815 demandes,15 709 710 heures,316 980 salariés
+2020-09,33905,17092160,316320,Autres sections NACE 17,#AAAAAA,33 905 demandes,17 092 160 heures,316 320 salariés
+2020-10,34780,13480285,269175,Autres sections NACE 17,#AAAAAA,34 780 demandes,13 480 285 heures,269 175 salariés
+2020-11,73780,24872835,381490,Autres sections NACE 17,#AAAAAA,73 780 demandes,24 872 835 heures,381 490 salariés
