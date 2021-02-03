@@ -1,605 +1,605 @@
 libelle_classe_effectif,montant,nombre,nombre_siren,dep,color,montant_fr,nombre_fr,nombre_siren_fr
-0 salarié,4548431.00,2123,688,01,#8E24AA,"4,5 M€",2 123 aides,688 entreprises
-1 ou 2 salariés,25013210.94,9447,2931,01,#7E57C2,"25,0 M€",9 447 aides,2 931 entreprises
-3 à 5 salariés,12111686.96,3598,1117,01,#5C6BC0,"12,1 M€",3 598 aides,1 117 entreprises
-6 à 9 salariés,4062089.00,1001,327,01,#1E88E5,"4,1 M€",1 001 aides,327 entreprises
-Etablissement non employeur,2994479.00,1533,658,01,#D81B60,"3,0 M€",1 533 aides,658 entreprises
-Autres Classes d'Effectifs,3202115.00,426,175,01,#AAAAAA,"3,2 M€",426 aides,175 entreprises
-0 salarié,4215962.00,1899,587,02,#8E24AA,"4,2 M€",1 899 aides,587 entreprises
-1 ou 2 salariés,15410775.99,5799,1865,02,#7E57C2,"15,4 M€",5 799 aides,1 865 entreprises
-3 à 5 salariés,7361029.47,2269,775,02,#5C6BC0,"7,4 M€",2 269 aides,775 entreprises
-6 à 9 salariés,2055281.00,589,225,02,#1E88E5,"2,1 M€",589 aides,225 entreprises
-Etablissement non employeur,4535795.00,2329,755,02,#D81B60,"4,5 M€",2 329 aides,755 entreprises
-Autres Classes d'Effectifs,2247241.00,257,106,02,#AAAAAA,"2,2 M€",257 aides,106 entreprises
-0 salarié,4087012.00,1909,574,03,#8E24AA,"4,1 M€",1 909 aides,574 entreprises
-1 ou 2 salariés,14482995.09,5831,1780,03,#7E57C2,"14,5 M€",5 831 aides,1 780 entreprises
-3 à 5 salariés,5051898.82,1570,547,03,#5C6BC0,"5,1 M€",1 570 aides,547 entreprises
-6 à 9 salariés,1695091.00,447,161,03,#1E88E5,"1,7 M€",447 aides,161 entreprises
-Etablissement non employeur,4459110.00,2993,1060,03,#D81B60,"4,5 M€",2 993 aides,1 060 entreprises
-Autres Classes d'Effectifs,1835168.00,209,90,03,#AAAAAA,"1,8 M€",209 aides,90 entreprises
-0 salarié,5758882.00,2489,710,04,#8E24AA,"5,8 M€",2 489 aides,710 entreprises
-1 ou 2 salariés,12459577.00,4665,1370,04,#7E57C2,"12,5 M€",4 665 aides,1 370 entreprises
-3 à 5 salariés,5195229.87,1463,447,04,#5C6BC0,"5,2 M€",1 463 aides,447 entreprises
-6 à 9 salariés,1284126.00,331,118,04,#1E88E5,"1,3 M€",331 aides,118 entreprises
-Etablissement non employeur,2836815.00,1819,544,04,#D81B60,"2,8 M€",1 819 aides,544 entreprises
-Autres Classes d'Effectifs,1285106.00,145,57,04,#AAAAAA,"1,3 M€",145 aides,57 entreprises
-0 salarié,5688964.00,2266,637,05,#8E24AA,"5,7 M€",2 266 aides,637 entreprises
-1 ou 2 salariés,14127104.79,4759,1375,05,#7E57C2,"14,1 M€",4 759 aides,1 375 entreprises
-3 à 5 salariés,7893059.20,2032,585,05,#5C6BC0,"7,9 M€",2 032 aides,585 entreprises
-6 à 9 salariés,3497308.00,681,230,05,#1E88E5,"3,5 M€",681 aides,230 entreprises
-Etablissement non employeur,5869026.00,3481,944,05,#D81B60,"5,9 M€",3 481 aides,944 entreprises
-Autres Classes d'Effectifs,2688388.00,365,131,05,#AAAAAA,"2,7 M€",365 aides,131 entreprises
-0 salarié,34500213.14,14907,3944,06,#8E24AA,"34,5 M€",14 907 aides,3 944 entreprises
-1 ou 2 salariés,92578060.66,35090,9796,06,#7E57C2,"92,6 M€",35 090 aides,9 796 entreprises
-3 à 5 salariés,40720271.45,11456,3308,06,#5C6BC0,"40,7 M€",11 456 aides,3 308 entreprises
-6 à 9 salariés,18473085.18,3904,1166,06,#1E88E5,"18,5 M€",3 904 aides,1 166 entreprises
-Etablissement non employeur,19285664.16,11629,3361,06,#D81B60,"19,3 M€",11 629 aides,3 361 entreprises
-Autres Classes d'Effectifs,19352479.00,2037,801,06,#AAAAAA,"19,4 M€",2 037 aides,801 entreprises
-0 salarié,10067399.00,4197,1162,07,#8E24AA,"10,1 M€",4 197 aides,1 162 entreprises
-1 ou 2 salariés,17503925.11,6810,2061,07,#7E57C2,"17,5 M€",6 810 aides,2 061 entreprises
-3 à 5 salariés,5860699.00,1821,634,07,#5C6BC0,"5,9 M€",1 821 aides,634 entreprises
-6 à 9 salariés,1626688.00,435,146,07,#1E88E5,"1,6 M€",435 aides,146 entreprises
-Etablissement non employeur,4176958.00,2651,821,07,#D81B60,"4,2 M€",2 651 aides,821 entreprises
-Autres Classes d'Effectifs,1490035.29,147,62,07,#AAAAAA,"1,5 M€",147 aides,62 entreprises
-0 salarié,2412771.00,1175,352,08,#8E24AA,"2,4 M€",1 175 aides,352 entreprises
-1 ou 2 salariés,8851197.72,3617,1146,08,#7E57C2,"8,9 M€",3 617 aides,1 146 entreprises
-3 à 5 salariés,3850136.26,1225,420,08,#5C6BC0,"3,9 M€",1 225 aides,420 entreprises
-6 à 9 salariés,1281204.71,376,138,08,#1E88E5,"1,3 M€",376 aides,138 entreprises
-Etablissement non employeur,2427290.00,1510,446,08,#D81B60,"2,4 M€",1 510 aides,446 entreprises
-Autres Classes d'Effectifs,1149495.00,163,60,08,#AAAAAA,"1,1 M€",163 aides,60 entreprises
-0 salarié,1509488.00,785,242,09,#8E24AA,"1,5 M€",785 aides,242 entreprises
-1 ou 2 salariés,7412438.00,2918,895,09,#7E57C2,"7,4 M€",2 918 aides,895 entreprises
-3 à 5 salariés,3569411.00,1085,331,09,#5C6BC0,"3,6 M€",1 085 aides,331 entreprises
-6 à 9 salariés,1010290.00,297,96,09,#1E88E5,"1,0 M€",297 aides,96 entreprises
-Etablissement non employeur,1875018.00,1276,435,09,#D81B60,"1,9 M€",1 276 aides,435 entreprises
-Autres Classes d'Effectifs,518911.00,102,44,09,#AAAAAA,"0,5 M€",102 aides,44 entreprises
-0 salarié,4085599.00,1668,598,10,#8E24AA,"4,1 M€",1 668 aides,598 entreprises
-1 ou 2 salariés,14226273.32,4765,1651,10,#7E57C2,"14,2 M€",4 765 aides,1 651 entreprises
-3 à 5 salariés,6138548.92,1610,580,10,#5C6BC0,"6,1 M€",1 610 aides,580 entreprises
-6 à 9 salariés,2025871.00,459,172,10,#1E88E5,"2,0 M€",459 aides,172 entreprises
-Etablissement non employeur,5082814.00,2027,844,10,#D81B60,"5,1 M€",2 027 aides,844 entreprises
-Autres Classes d'Effectifs,1598808.00,196,83,10,#AAAAAA,"1,6 M€",196 aides,83 entreprises
-0 salarié,10536432.89,4577,1253,11,#8E24AA,"10,5 M€",4 577 aides,1 253 entreprises
-1 ou 2 salariés,19840491.53,7943,2409,11,#7E57C2,"19,8 M€",7 943 aides,2 409 entreprises
-3 à 5 salariés,7843259.92,2512,833,11,#5C6BC0,"7,8 M€",2 512 aides,833 entreprises
-6 à 9 salariés,3189919.84,825,267,11,#1E88E5,"3,2 M€",825 aides,267 entreprises
-Etablissement non employeur,4215108.00,2709,821,11,#D81B60,"4,2 M€",2 709 aides,821 entreprises
-Autres Classes d'Effectifs,2012325.00,274,106,11,#AAAAAA,"2,0 M€",274 aides,106 entreprises
-0 salarié,6514821.00,2915,836,12,#8E24AA,"6,5 M€",2 915 aides,836 entreprises
-1 ou 2 salariés,14781494.93,5847,1859,12,#7E57C2,"14,8 M€",5 847 aides,1 859 entreprises
-3 à 5 salariés,5783371.19,1780,599,12,#5C6BC0,"5,8 M€",1 780 aides,599 entreprises
-6 à 9 salariés,2033818.71,567,192,12,#1E88E5,"2,0 M€",567 aides,192 entreprises
-Etablissement non employeur,4526384.00,2966,1032,12,#D81B60,"4,5 M€",2 966 aides,1 032 entreprises
-Autres Classes d'Effectifs,1498690.00,238,98,12,#AAAAAA,"1,5 M€",238 aides,98 entreprises
-0 salarié,39396754.51,17540,4908,13,#8E24AA,"39,4 M€",17 540 aides,4 908 entreprises
-1 ou 2 salariés,123365016.74,48126,13652,13,#7E57C2,"123,4 M€",48 126 aides,13 652 entreprises
-3 à 5 salariés,56643514.50,16538,4813,13,#5C6BC0,"56,6 M€",16 538 aides,4 813 entreprises
-6 à 9 salariés,22792894.17,5153,1548,13,#1E88E5,"22,8 M€",5 153 aides,1 548 entreprises
-Etablissement non employeur,22577220.00,14340,4215,13,#D81B60,"22,6 M€",14 340 aides,4 215 entreprises
-Autres Classes d'Effectifs,21590095.00,2601,921,13,#AAAAAA,"21,6 M€",2 601 aides,921 entreprises
-0 salarié,12626938.00,5151,1450,14,#8E24AA,"12,6 M€",5 151 aides,1 450 entreprises
-1 ou 2 salariés,32939757.68,11967,3693,14,#7E57C2,"32,9 M€",11 967 aides,3 693 entreprises
-3 à 5 salariés,15952146.45,4377,1391,14,#5C6BC0,"16,0 M€",4 377 aides,1 391 entreprises
-6 à 9 salariés,7243314.16,1549,516,14,#1E88E5,"7,2 M€",1 549 aides,516 entreprises
-Etablissement non employeur,5802778.00,3544,1092,14,#D81B60,"5,8 M€",3 544 aides,1 092 entreprises
-Autres Classes d'Effectifs,6534754.00,736,301,14,#AAAAAA,"6,5 M€",736 aides,301 entreprises
-0 salarié,2413691.00,1129,338,15,#8E24AA,"2,4 M€",1 129 aides,338 entreprises
-1 ou 2 salariés,8308964.26,3161,1001,15,#7E57C2,"8,3 M€",3 161 aides,1 001 entreprises
-3 à 5 salariés,2873853.58,889,295,15,#5C6BC0,"2,9 M€",889 aides,295 entreprises
-6 à 9 salariés,802456.03,235,94,15,#1E88E5,"0,8 M€",235 aides,94 entreprises
-Etablissement non employeur,4693903.00,3010,1136,15,#D81B60,"4,7 M€",3 010 aides,1 136 entreprises
-Autres Classes d'Effectifs,727164.00,98,37,15,#AAAAAA,"0,7 M€",98 aides,37 entreprises
-0 salarié,3949065.00,1893,559,16,#8E24AA,"3,9 M€",1 893 aides,559 entreprises
-1 ou 2 salariés,12495610.12,4965,1626,16,#7E57C2,"12,5 M€",4 965 aides,1 626 entreprises
-3 à 5 salariés,5237930.49,1682,589,16,#5C6BC0,"5,2 M€",1 682 aides,589 entreprises
-6 à 9 salariés,2202658.00,572,197,16,#1E88E5,"2,2 M€",572 aides,197 entreprises
-Etablissement non employeur,2999847.00,1995,616,16,#D81B60,"3,0 M€",1 995 aides,616 entreprises
-Autres Classes d'Effectifs,1566843.00,205,88,16,#AAAAAA,"1,6 M€",205 aides,88 entreprises
-0 salarié,17052365.63,6977,2082,17,#8E24AA,"17,1 M€",6 977 aides,2 082 entreprises
-1 ou 2 salariés,33658276.37,12679,4192,17,#7E57C2,"33,7 M€",12 679 aides,4 192 entreprises
-3 à 5 salariés,14688896.61,4107,1434,17,#5C6BC0,"14,7 M€",4 107 aides,1 434 entreprises
-6 à 9 salariés,5511193.78,1248,470,17,#1E88E5,"5,5 M€",1 248 aides,470 entreprises
-Etablissement non employeur,6253917.00,3901,1315,17,#D81B60,"6,3 M€",3 901 aides,1 315 entreprises
-Autres Classes d'Effectifs,4836901.00,496,230,17,#AAAAAA,"4,8 M€",496 aides,230 entreprises
-0 salarié,3035510.00,1375,400,18,#8E24AA,"3,0 M€",1 375 aides,400 entreprises
-1 ou 2 salariés,9914649.16,3938,1249,18,#7E57C2,"9,9 M€",3 938 aides,1 249 entreprises
-3 à 5 salariés,4184816.00,1336,460,18,#5C6BC0,"4,2 M€",1 336 aides,460 entreprises
-6 à 9 salariés,1750271.43,421,150,18,#1E88E5,"1,8 M€",421 aides,150 entreprises
-Etablissement non employeur,2707651.00,1696,567,18,#D81B60,"2,7 M€",1 696 aides,567 entreprises
-Autres Classes d'Effectifs,1197667.00,152,61,18,#AAAAAA,"1,2 M€",152 aides,61 entreprises
-0 salarié,3918942.00,1722,501,19,#8E24AA,"3,9 M€",1 722 aides,501 entreprises
-1 ou 2 salariés,10525666.66,4080,1319,19,#7E57C2,"10,5 M€",4 080 aides,1 319 entreprises
-3 à 5 salariés,4097389.00,1300,443,19,#5C6BC0,"4,1 M€",1 300 aides,443 entreprises
-6 à 9 salariés,1743895.00,423,151,19,#1E88E5,"1,7 M€",423 aides,151 entreprises
-Etablissement non employeur,3199464.00,2013,720,19,#D81B60,"3,2 M€",2 013 aides,720 entreprises
-Autres Classes d'Effectifs,1343793.00,174,62,19,#AAAAAA,"1,3 M€",174 aides,62 entreprises
-0 salarié,6971849.11,3114,936,21,#8E24AA,"7,0 M€",3 114 aides,936 entreprises
-1 ou 2 salariés,22179524.52,8113,2470,21,#7E57C2,"22,2 M€",8 113 aides,2 470 entreprises
-3 à 5 salariés,10940164.93,3141,981,21,#5C6BC0,"10,9 M€",3 141 aides,981 entreprises
-6 à 9 salariés,4868997.55,1055,321,21,#1E88E5,"4,9 M€",1 055 aides,321 entreprises
-Etablissement non employeur,4772461.05,2932,937,21,#D81B60,"4,8 M€",2 932 aides,937 entreprises
-Autres Classes d'Effectifs,4770308.00,525,219,21,#AAAAAA,"4,8 M€",525 aides,219 entreprises
-0 salarié,10657308.92,4322,1236,22,#8E24AA,"10,7 M€",4 322 aides,1 236 entreprises
-1 ou 2 salariés,27672910.05,9959,3040,22,#7E57C2,"27,7 M€",9 959 aides,3 040 entreprises
-3 à 5 salariés,10207688.52,2977,990,22,#5C6BC0,"10,2 M€",2 977 aides,990 entreprises
-6 à 9 salariés,3688998.00,842,328,22,#1E88E5,"3,7 M€",842 aides,328 entreprises
-Etablissement non employeur,5433810.00,3476,1125,22,#D81B60,"5,4 M€",3 476 aides,1 125 entreprises
-Autres Classes d'Effectifs,2902222.00,285,132,22,#AAAAAA,"2,9 M€",285 aides,132 entreprises
-0 salarié,1203219.00,605,165,23,#8E24AA,"1,2 M€",605 aides,165 entreprises
-1 ou 2 salariés,3892558.27,1659,533,23,#7E57C2,"3,9 M€",1 659 aides,533 entreprises
-3 à 5 salariés,1676851.63,566,181,23,#5C6BC0,"1,7 M€",566 aides,181 entreprises
+0 salarié,4612378.00,2139,689,01,#8E24AA,"4,6 M€",2 139 aides,689 entreprises
+1 ou 2 salariés,25321559.94,9509,2939,01,#7E57C2,"25,3 M€",9 509 aides,2 939 entreprises
+3 à 5 salariés,12358697.96,3634,1120,01,#5C6BC0,"12,4 M€",3 634 aides,1 120 entreprises
+6 à 9 salariés,4194325.00,1010,329,01,#1E88E5,"4,2 M€",1 010 aides,329 entreprises
+Etablissement non employeur,3043407.00,1549,663,01,#D81B60,"3,0 M€",1 549 aides,663 entreprises
+Autres Classes d'Effectifs,3374461.00,438,180,01,#AAAAAA,"3,4 M€",438 aides,180 entreprises
+0 salarié,4280112.00,1919,592,02,#8E24AA,"4,3 M€",1 919 aides,592 entreprises
+1 ou 2 salariés,15574065.99,5826,1874,02,#7E57C2,"15,6 M€",5 826 aides,1 874 entreprises
+3 à 5 salariés,7477347.47,2284,777,02,#5C6BC0,"7,5 M€",2 284 aides,777 entreprises
+6 à 9 salariés,2066781.00,592,226,02,#1E88E5,"2,1 M€",592 aides,226 entreprises
+Etablissement non employeur,4597233.00,2350,760,02,#D81B60,"4,6 M€",2 350 aides,760 entreprises
+Autres Classes d'Effectifs,2280622.00,262,108,02,#AAAAAA,"2,3 M€",262 aides,108 entreprises
+0 salarié,4162364.00,1931,574,03,#8E24AA,"4,2 M€",1 931 aides,574 entreprises
+1 ou 2 salariés,14720006.09,5889,1794,03,#7E57C2,"14,7 M€",5 889 aides,1 794 entreprises
+3 à 5 salariés,5115519.82,1580,549,03,#5C6BC0,"5,1 M€",1 580 aides,549 entreprises
+6 à 9 salariés,1741007.00,452,163,03,#1E88E5,"1,7 M€",452 aides,163 entreprises
+Etablissement non employeur,4544680.00,3046,1078,03,#D81B60,"4,5 M€",3 046 aides,1 078 entreprises
+Autres Classes d'Effectifs,1894426.00,212,91,03,#AAAAAA,"1,9 M€",212 aides,91 entreprises
+0 salarié,5912107.00,2519,711,04,#8E24AA,"5,9 M€",2 519 aides,711 entreprises
+1 ou 2 salariés,12680008.00,4707,1377,04,#7E57C2,"12,7 M€",4 707 aides,1 377 entreprises
+3 à 5 salariés,5384392.87,1485,450,04,#5C6BC0,"5,4 M€",1 485 aides,450 entreprises
+6 à 9 salariés,1338414.00,335,118,04,#1E88E5,"1,3 M€",335 aides,118 entreprises
+Etablissement non employeur,2872371.00,1834,545,04,#D81B60,"2,9 M€",1 834 aides,545 entreprises
+Autres Classes d'Effectifs,1325444.00,147,57,04,#AAAAAA,"1,3 M€",147 aides,57 entreprises
+0 salarié,5839729.00,2297,641,05,#8E24AA,"5,8 M€",2 297 aides,641 entreprises
+1 ou 2 salariés,14523986.79,4809,1380,05,#7E57C2,"14,5 M€",4 809 aides,1 380 entreprises
+3 à 5 salariés,8174488.20,2053,589,05,#5C6BC0,"8,2 M€",2 053 aides,589 entreprises
+6 à 9 salariés,3580729.00,689,231,05,#1E88E5,"3,6 M€",689 aides,231 entreprises
+Etablissement non employeur,5965018.00,3521,948,05,#D81B60,"6,0 M€",3 521 aides,948 entreprises
+Autres Classes d'Effectifs,2742704.00,369,133,05,#AAAAAA,"2,7 M€",369 aides,133 entreprises
+0 salarié,34990298.14,15022,3955,06,#8E24AA,"35,0 M€",15 022 aides,3 955 entreprises
+1 ou 2 salariés,93988259.66,35354,9828,06,#7E57C2,"94,0 M€",35 354 aides,9 828 entreprises
+3 à 5 salariés,41514029.45,11554,3323,06,#5C6BC0,"41,5 M€",11 554 aides,3 323 entreprises
+6 à 9 salariés,18950573.18,3941,1169,06,#1E88E5,"19,0 M€",3 941 aides,1 169 entreprises
+Etablissement non employeur,19465585.16,11721,3367,06,#D81B60,"19,5 M€",11 721 aides,3 367 entreprises
+Autres Classes d'Effectifs,21039224.00,2084,812,06,#AAAAAA,"21,0 M€",2 084 aides,812 entreprises
+0 salarié,10244388.00,4225,1164,07,#8E24AA,"10,2 M€",4 225 aides,1 164 entreprises
+1 ou 2 salariés,17916551.11,6858,2066,07,#7E57C2,"17,9 M€",6 858 aides,2 066 entreprises
+3 à 5 salariés,5962356.00,1838,636,07,#5C6BC0,"6,0 M€",1 838 aides,636 entreprises
+6 à 9 salariés,1659056.00,439,149,07,#1E88E5,"1,7 M€",439 aides,149 entreprises
+Etablissement non employeur,4213122.00,2661,821,07,#D81B60,"4,2 M€",2 661 aides,821 entreprises
+Autres Classes d'Effectifs,1743199.29,152,64,07,#AAAAAA,"1,7 M€",152 aides,64 entreprises
+0 salarié,2457999.00,1188,356,08,#8E24AA,"2,5 M€",1 188 aides,356 entreprises
+1 ou 2 salariés,8940035.72,3647,1152,08,#7E57C2,"8,9 M€",3 647 aides,1 152 entreprises
+3 à 5 salariés,3926988.26,1235,424,08,#5C6BC0,"3,9 M€",1 235 aides,424 entreprises
+6 à 9 salariés,1284204.71,378,138,08,#1E88E5,"1,3 M€",378 aides,138 entreprises
+Etablissement non employeur,2449272.00,1518,446,08,#D81B60,"2,4 M€",1 518 aides,446 entreprises
+Autres Classes d'Effectifs,1186477.00,164,60,08,#AAAAAA,"1,2 M€",164 aides,60 entreprises
+0 salarié,1519488.00,786,242,09,#8E24AA,"1,5 M€",786 aides,242 entreprises
+1 ou 2 salariés,7464527.00,2933,898,09,#7E57C2,"7,5 M€",2 933 aides,898 entreprises
+3 à 5 salariés,3605759.00,1092,331,09,#5C6BC0,"3,6 M€",1 092 aides,331 entreprises
+6 à 9 salariés,1033290.00,301,97,09,#1E88E5,"1,0 M€",301 aides,97 entreprises
+Etablissement non employeur,1919321.00,1294,436,09,#D81B60,"1,9 M€",1 294 aides,436 entreprises
+Autres Classes d'Effectifs,739528.00,110,45,09,#AAAAAA,"0,7 M€",110 aides,45 entreprises
+0 salarié,4117173.00,1682,602,10,#8E24AA,"4,1 M€",1 682 aides,602 entreprises
+1 ou 2 salariés,14499837.32,4814,1659,10,#7E57C2,"14,5 M€",4 814 aides,1 659 entreprises
+3 à 5 salariés,6222637.92,1621,582,10,#5C6BC0,"6,2 M€",1 621 aides,582 entreprises
+6 à 9 salariés,2047271.00,463,175,10,#1E88E5,"2,0 M€",463 aides,175 entreprises
+Etablissement non employeur,5182842.00,2055,857,10,#D81B60,"5,2 M€",2 055 aides,857 entreprises
+Autres Classes d'Effectifs,1665171.00,202,85,10,#AAAAAA,"1,7 M€",202 aides,85 entreprises
+0 salarié,10719265.89,4614,1255,11,#8E24AA,"10,7 M€",4 614 aides,1 255 entreprises
+1 ou 2 salariés,20150757.53,7996,2417,11,#7E57C2,"20,2 M€",7 996 aides,2 417 entreprises
+3 à 5 salariés,7988040.92,2529,834,11,#5C6BC0,"8,0 M€",2 529 aides,834 entreprises
+6 à 9 salariés,3286568.84,835,268,11,#1E88E5,"3,3 M€",835 aides,268 entreprises
+Etablissement non employeur,4233788.00,2723,822,11,#D81B60,"4,2 M€",2 723 aides,822 entreprises
+Autres Classes d'Effectifs,2211223.00,281,112,11,#AAAAAA,"2,2 M€",281 aides,112 entreprises
+0 salarié,6604209.00,2933,837,12,#8E24AA,"6,6 M€",2 933 aides,837 entreprises
+1 ou 2 salariés,14968783.93,5880,1865,12,#7E57C2,"15,0 M€",5 880 aides,1 865 entreprises
+3 à 5 salariés,5866597.19,1791,601,12,#5C6BC0,"5,9 M€",1 791 aides,601 entreprises
+6 à 9 salariés,2134126.16,576,194,12,#1E88E5,"2,1 M€",576 aides,194 entreprises
+Etablissement non employeur,4582101.00,2991,1035,12,#D81B60,"4,6 M€",2 991 aides,1 035 entreprises
+Autres Classes d'Effectifs,1554193.00,244,101,12,#AAAAAA,"1,6 M€",244 aides,101 entreprises
+0 salarié,39885979.51,17671,4921,13,#8E24AA,"39,9 M€",17 671 aides,4 921 entreprises
+1 ou 2 salariés,125288641.74,48490,13689,13,#7E57C2,"125,3 M€",48 490 aides,13 689 entreprises
+3 à 5 salariés,57699273.50,16677,4831,13,#5C6BC0,"57,7 M€",16 677 aides,4 831 entreprises
+6 à 9 salariés,23469746.17,5223,1563,13,#1E88E5,"23,5 M€",5 223 aides,1 563 entreprises
+Etablissement non employeur,22734542.00,14410,4224,13,#D81B60,"22,7 M€",14 410 aides,4 224 entreprises
+Autres Classes d'Effectifs,23516336.00,2655,934,13,#AAAAAA,"23,5 M€",2 655 aides,934 entreprises
+0 salarié,12784740.00,5179,1453,14,#8E24AA,"12,8 M€",5 179 aides,1 453 entreprises
+1 ou 2 salariés,33314533.68,12035,3703,14,#7E57C2,"33,3 M€",12 035 aides,3 703 entreprises
+3 à 5 salariés,16169332.45,4404,1398,14,#5C6BC0,"16,2 M€",4 404 aides,1 398 entreprises
+6 à 9 salariés,7498516.16,1567,522,14,#1E88E5,"7,5 M€",1 567 aides,522 entreprises
+Etablissement non employeur,5841179.00,3563,1095,14,#D81B60,"5,8 M€",3 563 aides,1 095 entreprises
+Autres Classes d'Effectifs,6856584.00,751,304,14,#AAAAAA,"6,9 M€",751 aides,304 entreprises
+0 salarié,2448386.00,1141,339,15,#8E24AA,"2,4 M€",1 141 aides,339 entreprises
+1 ou 2 salariés,8407224.26,3185,1005,15,#7E57C2,"8,4 M€",3 185 aides,1 005 entreprises
+3 à 5 salariés,2964748.58,899,295,15,#5C6BC0,"3,0 M€",899 aides,295 entreprises
+6 à 9 salariés,805456.03,237,95,15,#1E88E5,"0,8 M€",237 aides,95 entreprises
+Etablissement non employeur,4746638.00,3046,1146,15,#D81B60,"4,7 M€",3 046 aides,1 146 entreprises
+Autres Classes d'Effectifs,741782.00,99,37,15,#AAAAAA,"0,7 M€",99 aides,37 entreprises
+0 salarié,3991420.00,1903,560,16,#8E24AA,"4,0 M€",1 903 aides,560 entreprises
+1 ou 2 salariés,12628929.12,4993,1630,16,#7E57C2,"12,6 M€",4 993 aides,1 630 entreprises
+3 à 5 salariés,5330855.49,1695,590,16,#5C6BC0,"5,3 M€",1 695 aides,590 entreprises
+6 à 9 salariés,2279734.00,579,199,16,#1E88E5,"2,3 M€",579 aides,199 entreprises
+Etablissement non employeur,3026834.00,2006,620,16,#D81B60,"3,0 M€",2 006 aides,620 entreprises
+Autres Classes d'Effectifs,1610886.00,209,91,16,#AAAAAA,"1,6 M€",209 aides,91 entreprises
+0 salarié,17450652.63,7052,2087,17,#8E24AA,"17,5 M€",7 052 aides,2 087 entreprises
+1 ou 2 salariés,34183972.37,12767,4203,17,#7E57C2,"34,2 M€",12 767 aides,4 203 entreprises
+3 à 5 salariés,14994925.61,4143,1441,17,#5C6BC0,"15,0 M€",4 143 aides,1 441 entreprises
+6 à 9 salariés,5746671.78,1267,476,17,#1E88E5,"5,7 M€",1 267 aides,476 entreprises
+Etablissement non employeur,6302269.00,3929,1318,17,#D81B60,"6,3 M€",3 929 aides,1 318 entreprises
+Autres Classes d'Effectifs,5346529.00,514,237,17,#AAAAAA,"5,3 M€",514 aides,237 entreprises
+0 salarié,3079045.00,1383,402,18,#8E24AA,"3,1 M€",1 383 aides,402 entreprises
+1 ou 2 salariés,10070443.16,3965,1254,18,#7E57C2,"10,1 M€",3 965 aides,1 254 entreprises
+3 à 5 salariés,4250274.00,1344,461,18,#5C6BC0,"4,3 M€",1 344 aides,461 entreprises
+6 à 9 salariés,1827176.43,428,151,18,#1E88E5,"1,8 M€",428 aides,151 entreprises
+Etablissement non employeur,2737595.00,1708,568,18,#D81B60,"2,7 M€",1 708 aides,568 entreprises
+Autres Classes d'Effectifs,1216789.00,154,62,18,#AAAAAA,"1,2 M€",154 aides,62 entreprises
+0 salarié,4056045.00,1749,505,19,#8E24AA,"4,1 M€",1 749 aides,505 entreprises
+1 ou 2 salariés,10709351.66,4117,1323,19,#7E57C2,"10,7 M€",4 117 aides,1 323 entreprises
+3 à 5 salariés,4197450.00,1312,444,19,#5C6BC0,"4,2 M€",1 312 aides,444 entreprises
+6 à 9 salariés,1834021.00,435,154,19,#1E88E5,"1,8 M€",435 aides,154 entreprises
+Etablissement non employeur,3262689.00,2047,729,19,#D81B60,"3,3 M€",2 047 aides,729 entreprises
+Autres Classes d'Effectifs,1558009.00,183,70,19,#AAAAAA,"1,6 M€",183 aides,70 entreprises
+0 salarié,7077322.11,3138,938,21,#8E24AA,"7,1 M€",3 138 aides,938 entreprises
+1 ou 2 salariés,22375211.52,8146,2478,21,#7E57C2,"22,4 M€",8 146 aides,2 478 entreprises
+3 à 5 salariés,11085769.93,3159,984,21,#5C6BC0,"11,1 M€",3 159 aides,984 entreprises
+6 à 9 salariés,5017197.55,1066,325,21,#1E88E5,"5,0 M€",1 066 aides,325 entreprises
+Etablissement non employeur,4816671.05,2945,941,21,#D81B60,"4,8 M€",2 945 aides,941 entreprises
+Autres Classes d'Effectifs,5008343.00,532,221,21,#AAAAAA,"5,0 M€",532 aides,221 entreprises
+0 salarié,10955892.92,4367,1239,22,#8E24AA,"11,0 M€",4 367 aides,1 239 entreprises
+1 ou 2 salariés,28237736.05,10042,3048,22,#7E57C2,"28,2 M€",10 042 aides,3 048 entreprises
+3 à 5 salariés,10480830.52,3003,995,22,#5C6BC0,"10,5 M€",3 003 aides,995 entreprises
+6 à 9 salariés,3810248.00,853,328,22,#1E88E5,"3,8 M€",853 aides,328 entreprises
+Etablissement non employeur,5523465.00,3520,1144,22,#D81B60,"5,5 M€",3 520 aides,1 144 entreprises
+Autres Classes d'Effectifs,2971072.00,289,134,22,#AAAAAA,"3,0 M€",289 aides,134 entreprises
+0 salarié,1243820.00,613,165,23,#8E24AA,"1,2 M€",613 aides,165 entreprises
+1 ou 2 salariés,3932530.27,1666,533,23,#7E57C2,"3,9 M€",1 666 aides,533 entreprises
+3 à 5 salariés,1694467.63,568,181,23,#5C6BC0,"1,7 M€",568 aides,181 entreprises
 6 à 9 salariés,404915.00,104,38,23,#1E88E5,"0,4 M€",104 aides,38 entreprises
-Etablissement non employeur,1341822.00,872,303,23,#D81B60,"1,3 M€",872 aides,303 entreprises
-Autres Classes d'Effectifs,303561.00,34,17,23,#AAAAAA,"0,3 M€",34 aides,17 entreprises
-0 salarié,10557168.28,4561,1247,24,#8E24AA,"10,6 M€",4 561 aides,1 247 entreprises
-1 ou 2 salariés,20967350.41,8309,2646,24,#7E57C2,"21,0 M€",8 309 aides,2 646 entreprises
-3 à 5 salariés,7672333.95,2442,832,24,#5C6BC0,"7,7 M€",2 442 aides,832 entreprises
-6 à 9 salariés,2519579.00,665,264,24,#1E88E5,"2,5 M€",665 aides,264 entreprises
-Etablissement non employeur,5075233.00,3368,1118,24,#D81B60,"5,1 M€",3 368 aides,1 118 entreprises
-Autres Classes d'Effectifs,1870469.07,279,123,24,#AAAAAA,"1,9 M€",279 aides,123 entreprises
-0 salarié,6312149.00,2782,804,25,#8E24AA,"6,3 M€",2 782 aides,804 entreprises
-1 ou 2 salariés,19264403.76,7287,2276,25,#7E57C2,"19,3 M€",7 287 aides,2 276 entreprises
-3 à 5 salariés,9760531.52,2769,854,25,#5C6BC0,"9,8 M€",2 769 aides,854 entreprises
-6 à 9 salariés,3841448.00,916,305,25,#1E88E5,"3,8 M€",916 aides,305 entreprises
-Etablissement non employeur,3654689.00,2266,710,25,#D81B60,"3,7 M€",2 266 aides,710 entreprises
-Autres Classes d'Effectifs,3290582.00,404,170,25,#AAAAAA,"3,3 M€",404 aides,170 entreprises
-0 salarié,11325958.00,5094,1495,26,#8E24AA,"11,3 M€",5 094 aides,1 495 entreprises
-1 ou 2 salariés,27425338.65,10440,3239,26,#7E57C2,"27,4 M€",10 440 aides,3 239 entreprises
-3 à 5 salariés,11103567.04,3389,1103,26,#5C6BC0,"11,1 M€",3 389 aides,1 103 entreprises
-6 à 9 salariés,3721282.00,927,329,26,#1E88E5,"3,7 M€",927 aides,329 entreprises
-Etablissement non employeur,5588262.00,3783,1130,26,#D81B60,"5,6 M€",3 783 aides,1 130 entreprises
-Autres Classes d'Effectifs,3594339.00,431,179,26,#AAAAAA,"3,6 M€",431 aides,179 entreprises
-0 salarié,6078038.32,2799,826,27,#8E24AA,"6,1 M€",2 799 aides,826 entreprises
-1 ou 2 salariés,19669162.56,7741,2464,27,#7E57C2,"19,7 M€",7 741 aides,2 464 entreprises
-3 à 5 salariés,8565252.25,2696,909,27,#5C6BC0,"8,6 M€",2 696 aides,909 entreprises
-6 à 9 salariés,2874824.00,773,273,27,#1E88E5,"2,9 M€",773 aides,273 entreprises
-Etablissement non employeur,3968401.00,2458,777,27,#D81B60,"4,0 M€",2 458 aides,777 entreprises
-Autres Classes d'Effectifs,2174432.08,256,108,27,#AAAAAA,"2,2 M€",256 aides,108 entreprises
-0 salarié,3818398.00,1790,549,28,#8E24AA,"3,8 M€",1 790 aides,549 entreprises
-1 ou 2 salariés,13669174.29,5508,1736,28,#7E57C2,"13,7 M€",5 508 aides,1 736 entreprises
-3 à 5 salariés,5848349.00,1891,657,28,#5C6BC0,"5,8 M€",1 891 aides,657 entreprises
-6 à 9 salariés,2475449.00,589,202,28,#1E88E5,"2,5 M€",589 aides,202 entreprises
-Etablissement non employeur,2639490.00,1651,521,28,#D81B60,"2,6 M€",1 651 aides,521 entreprises
-Autres Classes d'Effectifs,1625249.00,188,69,28,#AAAAAA,"1,6 M€",188 aides,69 entreprises
-0 salarié,13810777.00,5768,1715,29,#8E24AA,"13,8 M€",5 768 aides,1 715 entreprises
-1 ou 2 salariés,37901779.65,13539,4161,29,#7E57C2,"37,9 M€",13 539 aides,4 161 entreprises
-3 à 5 salariés,18658095.43,5169,1705,29,#5C6BC0,"18,7 M€",5 169 aides,1 705 entreprises
-6 à 9 salariés,6875724.88,1496,507,29,#1E88E5,"6,9 M€",1 496 aides,507 entreprises
-Etablissement non employeur,7361269.00,4553,1497,29,#D81B60,"7,4 M€",4 553 aides,1 497 entreprises
-Autres Classes d'Effectifs,5426206.00,684,275,29,#AAAAAA,"5,4 M€",684 aides,275 entreprises
-0 salarié,3750834.00,1659,457,2A,#8E24AA,"3,8 M€",1 659 aides,457 entreprises
-1 ou 2 salariés,16324338.33,6190,1755,2A,#7E57C2,"16,3 M€",6 190 aides,1 755 entreprises
-3 à 5 salariés,12189400.00,3396,981,2A,#5C6BC0,"12,2 M€",3 396 aides,981 entreprises
-6 à 9 salariés,4456563.00,988,340,2A,#1E88E5,"4,5 M€",988 aides,340 entreprises
-Etablissement non employeur,2133683.00,1335,499,2A,#D81B60,"2,1 M€",1 335 aides,499 entreprises
-Autres Classes d'Effectifs,4316871.00,469,186,2A,#AAAAAA,"4,3 M€",469 aides,186 entreprises
-0 salarié,10958717.13,4008,1000,2B,#8E24AA,"11,0 M€",4 008 aides,1 000 entreprises
-1 ou 2 salariés,18588075.25,6888,1888,2B,#7E57C2,"18,6 M€",6 888 aides,1 888 entreprises
-3 à 5 salariés,7423540.00,2195,681,2B,#5C6BC0,"7,4 M€",2 195 aides,681 entreprises
-6 à 9 salariés,2568186.00,608,209,2B,#1E88E5,"2,6 M€",608 aides,209 entreprises
-Etablissement non employeur,3974644.00,2535,687,2B,#D81B60,"4,0 M€",2 535 aides,687 entreprises
-Autres Classes d'Effectifs,1413634.00,206,107,2B,#AAAAAA,"1,4 M€",206 aides,107 entreprises
-0 salarié,16589041.00,7283,2079,30,#8E24AA,"16,6 M€",7 283 aides,2 079 entreprises
-1 ou 2 salariés,41728506.59,16607,5026,30,#7E57C2,"41,7 M€",16 607 aides,5 026 entreprises
-3 à 5 salariés,15859403.00,4880,1627,30,#5C6BC0,"15,9 M€",4 880 aides,1 627 entreprises
-6 à 9 salariés,5256046.88,1321,478,30,#1E88E5,"5,3 M€",1 321 aides,478 entreprises
-Etablissement non employeur,9418417.00,6104,1838,30,#D81B60,"9,4 M€",6 104 aides,1 838 entreprises
-Autres Classes d'Effectifs,3329898.00,458,199,30,#AAAAAA,"3,3 M€",458 aides,199 entreprises
-0 salarié,21431619.00,10065,3014,31,#8E24AA,"21,4 M€",10 065 aides,3 014 entreprises
-1 ou 2 salariés,62164533.05,24477,7439,31,#7E57C2,"62,2 M€",24 477 aides,7 439 entreprises
-3 à 5 salariés,33055578.87,9485,2963,31,#5C6BC0,"33,1 M€",9 485 aides,2 963 entreprises
-6 à 9 salariés,14418669.57,3301,1070,31,#1E88E5,"14,4 M€",3 301 aides,1 070 entreprises
-Etablissement non employeur,13940326.00,8981,2844,31,#D81B60,"13,9 M€",8 981 aides,2 844 entreprises
-Autres Classes d'Effectifs,14607688.66,1591,614,31,#AAAAAA,"14,6 M€",1 591 aides,614 entreprises
-0 salarié,3643395.76,1693,488,32,#8E24AA,"3,6 M€",1 693 aides,488 entreprises
-1 ou 2 salariés,9148262.12,3626,1163,32,#7E57C2,"9,1 M€",3 626 aides,1 163 entreprises
-3 à 5 salariés,3217726.60,1095,374,32,#5C6BC0,"3,2 M€",1 095 aides,374 entreprises
-6 à 9 salariés,1102392.00,311,110,32,#1E88E5,"1,1 M€",311 aides,110 entreprises
-Etablissement non employeur,2807337.00,1814,610,32,#D81B60,"2,8 M€",1 814 aides,610 entreprises
-Autres Classes d'Effectifs,1081365.00,151,62,32,#AAAAAA,"1,1 M€",151 aides,62 entreprises
-0 salarié,31053855.07,13864,4308,33,#8E24AA,"31,1 M€",13 864 aides,4 308 entreprises
-1 ou 2 salariés,73347354.12,29028,9399,33,#7E57C2,"73,3 M€",29 028 aides,9 399 entreprises
-3 à 5 salariés,36021488.42,10845,3594,33,#5C6BC0,"36,0 M€",10 845 aides,3 594 entreprises
-6 à 9 salariés,16328649.00,3968,1336,33,#1E88E5,"16,3 M€",3 968 aides,1 336 entreprises
-Etablissement non employeur,15826686.00,9719,3189,33,#D81B60,"15,8 M€",9 719 aides,3 189 entreprises
-Autres Classes d'Effectifs,16351739.00,1871,732,33,#AAAAAA,"16,4 M€",1 871 aides,732 entreprises
-0 salarié,34480557.76,14379,3984,34,#8E24AA,"34,5 M€",14 379 aides,3 984 entreprises
-1 ou 2 salariés,75397543.78,29570,8807,34,#7E57C2,"75,4 M€",29 570 aides,8 807 entreprises
-3 à 5 salariés,31341273.29,9332,2950,34,#5C6BC0,"31,3 M€",9 332 aides,2 950 entreprises
-6 à 9 salariés,12472245.07,2872,967,34,#1E88E5,"12,5 M€",2 872 aides,967 entreprises
-Etablissement non employeur,14080966.00,8922,2768,34,#D81B60,"14,1 M€",8 922 aides,2 768 entreprises
-Autres Classes d'Effectifs,10111255.42,1232,491,34,#AAAAAA,"10,1 M€",1 232 aides,491 entreprises
-0 salarié,12743925.38,5534,1612,35,#8E24AA,"12,7 M€",5 534 aides,1 612 entreprises
-1 ou 2 salariés,43050534.45,15538,4738,35,#7E57C2,"43,1 M€",15 538 aides,4 738 entreprises
-3 à 5 salariés,20856243.44,5752,1940,35,#5C6BC0,"20,9 M€",5 752 aides,1 940 entreprises
-6 à 9 salariés,9580072.57,2031,698,35,#1E88E5,"9,6 M€",2 031 aides,698 entreprises
-Etablissement non employeur,7629191.00,4625,1452,35,#D81B60,"7,6 M€",4 625 aides,1 452 entreprises
-Autres Classes d'Effectifs,7498421.71,916,395,35,#AAAAAA,"7,5 M€",916 aides,395 entreprises
-0 salarié,2140884.00,940,279,36,#8E24AA,"2,1 M€",940 aides,279 entreprises
-1 ou 2 salariés,7589010.00,3078,950,36,#7E57C2,"7,6 M€",3 078 aides,950 entreprises
-3 à 5 salariés,3901375.00,1123,399,36,#5C6BC0,"3,9 M€",1 123 aides,399 entreprises
-6 à 9 salariés,1159850.00,319,117,36,#1E88E5,"1,2 M€",319 aides,117 entreprises
-Etablissement non employeur,2021470.00,1356,398,36,#D81B60,"2,0 M€",1 356 aides,398 entreprises
-Autres Classes d'Effectifs,754712.00,128,51,36,#AAAAAA,"0,8 M€",128 aides,51 entreprises
-0 salarié,8175116.00,3572,1046,37,#8E24AA,"8,2 M€",3 572 aides,1 046 entreprises
-1 ou 2 salariés,24661924.72,9311,2899,37,#7E57C2,"24,7 M€",9 311 aides,2 899 entreprises
-3 à 5 salariés,11989487.19,3514,1112,37,#5C6BC0,"12,0 M€",3 514 aides,1 112 entreprises
-6 à 9 salariés,4844950.00,1102,357,37,#1E88E5,"4,8 M€",1 102 aides,357 entreprises
-Etablissement non employeur,5272836.00,3204,977,37,#D81B60,"5,3 M€",3 204 aides,977 entreprises
-Autres Classes d'Effectifs,4160426.00,474,194,37,#AAAAAA,"4,2 M€",474 aides,194 entreprises
-0 salarié,19743713.00,9213,2811,38,#8E24AA,"19,7 M€",9 213 aides,2 811 entreprises
-1 ou 2 salariés,58070054.80,21836,6724,38,#7E57C2,"58,1 M€",21 836 aides,6 724 entreprises
-3 à 5 salariés,27944654.37,7985,2586,38,#5C6BC0,"27,9 M€",7 985 aides,2 586 entreprises
-6 à 9 salariés,11017732.86,2516,819,38,#1E88E5,"11,0 M€",2 516 aides,819 entreprises
-Etablissement non employeur,14177055.00,8516,2630,38,#D81B60,"14,2 M€",8 516 aides,2 630 entreprises
-Autres Classes d'Effectifs,8319071.00,1059,435,38,#AAAAAA,"8,3 M€",1 059 aides,435 entreprises
-0 salarié,3835137.00,1792,550,39,#8E24AA,"3,8 M€",1 792 aides,550 entreprises
-1 ou 2 salariés,11743012.00,4375,1338,39,#7E57C2,"11,7 M€",4 375 aides,1 338 entreprises
-3 à 5 salariés,4854433.00,1393,462,39,#5C6BC0,"4,9 M€",1 393 aides,462 entreprises
-6 à 9 salariés,1806591.00,446,152,39,#1E88E5,"1,8 M€",446 aides,152 entreprises
-Etablissement non employeur,2436252.00,1498,464,39,#D81B60,"2,4 M€",1 498 aides,464 entreprises
-Autres Classes d'Effectifs,1339639.00,193,82,39,#AAAAAA,"1,3 M€",193 aides,82 entreprises
-0 salarié,11383129.00,4741,1383,40,#8E24AA,"11,4 M€",4 741 aides,1 383 entreprises
-1 ou 2 salariés,20450622.97,7853,2487,40,#7E57C2,"20,5 M€",7 853 aides,2 487 entreprises
-3 à 5 salariés,8000912.03,2476,858,40,#5C6BC0,"8,0 M€",2 476 aides,858 entreprises
-6 à 9 salariés,3019642.00,755,283,40,#1E88E5,"3,0 M€",755 aides,283 entreprises
-Etablissement non employeur,3858662.00,2401,783,40,#D81B60,"3,9 M€",2 401 aides,783 entreprises
-Autres Classes d'Effectifs,2483711.00,339,145,40,#AAAAAA,"2,5 M€",339 aides,145 entreprises
-0 salarié,3657881.00,1622,492,41,#8E24AA,"3,7 M€",1 622 aides,492 entreprises
-1 ou 2 salariés,13174190.00,5002,1609,41,#7E57C2,"13,2 M€",5 002 aides,1 609 entreprises
-3 à 5 salariés,5641535.00,1776,612,41,#5C6BC0,"5,6 M€",1 776 aides,612 entreprises
-6 à 9 salariés,1327436.00,380,151,41,#1E88E5,"1,3 M€",380 aides,151 entreprises
-Etablissement non employeur,2738638.00,1650,530,41,#D81B60,"2,7 M€",1 650 aides,530 entreprises
-Autres Classes d'Effectifs,1699122.00,207,95,41,#AAAAAA,"1,7 M€",207 aides,95 entreprises
-0 salarié,10863031.00,5076,1514,42,#8E24AA,"10,9 M€",5 076 aides,1 514 entreprises
-1 ou 2 salariés,33186270.45,12761,3946,42,#7E57C2,"33,2 M€",12 761 aides,3 946 entreprises
-3 à 5 salariés,13867035.21,4243,1448,42,#5C6BC0,"13,9 M€",4 243 aides,1 448 entreprises
-6 à 9 salariés,5249510.73,1254,443,42,#1E88E5,"5,2 M€",1 254 aides,443 entreprises
-Etablissement non employeur,7921689.00,5089,1550,42,#D81B60,"7,9 M€",5 089 aides,1 550 entreprises
-Autres Classes d'Effectifs,4594270.05,591,237,42,#AAAAAA,"4,6 M€",591 aides,237 entreprises
-0 salarié,4207910.92,1992,565,43,#8E24AA,"4,2 M€",1 992 aides,565 entreprises
-1 ou 2 salariés,10997567.00,4377,1356,43,#7E57C2,"11,0 M€",4 377 aides,1 356 entreprises
-3 à 5 salariés,4228076.96,1303,424,43,#5C6BC0,"4,2 M€",1 303 aides,424 entreprises
-6 à 9 salariés,1284054.00,339,122,43,#1E88E5,"1,3 M€",339 aides,122 entreprises
-Etablissement non employeur,3149126.00,1979,673,43,#D81B60,"3,1 M€",1 979 aides,673 entreprises
-Autres Classes d'Effectifs,812231.00,110,43,43,#AAAAAA,"0,8 M€",110 aides,43 entreprises
-0 salarié,18950831.00,8394,2492,44,#8E24AA,"19,0 M€",8 394 aides,2 492 entreprises
-1 ou 2 salariés,53866307.99,19735,6307,44,#7E57C2,"53,9 M€",19 735 aides,6 307 entreprises
-3 à 5 salariés,28247183.73,8184,2622,44,#5C6BC0,"28,2 M€",8 184 aides,2 622 entreprises
-6 à 9 salariés,11387733.92,2544,902,44,#1E88E5,"11,4 M€",2 544 aides,902 entreprises
-Etablissement non employeur,9880042.00,6030,1934,44,#D81B60,"9,9 M€",6 030 aides,1 934 entreprises
-Autres Classes d'Effectifs,11057057.00,1095,485,44,#AAAAAA,"11,1 M€",1 095 aides,485 entreprises
-0 salarié,6536112.00,2939,901,45,#8E24AA,"6,5 M€",2 939 aides,901 entreprises
-1 ou 2 salariés,22854980.44,8914,2821,45,#7E57C2,"22,9 M€",8 914 aides,2 821 entreprises
-3 à 5 salariés,12024521.56,3562,1168,45,#5C6BC0,"12,0 M€",3 562 aides,1 168 entreprises
-6 à 9 salariés,3948889.17,931,324,45,#1E88E5,"3,9 M€",931 aides,324 entreprises
-Etablissement non employeur,4471766.00,2805,872,45,#D81B60,"4,5 M€",2 805 aides,872 entreprises
-Autres Classes d'Effectifs,3411272.00,451,195,45,#AAAAAA,"3,4 M€",451 aides,195 entreprises
-0 salarié,4943808.98,2128,596,46,#8E24AA,"4,9 M€",2 128 aides,596 entreprises
-1 ou 2 salariés,9397834.00,3628,1118,46,#7E57C2,"9,4 M€",3 628 aides,1 118 entreprises
-3 à 5 salariés,3497107.00,1071,365,46,#5C6BC0,"3,5 M€",1 071 aides,365 entreprises
-6 à 9 salariés,935316.00,275,110,46,#1E88E5,"0,9 M€",275 aides,110 entreprises
-Etablissement non employeur,2566530.00,1720,620,46,#D81B60,"2,6 M€",1 720 aides,620 entreprises
-Autres Classes d'Effectifs,781091.00,104,43,46,#AAAAAA,"0,8 M€",104 aides,43 entreprises
-0 salarié,5644144.22,2542,749,47,#8E24AA,"5,6 M€",2 542 aides,749 entreprises
-1 ou 2 salariés,13627165.57,5443,1743,47,#7E57C2,"13,6 M€",5 443 aides,1 743 entreprises
-3 à 5 salariés,6163481.95,1924,653,47,#5C6BC0,"6,2 M€",1 924 aides,653 entreprises
-6 à 9 salariés,1784229.72,488,195,47,#1E88E5,"1,8 M€",488 aides,195 entreprises
-Etablissement non employeur,3404306.00,2147,714,47,#D81B60,"3,4 M€",2 147 aides,714 entreprises
-Autres Classes d'Effectifs,1545766.20,196,73,47,#AAAAAA,"1,5 M€",196 aides,73 entreprises
-0 salarié,3111250.00,1161,328,48,#8E24AA,"3,1 M€",1 161 aides,328 entreprises
-1 ou 2 salariés,4555077.59,1728,533,48,#7E57C2,"4,6 M€",1 728 aides,533 entreprises
-3 à 5 salariés,1807478.00,541,178,48,#5C6BC0,"1,8 M€",541 aides,178 entreprises
-6 à 9 salariés,373760.00,117,44,48,#1E88E5,"0,4 M€",117 aides,44 entreprises
-Etablissement non employeur,1964048.00,1305,488,48,#D81B60,"2,0 M€",1 305 aides,488 entreprises
-Autres Classes d'Effectifs,339890.00,44,24,48,#AAAAAA,"0,3 M€",44 aides,24 entreprises
-0 salarié,8256358.02,3707,1112,49,#8E24AA,"8,3 M€",3 707 aides,1 112 entreprises
-1 ou 2 salariés,30666149.75,11310,3580,49,#7E57C2,"30,7 M€",11 310 aides,3 580 entreprises
-3 à 5 salariés,13460278.15,3953,1379,49,#5C6BC0,"13,5 M€",3 953 aides,1 379 entreprises
-6 à 9 salariés,5040562.00,1239,469,49,#1E88E5,"5,0 M€",1 239 aides,469 entreprises
-Etablissement non employeur,5503243.00,3381,1096,49,#D81B60,"5,5 M€",3 381 aides,1 096 entreprises
-Autres Classes d'Effectifs,5482922.00,601,255,49,#AAAAAA,"5,5 M€",601 aides,255 entreprises
-0 salarié,7727806.82,3262,922,50,#8E24AA,"7,7 M€",3 262 aides,922 entreprises
-1 ou 2 salariés,21665864.29,7902,2433,50,#7E57C2,"21,7 M€",7 902 aides,2 433 entreprises
-3 à 5 salariés,8999304.00,2693,904,50,#5C6BC0,"9,0 M€",2 693 aides,904 entreprises
-6 à 9 salariés,3690985.43,871,315,50,#1E88E5,"3,7 M€",871 aides,315 entreprises
-Etablissement non employeur,3715562.00,2365,757,50,#D81B60,"3,7 M€",2 365 aides,757 entreprises
-Autres Classes d'Effectifs,2086519.00,289,116,50,#AAAAAA,"2,1 M€",289 aides,116 entreprises
-0 salarié,8693534.89,3328,1228,51,#8E24AA,"8,7 M€",3 328 aides,1 228 entreprises
-1 ou 2 salariés,31791971.78,9701,3678,51,#7E57C2,"31,8 M€",9 701 aides,3 678 entreprises
-3 à 5 salariés,13581387.00,3558,1337,51,#5C6BC0,"13,6 M€",3 558 aides,1 337 entreprises
-6 à 9 salariés,5399221.00,1196,435,51,#1E88E5,"5,4 M€",1 196 aides,435 entreprises
-Etablissement non employeur,17257761.00,5894,2794,51,#D81B60,"17,3 M€",5 894 aides,2 794 entreprises
-Autres Classes d'Effectifs,6009651.00,555,221,51,#AAAAAA,"6,0 M€",555 aides,221 entreprises
-0 salarié,1692176.00,806,248,52,#8E24AA,"1,7 M€",806 aides,248 entreprises
-1 ou 2 salariés,5156094.00,2141,685,52,#7E57C2,"5,2 M€",2 141 aides,685 entreprises
-3 à 5 salariés,2463025.00,765,251,52,#5C6BC0,"2,5 M€",765 aides,251 entreprises
-6 à 9 salariés,879776.00,252,93,52,#1E88E5,"0,9 M€",252 aides,93 entreprises
-Etablissement non employeur,1441209.00,863,272,52,#D81B60,"1,4 M€",863 aides,272 entreprises
-Autres Classes d'Effectifs,848148.00,129,49,52,#AAAAAA,"0,8 M€",129 aides,49 entreprises
-0 salarié,3279863.00,1490,441,53,#8E24AA,"3,3 M€",1 490 aides,441 entreprises
-1 ou 2 salariés,10682508.81,4062,1283,53,#7E57C2,"10,7 M€",4 062 aides,1 283 entreprises
-3 à 5 salariés,4550904.54,1370,485,53,#5C6BC0,"4,6 M€",1 370 aides,485 entreprises
-6 à 9 salariés,1647376.00,412,156,53,#1E88E5,"1,6 M€",412 aides,156 entreprises
-Etablissement non employeur,2032493.00,1270,396,53,#D81B60,"2,0 M€",1 270 aides,396 entreprises
-Autres Classes d'Effectifs,1109048.00,148,65,53,#AAAAAA,"1,1 M€",148 aides,65 entreprises
-0 salarié,6308437.00,2866,885,54,#8E24AA,"6,3 M€",2 866 aides,885 entreprises
-1 ou 2 salariés,22685640.73,8825,2755,54,#7E57C2,"22,7 M€",8 825 aides,2 755 entreprises
-3 à 5 salariés,10028197.88,3132,1035,54,#5C6BC0,"10,0 M€",3 132 aides,1 035 entreprises
-6 à 9 salariés,4100123.00,1008,371,54,#1E88E5,"4,1 M€",1 008 aides,371 entreprises
-Etablissement non employeur,5248101.00,3310,980,54,#D81B60,"5,2 M€",3 310 aides,980 entreprises
-Autres Classes d'Effectifs,4349028.00,550,211,54,#AAAAAA,"4,3 M€",550 aides,211 entreprises
-0 salarié,1626272.00,806,240,55,#8E24AA,"1,6 M€",806 aides,240 entreprises
-1 ou 2 salariés,5467987.00,2195,692,55,#7E57C2,"5,5 M€",2 195 aides,692 entreprises
-3 à 5 salariés,2270677.00,714,233,55,#5C6BC0,"2,3 M€",714 aides,233 entreprises
-6 à 9 salariés,817120.00,222,79,55,#1E88E5,"0,8 M€",222 aides,79 entreprises
-Etablissement non employeur,1429853.00,928,280,55,#D81B60,"1,4 M€",928 aides,280 entreprises
-Autres Classes d'Effectifs,702406.00,82,34,55,#AAAAAA,"0,7 M€",82 aides,34 entreprises
-0 salarié,15472361.00,6162,1775,56,#8E24AA,"15,5 M€",6 162 aides,1 775 entreprises
-1 ou 2 salariés,36326213.35,12941,4019,56,#7E57C2,"36,3 M€",12 941 aides,4 019 entreprises
-3 à 5 salariés,16473618.73,4604,1540,56,#5C6BC0,"16,5 M€",4 604 aides,1 540 entreprises
-6 à 9 salariés,6043260.00,1316,483,56,#1E88E5,"6,0 M€",1 316 aides,483 entreprises
-Etablissement non employeur,7149707.00,4390,1370,56,#D81B60,"7,1 M€",4 390 aides,1 370 entreprises
-Autres Classes d'Effectifs,4584602.92,532,227,56,#AAAAAA,"4,6 M€",532 aides,227 entreprises
-0 salarié,8233930.00,3939,1255,57,#8E24AA,"8,2 M€",3 939 aides,1 255 entreprises
-1 ou 2 salariés,32387645.16,13228,4171,57,#7E57C2,"32,4 M€",13 228 aides,4 171 entreprises
-3 à 5 salariés,18648826.56,5830,1900,57,#5C6BC0,"18,6 M€",5 830 aides,1 900 entreprises
-6 à 9 salariés,7832548.00,2011,678,57,#1E88E5,"7,8 M€",2 011 aides,678 entreprises
-Etablissement non employeur,5711174.00,3531,1122,57,#D81B60,"5,7 M€",3 531 aides,1 122 entreprises
-Autres Classes d'Effectifs,5750041.34,708,287,57,#AAAAAA,"5,8 M€",708 aides,287 entreprises
-0 salarié,2703234.92,1185,339,58,#8E24AA,"2,7 M€",1 185 aides,339 entreprises
-1 ou 2 salariés,8107523.90,3090,966,58,#7E57C2,"8,1 M€",3 090 aides,966 entreprises
-3 à 5 salariés,3167542.00,991,332,58,#5C6BC0,"3,2 M€",991 aides,332 entreprises
-6 à 9 salariés,694326.00,200,79,58,#1E88E5,"0,7 M€",200 aides,79 entreprises
-Etablissement non employeur,2136652.00,1346,413,58,#D81B60,"2,1 M€",1 346 aides,413 entreprises
+Etablissement non employeur,1361739.00,880,305,23,#D81B60,"1,4 M€",880 aides,305 entreprises
+Autres Classes d'Effectifs,325061.00,37,17,23,#AAAAAA,"0,3 M€",37 aides,17 entreprises
+0 salarié,10661290.28,4586,1248,24,#8E24AA,"10,7 M€",4 586 aides,1 248 entreprises
+1 ou 2 salariés,21207773.41,8363,2651,24,#7E57C2,"21,2 M€",8 363 aides,2 651 entreprises
+3 à 5 salariés,7866353.95,2469,837,24,#5C6BC0,"7,9 M€",2 469 aides,837 entreprises
+6 à 9 salariés,2625420.00,674,266,24,#1E88E5,"2,6 M€",674 aides,266 entreprises
+Etablissement non employeur,5091481.00,3380,1120,24,#D81B60,"5,1 M€",3 380 aides,1 120 entreprises
+Autres Classes d'Effectifs,2005856.07,284,124,24,#AAAAAA,"2,0 M€",284 aides,124 entreprises
+0 salarié,6401287.00,2802,809,25,#8E24AA,"6,4 M€",2 802 aides,809 entreprises
+1 ou 2 salariés,19517304.76,7339,2284,25,#7E57C2,"19,5 M€",7 339 aides,2 284 entreprises
+3 à 5 salariés,9952868.52,2792,857,25,#5C6BC0,"10,0 M€",2 792 aides,857 entreprises
+6 à 9 salariés,3940091.00,925,309,25,#1E88E5,"3,9 M€",925 aides,309 entreprises
+Etablissement non employeur,3697379.00,2282,714,25,#D81B60,"3,7 M€",2 282 aides,714 entreprises
+Autres Classes d'Effectifs,3443572.00,415,174,25,#AAAAAA,"3,4 M€",415 aides,174 entreprises
+0 salarié,11568781.00,5145,1501,26,#8E24AA,"11,6 M€",5 145 aides,1 501 entreprises
+1 ou 2 salariés,28069385.65,10551,3251,26,#7E57C2,"28,1 M€",10 551 aides,3 251 entreprises
+3 à 5 salariés,11419969.04,3431,1108,26,#5C6BC0,"11,4 M€",3 431 aides,1 108 entreprises
+6 à 9 salariés,3826400.00,937,330,26,#1E88E5,"3,8 M€",937 aides,330 entreprises
+Etablissement non employeur,5663673.00,3814,1133,26,#D81B60,"5,7 M€",3 814 aides,1 133 entreprises
+Autres Classes d'Effectifs,3795358.00,439,182,26,#AAAAAA,"3,8 M€",439 aides,182 entreprises
+0 salarié,6189568.32,2820,828,27,#8E24AA,"6,2 M€",2 820 aides,828 entreprises
+1 ou 2 salariés,19982079.56,7802,2474,27,#7E57C2,"20,0 M€",7 802 aides,2 474 entreprises
+3 à 5 salariés,8724532.25,2718,915,27,#5C6BC0,"8,7 M€",2 718 aides,915 entreprises
+6 à 9 salariés,2981433.00,783,274,27,#1E88E5,"3,0 M€",783 aides,274 entreprises
+Etablissement non employeur,3999044.00,2472,778,27,#D81B60,"4,0 M€",2 472 aides,778 entreprises
+Autres Classes d'Effectifs,2225521.08,258,110,27,#AAAAAA,"2,2 M€",258 aides,110 entreprises
+0 salarié,3902309.00,1808,549,28,#8E24AA,"3,9 M€",1 808 aides,549 entreprises
+1 ou 2 salariés,13858162.29,5542,1740,28,#7E57C2,"13,9 M€",5 542 aides,1 740 entreprises
+3 à 5 salariés,5982566.00,1908,661,28,#5C6BC0,"6,0 M€",1 908 aides,661 entreprises
+6 à 9 salariés,2513277.00,593,202,28,#1E88E5,"2,5 M€",593 aides,202 entreprises
+Etablissement non employeur,2659920.00,1660,522,28,#D81B60,"2,7 M€",1 660 aides,522 entreprises
+Autres Classes d'Effectifs,1895382.00,199,72,28,#AAAAAA,"1,9 M€",199 aides,72 entreprises
+0 salarié,14023458.00,5802,1716,29,#8E24AA,"14,0 M€",5 802 aides,1 716 entreprises
+1 ou 2 salariés,38632941.28,13647,4172,29,#7E57C2,"38,6 M€",13 647 aides,4 172 entreprises
+3 à 5 salariés,19243264.43,5223,1708,29,#5C6BC0,"19,2 M€",5 223 aides,1 708 entreprises
+6 à 9 salariés,7094576.88,1516,511,29,#1E88E5,"7,1 M€",1 516 aides,511 entreprises
+Etablissement non employeur,7407560.00,4574,1499,29,#D81B60,"7,4 M€",4 574 aides,1 499 entreprises
+Autres Classes d'Effectifs,5794134.00,705,284,29,#AAAAAA,"5,8 M€",705 aides,284 entreprises
+0 salarié,3825942.00,1674,458,2A,#8E24AA,"3,8 M€",1 674 aides,458 entreprises
+1 ou 2 salariés,16858268.33,6275,1765,2A,#7E57C2,"16,9 M€",6 275 aides,1 765 entreprises
+3 à 5 salariés,12634813.00,3448,988,2A,#5C6BC0,"12,6 M€",3 448 aides,988 entreprises
+6 à 9 salariés,4614898.00,1001,342,2A,#1E88E5,"4,6 M€",1 001 aides,342 entreprises
+Etablissement non employeur,2184778.00,1353,500,2A,#D81B60,"2,2 M€",1 353 aides,500 entreprises
+Autres Classes d'Effectifs,4614705.00,488,193,2A,#AAAAAA,"4,6 M€",488 aides,193 entreprises
+0 salarié,11252150.13,4061,1004,2B,#8E24AA,"11,3 M€",4 061 aides,1 004 entreprises
+1 ou 2 salariés,19002605.25,6950,1891,2B,#7E57C2,"19,0 M€",6 950 aides,1 891 entreprises
+3 à 5 salariés,7687666.00,2222,688,2B,#5C6BC0,"7,7 M€",2 222 aides,688 entreprises
+6 à 9 salariés,2677718.00,619,210,2B,#1E88E5,"2,7 M€",619 aides,210 entreprises
+Etablissement non employeur,4043364.00,2562,689,2B,#D81B60,"4,0 M€",2 562 aides,689 entreprises
+Autres Classes d'Effectifs,1501685.00,209,108,2B,#AAAAAA,"1,5 M€",209 aides,108 entreprises
+0 salarié,16930188.00,7348,2082,30,#8E24AA,"16,9 M€",7 348 aides,2 082 entreprises
+1 ou 2 salariés,42354304.59,16728,5041,30,#7E57C2,"42,4 M€",16 728 aides,5 041 entreprises
+3 à 5 salariés,16112901.00,4914,1629,30,#5C6BC0,"16,1 M€",4 914 aides,1 629 entreprises
+6 à 9 salariés,5325512.88,1333,480,30,#1E88E5,"5,3 M€",1 333 aides,480 entreprises
+Etablissement non employeur,9585147.00,6161,1845,30,#D81B60,"9,6 M€",6 161 aides,1 845 entreprises
+Autres Classes d'Effectifs,3745081.00,467,204,30,#AAAAAA,"3,7 M€",467 aides,204 entreprises
+0 salarié,21742484.00,10145,3022,31,#8E24AA,"21,7 M€",10 145 aides,3 022 entreprises
+1 ou 2 salariés,62986867.05,24632,7461,31,#7E57C2,"63,0 M€",24 632 aides,7 461 entreprises
+3 à 5 salariés,33497374.87,9550,2971,31,#5C6BC0,"33,5 M€",9 550 aides,2 971 entreprises
+6 à 9 salariés,14650503.57,3325,1074,31,#1E88E5,"14,7 M€",3 325 aides,1 074 entreprises
+Etablissement non employeur,14063427.00,9038,2850,31,#D81B60,"14,1 M€",9 038 aides,2 850 entreprises
+Autres Classes d'Effectifs,15523396.66,1624,625,31,#AAAAAA,"15,5 M€",1 624 aides,625 entreprises
+0 salarié,3685059.76,1703,488,32,#8E24AA,"3,7 M€",1 703 aides,488 entreprises
+1 ou 2 salariés,9241510.12,3648,1167,32,#7E57C2,"9,2 M€",3 648 aides,1 167 entreprises
+3 à 5 salariés,3263236.60,1103,375,32,#5C6BC0,"3,3 M€",1 103 aides,375 entreprises
+6 à 9 salariés,1112392.00,312,110,32,#1E88E5,"1,1 M€",312 aides,110 entreprises
+Etablissement non employeur,2813380.00,1818,610,32,#D81B60,"2,8 M€",1 818 aides,610 entreprises
+Autres Classes d'Effectifs,1099330.00,152,63,32,#AAAAAA,"1,1 M€",152 aides,63 entreprises
+0 salarié,31704740.07,13998,4326,33,#8E24AA,"31,7 M€",13 998 aides,4 326 entreprises
+1 ou 2 salariés,74721654.12,29286,9448,33,#7E57C2,"74,7 M€",29 286 aides,9 448 entreprises
+3 à 5 salariés,36794224.42,10952,3622,33,#5C6BC0,"36,8 M€",10 952 aides,3 622 entreprises
+6 à 9 salariés,16814280.00,4024,1353,33,#1E88E5,"16,8 M€",4 024 aides,1 353 entreprises
+Etablissement non employeur,16033897.00,9801,3214,33,#D81B60,"16,0 M€",9 801 aides,3 214 entreprises
+Autres Classes d'Effectifs,17027531.00,1904,750,33,#AAAAAA,"17,0 M€",1 904 aides,750 entreprises
+0 salarié,35057704.76,14512,3995,34,#8E24AA,"35,1 M€",14 512 aides,3 995 entreprises
+1 ou 2 salariés,76443926.78,29779,8840,34,#7E57C2,"76,4 M€",29 779 aides,8 840 entreprises
+3 à 5 salariés,31818136.29,9407,2971,34,#5C6BC0,"31,8 M€",9 407 aides,2 971 entreprises
+6 à 9 salariés,12690457.07,2903,977,34,#1E88E5,"12,7 M€",2 903 aides,977 entreprises
+Etablissement non employeur,14221773.00,8979,2773,34,#D81B60,"14,2 M€",8 979 aides,2 773 entreprises
+Autres Classes d'Effectifs,10839679.42,1265,508,34,#AAAAAA,"10,8 M€",1 265 aides,508 entreprises
+0 salarié,12869292.38,5564,1618,35,#8E24AA,"12,9 M€",5 564 aides,1 618 entreprises
+1 ou 2 salariés,43716814.45,15641,4756,35,#7E57C2,"43,7 M€",15 641 aides,4 756 entreprises
+3 à 5 salariés,21112670.44,5783,1946,35,#5C6BC0,"21,1 M€",5 783 aides,1 946 entreprises
+6 à 9 salariés,9778217.57,2057,710,35,#1E88E5,"9,8 M€",2 057 aides,710 entreprises
+Etablissement non employeur,7694167.00,4651,1456,35,#D81B60,"7,7 M€",4 651 aides,1 456 entreprises
+Autres Classes d'Effectifs,8092700.71,948,418,35,#AAAAAA,"8,1 M€",948 aides,418 entreprises
+0 salarié,2176485.00,946,280,36,#8E24AA,"2,2 M€",946 aides,280 entreprises
+1 ou 2 salariés,7747504.00,3105,952,36,#7E57C2,"7,7 M€",3 105 aides,952 entreprises
+3 à 5 salariés,3964375.00,1132,400,36,#5C6BC0,"4,0 M€",1 132 aides,400 entreprises
+6 à 9 salariés,1199318.00,323,118,36,#1E88E5,"1,2 M€",323 aides,118 entreprises
+Etablissement non employeur,2039189.00,1366,399,36,#D81B60,"2,0 M€",1 366 aides,399 entreprises
+Autres Classes d'Effectifs,766947.00,129,51,36,#AAAAAA,"0,8 M€",129 aides,51 entreprises
+0 salarié,8331492.00,3607,1049,37,#8E24AA,"8,3 M€",3 607 aides,1 049 entreprises
+1 ou 2 salariés,24958145.72,9374,2913,37,#7E57C2,"25,0 M€",9 374 aides,2 913 entreprises
+3 à 5 salariés,12196032.19,3538,1116,37,#5C6BC0,"12,2 M€",3 538 aides,1 116 entreprises
+6 à 9 salariés,5054209.00,1116,359,37,#1E88E5,"5,1 M€",1 116 aides,359 entreprises
+Etablissement non employeur,5321177.00,3217,979,37,#D81B60,"5,3 M€",3 217 aides,979 entreprises
+Autres Classes d'Effectifs,4232647.00,476,195,37,#AAAAAA,"4,2 M€",476 aides,195 entreprises
+0 salarié,20056916.00,9284,2817,38,#8E24AA,"20,1 M€",9 284 aides,2 817 entreprises
+1 ou 2 salariés,59049440.80,22020,6750,38,#7E57C2,"59,0 M€",22 020 aides,6 750 entreprises
+3 à 5 salariés,28479717.37,8046,2597,38,#5C6BC0,"28,5 M€",8 046 aides,2 597 entreprises
+6 à 9 salariés,11273926.86,2541,822,38,#1E88E5,"11,3 M€",2 541 aides,822 entreprises
+Etablissement non employeur,14301920.00,8574,2636,38,#D81B60,"14,3 M€",8 574 aides,2 636 entreprises
+Autres Classes d'Effectifs,8869100.00,1083,441,38,#AAAAAA,"8,9 M€",1 083 aides,441 entreprises
+0 salarié,3878298.00,1808,551,39,#8E24AA,"3,9 M€",1 808 aides,551 entreprises
+1 ou 2 salariés,12012047.00,4423,1345,39,#7E57C2,"12,0 M€",4 423 aides,1 345 entreprises
+3 à 5 salariés,4948625.00,1406,464,39,#5C6BC0,"4,9 M€",1 406 aides,464 entreprises
+6 à 9 salariés,1823574.00,450,153,39,#1E88E5,"1,8 M€",450 aides,153 entreprises
+Etablissement non employeur,2504166.00,1528,465,39,#D81B60,"2,5 M€",1 528 aides,465 entreprises
+Autres Classes d'Effectifs,1432924.00,200,85,39,#AAAAAA,"1,4 M€",200 aides,85 entreprises
+0 salarié,11628470.00,4785,1387,40,#8E24AA,"11,6 M€",4 785 aides,1 387 entreprises
+1 ou 2 salariés,20743096.97,7908,2497,40,#7E57C2,"20,7 M€",7 908 aides,2 497 entreprises
+3 à 5 salariés,8135102.03,2492,861,40,#5C6BC0,"8,1 M€",2 492 aides,861 entreprises
+6 à 9 salariés,3041803.00,758,284,40,#1E88E5,"3,0 M€",758 aides,284 entreprises
+Etablissement non employeur,3900966.00,2421,786,40,#D81B60,"3,9 M€",2 421 aides,786 entreprises
+Autres Classes d'Effectifs,2571888.00,345,146,40,#AAAAAA,"2,6 M€",345 aides,146 entreprises
+0 salarié,3700885.00,1634,494,41,#8E24AA,"3,7 M€",1 634 aides,494 entreprises
+1 ou 2 salariés,13458409.00,5049,1617,41,#7E57C2,"13,5 M€",5 049 aides,1 617 entreprises
+3 à 5 salariés,5773687.00,1793,612,41,#5C6BC0,"5,8 M€",1 793 aides,612 entreprises
+6 à 9 salariés,1381376.00,385,152,41,#1E88E5,"1,4 M€",385 aides,152 entreprises
+Etablissement non employeur,2754382.00,1656,531,41,#D81B60,"2,8 M€",1 656 aides,531 entreprises
+Autres Classes d'Effectifs,1759061.00,213,98,41,#AAAAAA,"1,8 M€",213 aides,98 entreprises
+0 salarié,10964275.00,5102,1516,42,#8E24AA,"11,0 M€",5 102 aides,1 516 entreprises
+1 ou 2 salariés,33465819.45,12824,3954,42,#7E57C2,"33,5 M€",12 824 aides,3 954 entreprises
+3 à 5 salariés,14054047.21,4274,1455,42,#5C6BC0,"14,1 M€",4 274 aides,1 455 entreprises
+6 à 9 salariés,5312989.73,1260,444,42,#1E88E5,"5,3 M€",1 260 aides,444 entreprises
+Etablissement non employeur,7966674.00,5110,1551,42,#D81B60,"8,0 M€",5 110 aides,1 551 entreprises
+Autres Classes d'Effectifs,4643322.05,594,239,42,#AAAAAA,"4,6 M€",594 aides,239 entreprises
+0 salarié,4381905.92,2025,567,43,#8E24AA,"4,4 M€",2 025 aides,567 entreprises
+1 ou 2 salariés,11336242.00,4431,1360,43,#7E57C2,"11,3 M€",4 431 aides,1 360 entreprises
+3 à 5 salariés,4362850.96,1319,426,43,#5C6BC0,"4,4 M€",1 319 aides,426 entreprises
+6 à 9 salariés,1387530.00,348,122,43,#1E88E5,"1,4 M€",348 aides,122 entreprises
+Etablissement non employeur,3188749.00,1997,673,43,#D81B60,"3,2 M€",1 997 aides,673 entreprises
+Autres Classes d'Effectifs,832989.00,113,43,43,#AAAAAA,"0,8 M€",113 aides,43 entreprises
+0 salarié,19219125.00,8453,2496,44,#8E24AA,"19,2 M€",8 453 aides,2 496 entreprises
+1 ou 2 salariés,54323420.99,19823,6319,44,#7E57C2,"54,3 M€",19 823 aides,6 319 entreprises
+3 à 5 salariés,28488849.73,8217,2628,44,#5C6BC0,"28,5 M€",8 217 aides,2 628 entreprises
+6 à 9 salariés,11596176.92,2563,907,44,#1E88E5,"11,6 M€",2 563 aides,907 entreprises
+Etablissement non employeur,9947139.00,6057,1936,44,#D81B60,"9,9 M€",6 057 aides,1 936 entreprises
+Autres Classes d'Effectifs,11740763.00,1124,503,44,#AAAAAA,"11,7 M€",1 124 aides,503 entreprises
+0 salarié,6633852.00,2967,904,45,#8E24AA,"6,6 M€",2 967 aides,904 entreprises
+1 ou 2 salariés,23111630.44,8972,2826,45,#7E57C2,"23,1 M€",8 972 aides,2 826 entreprises
+3 à 5 salariés,12240100.56,3584,1171,45,#5C6BC0,"12,2 M€",3 584 aides,1 171 entreprises
+6 à 9 salariés,4095078.17,936,324,45,#1E88E5,"4,1 M€",936 aides,324 entreprises
+Etablissement non employeur,4529345.00,2826,873,45,#D81B60,"4,5 M€",2 826 aides,873 entreprises
+Autres Classes d'Effectifs,3704850.00,461,198,45,#AAAAAA,"3,7 M€",461 aides,198 entreprises
+0 salarié,4987308.98,2140,597,46,#8E24AA,"5,0 M€",2 140 aides,597 entreprises
+1 ou 2 salariés,9493345.00,3651,1120,46,#7E57C2,"9,5 M€",3 651 aides,1 120 entreprises
+3 à 5 salariés,3592208.00,1084,367,46,#5C6BC0,"3,6 M€",1 084 aides,367 entreprises
+6 à 9 salariés,968926.00,278,111,46,#1E88E5,"1,0 M€",278 aides,111 entreprises
+Etablissement non employeur,2575923.00,1728,621,46,#D81B60,"2,6 M€",1 728 aides,621 entreprises
+Autres Classes d'Effectifs,855714.00,109,44,46,#AAAAAA,"0,9 M€",109 aides,44 entreprises
+0 salarié,5661632.22,2550,750,47,#8E24AA,"5,7 M€",2 550 aides,750 entreprises
+1 ou 2 salariés,13826006.57,5478,1748,47,#7E57C2,"13,8 M€",5 478 aides,1 748 entreprises
+3 à 5 salariés,6238869.95,1935,654,47,#5C6BC0,"6,2 M€",1 935 aides,654 entreprises
+6 à 9 salariés,1839662.72,494,197,47,#1E88E5,"1,8 M€",494 aides,197 entreprises
+Etablissement non employeur,3422946.00,2157,714,47,#D81B60,"3,4 M€",2 157 aides,714 entreprises
+Autres Classes d'Effectifs,1790894.20,205,75,47,#AAAAAA,"1,8 M€",205 aides,75 entreprises
+0 salarié,3189130.00,1172,329,48,#8E24AA,"3,2 M€",1 172 aides,329 entreprises
+1 ou 2 salariés,4649076.59,1751,540,48,#7E57C2,"4,6 M€",1 751 aides,540 entreprises
+3 à 5 salariés,1826728.00,543,178,48,#5C6BC0,"1,8 M€",543 aides,178 entreprises
+6 à 9 salariés,383760.00,118,44,48,#1E88E5,"0,4 M€",118 aides,44 entreprises
+Etablissement non employeur,2015778.00,1341,490,48,#D81B60,"2,0 M€",1 341 aides,490 entreprises
+Autres Classes d'Effectifs,349890.00,45,24,48,#AAAAAA,"0,3 M€",45 aides,24 entreprises
+0 salarié,8313456.02,3720,1112,49,#8E24AA,"8,3 M€",3 720 aides,1 112 entreprises
+1 ou 2 salariés,31064329.75,11385,3596,49,#7E57C2,"31,1 M€",11 385 aides,3 596 entreprises
+3 à 5 salariés,13842228.15,3986,1384,49,#5C6BC0,"13,8 M€",3 986 aides,1 384 entreprises
+6 à 9 salariés,5125976.00,1247,470,49,#1E88E5,"5,1 M€",1 247 aides,470 entreprises
+Etablissement non employeur,5562559.00,3407,1096,49,#D81B60,"5,6 M€",3 407 aides,1 096 entreprises
+Autres Classes d'Effectifs,5704148.00,613,264,49,#AAAAAA,"5,7 M€",613 aides,264 entreprises
+0 salarié,7830025.82,3282,922,50,#8E24AA,"7,8 M€",3 282 aides,922 entreprises
+1 ou 2 salariés,21911212.29,7946,2441,50,#7E57C2,"21,9 M€",7 946 aides,2 441 entreprises
+3 à 5 salariés,9201062.00,2712,907,50,#5C6BC0,"9,2 M€",2 712 aides,907 entreprises
+6 à 9 salariés,3772423.43,879,319,50,#1E88E5,"3,8 M€",879 aides,319 entreprises
+Etablissement non employeur,3753515.00,2380,760,50,#D81B60,"3,8 M€",2 380 aides,760 entreprises
+Autres Classes d'Effectifs,2345462.00,303,122,50,#AAAAAA,"2,3 M€",303 aides,122 entreprises
+0 salarié,8892093.89,3368,1239,51,#8E24AA,"8,9 M€",3 368 aides,1 239 entreprises
+1 ou 2 salariés,32470692.78,9821,3706,51,#7E57C2,"32,5 M€",9 821 aides,3 706 entreprises
+3 à 5 salariés,13884854.00,3594,1345,51,#5C6BC0,"13,9 M€",3 594 aides,1 345 entreprises
+6 à 9 salariés,5563169.00,1216,444,51,#1E88E5,"5,6 M€",1 216 aides,444 entreprises
+Etablissement non employeur,17780680.00,6030,2842,51,#D81B60,"17,8 M€",6 030 aides,2 842 entreprises
+Autres Classes d'Effectifs,6302765.00,568,226,51,#AAAAAA,"6,3 M€",568 aides,226 entreprises
+0 salarié,1715272.00,811,249,52,#8E24AA,"1,7 M€",811 aides,249 entreprises
+1 ou 2 salariés,5246600.00,2155,688,52,#7E57C2,"5,2 M€",2 155 aides,688 entreprises
+3 à 5 salariés,2483537.00,768,252,52,#5C6BC0,"2,5 M€",768 aides,252 entreprises
+6 à 9 salariés,908276.00,255,93,52,#1E88E5,"0,9 M€",255 aides,93 entreprises
+Etablissement non employeur,1461768.00,871,275,52,#D81B60,"1,5 M€",871 aides,275 entreprises
+Autres Classes d'Effectifs,879044.00,132,49,52,#AAAAAA,"0,9 M€",132 aides,49 entreprises
+0 salarié,3306666.00,1497,441,53,#8E24AA,"3,3 M€",1 497 aides,441 entreprises
+1 ou 2 salariés,10815199.81,4089,1284,53,#7E57C2,"10,8 M€",4 089 aides,1 284 entreprises
+3 à 5 salariés,4662085.54,1385,490,53,#5C6BC0,"4,7 M€",1 385 aides,490 entreprises
+6 à 9 salariés,1699678.00,416,157,53,#1E88E5,"1,7 M€",416 aides,157 entreprises
+Etablissement non employeur,2066036.00,1281,396,53,#D81B60,"2,1 M€",1 281 aides,396 entreprises
+Autres Classes d'Effectifs,1164709.00,153,68,53,#AAAAAA,"1,2 M€",153 aides,68 entreprises
+0 salarié,6365847.00,2886,888,54,#8E24AA,"6,4 M€",2 886 aides,888 entreprises
+1 ou 2 salariés,23155724.73,8887,2763,54,#7E57C2,"23,2 M€",8 887 aides,2 763 entreprises
+3 à 5 salariés,10144244.88,3155,1038,54,#5C6BC0,"10,1 M€",3 155 aides,1 038 entreprises
+6 à 9 salariés,4251188.00,1021,374,54,#1E88E5,"4,3 M€",1 021 aides,374 entreprises
+Etablissement non employeur,5281154.00,3328,984,54,#D81B60,"5,3 M€",3 328 aides,984 entreprises
+Autres Classes d'Effectifs,4448881.00,555,213,54,#AAAAAA,"4,4 M€",555 aides,213 entreprises
+0 salarié,1663229.00,814,242,55,#8E24AA,"1,7 M€",814 aides,242 entreprises
+1 ou 2 salariés,5564679.00,2208,693,55,#7E57C2,"5,6 M€",2 208 aides,693 entreprises
+3 à 5 salariés,2290677.00,716,233,55,#5C6BC0,"2,3 M€",716 aides,233 entreprises
+6 à 9 salariés,837120.00,224,79,55,#1E88E5,"0,8 M€",224 aides,79 entreprises
+Etablissement non employeur,1448953.00,935,283,55,#D81B60,"1,4 M€",935 aides,283 entreprises
+Autres Classes d'Effectifs,722746.00,83,34,55,#AAAAAA,"0,7 M€",83 aides,34 entreprises
+0 salarié,15827816.00,6218,1780,56,#8E24AA,"15,8 M€",6 218 aides,1 780 entreprises
+1 ou 2 salariés,36911825.35,13025,4021,56,#7E57C2,"36,9 M€",13 025 aides,4 021 entreprises
+3 à 5 salariés,16866385.73,4654,1547,56,#5C6BC0,"16,9 M€",4 654 aides,1 547 entreprises
+6 à 9 salariés,6198731.00,1332,488,56,#1E88E5,"6,2 M€",1 332 aides,488 entreprises
+Etablissement non employeur,7211916.00,4413,1372,56,#D81B60,"7,2 M€",4 413 aides,1 372 entreprises
+Autres Classes d'Effectifs,4787990.92,543,233,56,#AAAAAA,"4,8 M€",543 aides,233 entreprises
+0 salarié,8316747.00,3964,1257,57,#8E24AA,"8,3 M€",3 964 aides,1 257 entreprises
+1 ou 2 salariés,32982195.16,13351,4181,57,#7E57C2,"33,0 M€",13 351 aides,4 181 entreprises
+3 à 5 salariés,19054718.56,5884,1909,57,#5C6BC0,"19,1 M€",5 884 aides,1 909 entreprises
+6 à 9 salariés,8076685.00,2035,684,57,#1E88E5,"8,1 M€",2 035 aides,684 entreprises
+Etablissement non employeur,5765393.00,3555,1133,57,#D81B60,"5,8 M€",3 555 aides,1 133 entreprises
+Autres Classes d'Effectifs,6052991.34,728,292,57,#AAAAAA,"6,1 M€",728 aides,292 entreprises
+0 salarié,2745331.92,1192,339,58,#8E24AA,"2,7 M€",1 192 aides,339 entreprises
+1 ou 2 salariés,8255271.90,3115,969,58,#7E57C2,"8,3 M€",3 115 aides,969 entreprises
+3 à 5 salariés,3220473.00,1000,336,58,#5C6BC0,"3,2 M€",1 000 aides,336 entreprises
+6 à 9 salariés,705826.00,202,81,58,#1E88E5,"0,7 M€",202 aides,81 entreprises
+Etablissement non employeur,2149595.00,1353,414,58,#D81B60,"2,1 M€",1 353 aides,414 entreprises
 Autres Classes d'Effectifs,749604.00,122,52,58,#AAAAAA,"0,7 M€",122 aides,52 entreprises
-0 salarié,24061117.01,11312,3228,59,#8E24AA,"24,1 M€",11 312 aides,3 228 entreprises
-1 ou 2 salariés,84159295.72,32362,9577,59,#7E57C2,"84,2 M€",32 362 aides,9 577 entreprises
-3 à 5 salariés,43799161.12,12471,3794,59,#5C6BC0,"43,8 M€",12 471 aides,3 794 entreprises
-6 à 9 salariés,17512163.18,4197,1378,59,#1E88E5,"17,5 M€",4 197 aides,1 378 entreprises
-Etablissement non employeur,14598939.00,9324,2808,59,#D81B60,"14,6 M€",9 324 aides,2 808 entreprises
-Autres Classes d'Effectifs,15339074.20,1899,742,59,#AAAAAA,"15,3 M€",1 899 aides,742 entreprises
-0 salarié,6977806.17,3284,1015,60,#8E24AA,"7,0 M€",3 284 aides,1 015 entreprises
-1 ou 2 salariés,25605341.85,10327,3184,60,#7E57C2,"25,6 M€",10 327 aides,3 184 entreprises
-3 à 5 salariés,12390559.23,3818,1253,60,#5C6BC0,"12,4 M€",3 818 aides,1 253 entreprises
-6 à 9 salariés,4086854.00,1120,395,60,#1E88E5,"4,1 M€",1 120 aides,395 entreprises
-Etablissement non employeur,4787457.00,2950,950,60,#D81B60,"4,8 M€",2 950 aides,950 entreprises
-Autres Classes d'Effectifs,4353987.00,484,206,60,#AAAAAA,"4,4 M€",484 aides,206 entreprises
-0 salarié,3125473.09,1472,439,61,#8E24AA,"3,1 M€",1 472 aides,439 entreprises
-1 ou 2 salariés,10706773.48,4200,1324,61,#7E57C2,"10,7 M€",4 200 aides,1 324 entreprises
-3 à 5 salariés,3625437.00,1233,419,61,#5C6BC0,"3,6 M€",1 233 aides,419 entreprises
-6 à 9 salariés,1143837.48,322,117,61,#1E88E5,"1,1 M€",322 aides,117 entreprises
-Etablissement non employeur,2591559.00,1588,502,61,#D81B60,"2,6 M€",1 588 aides,502 entreprises
-Autres Classes d'Effectifs,918609.00,99,47,61,#AAAAAA,"0,9 M€",99 aides,47 entreprises
-0 salarié,11765227.00,5738,1695,62,#8E24AA,"11,8 M€",5 738 aides,1 695 entreprises
-1 ou 2 salariés,43952326.13,17231,5339,62,#7E57C2,"44,0 M€",17 231 aides,5 339 entreprises
-3 à 5 salariés,19955055.39,5941,1951,62,#5C6BC0,"20,0 M€",5 941 aides,1 951 entreprises
-6 à 9 salariés,8269929.92,2074,717,62,#1E88E5,"8,3 M€",2 074 aides,717 entreprises
-Etablissement non employeur,8843411.65,5742,1725,62,#D81B60,"8,8 M€",5 742 aides,1 725 entreprises
-Autres Classes d'Effectifs,7850825.13,909,373,62,#AAAAAA,"7,9 M€",909 aides,373 entreprises
-0 salarié,9360697.00,4307,1236,63,#8E24AA,"9,4 M€",4 307 aides,1 236 entreprises
-1 ou 2 salariés,30391284.65,11525,3429,63,#7E57C2,"30,4 M€",11 525 aides,3 429 entreprises
-3 à 5 salariés,14476520.49,4200,1340,63,#5C6BC0,"14,5 M€",4 200 aides,1 340 entreprises
-6 à 9 salariés,5530637.90,1304,433,63,#1E88E5,"5,5 M€",1 304 aides,433 entreprises
-Etablissement non employeur,7379358.00,4573,1387,63,#D81B60,"7,4 M€",4 573 aides,1 387 entreprises
-Autres Classes d'Effectifs,4842204.00,615,236,63,#AAAAAA,"4,8 M€",615 aides,236 entreprises
-0 salarié,14794230.98,6314,1781,64,#8E24AA,"14,8 M€",6 314 aides,1 781 entreprises
-1 ou 2 salariés,39698499.06,14918,4666,64,#7E57C2,"39,7 M€",14 918 aides,4 666 entreprises
-3 à 5 salariés,18120477.57,5351,1730,64,#5C6BC0,"18,1 M€",5 351 aides,1 730 entreprises
-6 à 9 salariés,7679783.36,1777,617,64,#1E88E5,"7,7 M€",1 777 aides,617 entreprises
-Etablissement non employeur,8512106.00,5381,1793,64,#D81B60,"8,5 M€",5 381 aides,1 793 entreprises
-Autres Classes d'Effectifs,6512624.04,729,320,64,#AAAAAA,"6,5 M€",729 aides,320 entreprises
-0 salarié,8094638.00,2934,702,65,#8E24AA,"8,1 M€",2 934 aides,702 entreprises
-1 ou 2 salariés,15648950.22,5577,1594,65,#7E57C2,"15,6 M€",5 577 aides,1 594 entreprises
-3 à 5 salariés,7446749.39,1997,617,65,#5C6BC0,"7,4 M€",1 997 aides,617 entreprises
-6 à 9 salariés,2811736.00,602,180,65,#1E88E5,"2,8 M€",602 aides,180 entreprises
-Etablissement non employeur,4827390.00,2959,811,65,#D81B60,"4,8 M€",2 959 aides,811 entreprises
-Autres Classes d'Effectifs,2326782.17,312,107,65,#AAAAAA,"2,3 M€",312 aides,107 entreprises
-0 salarié,16396177.37,6716,1837,66,#8E24AA,"16,4 M€",6 716 aides,1 837 entreprises
-1 ou 2 salariés,27262165.98,10727,3309,66,#7E57C2,"27,3 M€",10 727 aides,3 309 entreprises
-3 à 5 salariés,12383299.00,3586,1168,66,#5C6BC0,"12,4 M€",3 586 aides,1 168 entreprises
-6 à 9 salariés,4544887.00,1075,390,66,#1E88E5,"4,5 M€",1 075 aides,390 entreprises
-Etablissement non employeur,5864184.00,3817,1159,66,#D81B60,"5,9 M€",3 817 aides,1 159 entreprises
-Autres Classes d'Effectifs,4443484.00,431,180,66,#AAAAAA,"4,4 M€",431 aides,180 entreprises
-0 salarié,14588488.00,6551,2006,67,#8E24AA,"14,6 M€",6 551 aides,2 006 entreprises
-1 ou 2 salariés,50813653.18,19900,6412,67,#7E57C2,"50,8 M€",19 900 aides,6 412 entreprises
-3 à 5 salariés,27805914.96,8260,2662,67,#5C6BC0,"27,8 M€",8 260 aides,2 662 entreprises
-6 à 9 salariés,13414679.76,3072,987,67,#1E88E5,"13,4 M€",3 072 aides,987 entreprises
-Etablissement non employeur,9235166.00,5576,1774,67,#D81B60,"9,2 M€",5 576 aides,1 774 entreprises
-Autres Classes d'Effectifs,13737205.00,1469,572,67,#AAAAAA,"13,7 M€",1 469 aides,572 entreprises
-0 salarié,9984627.00,4282,1304,68,#8E24AA,"10,0 M€",4 282 aides,1 304 entreprises
-1 ou 2 salariés,32208940.00,12480,3926,68,#7E57C2,"32,2 M€",12 480 aides,3 926 entreprises
-3 à 5 salariés,18739200.64,5479,1736,68,#5C6BC0,"18,7 M€",5 479 aides,1 736 entreprises
-6 à 9 salariés,7669826.00,1720,574,68,#1E88E5,"7,7 M€",1 720 aides,574 entreprises
-Etablissement non employeur,4740149.00,3069,977,68,#D81B60,"4,7 M€",3 069 aides,977 entreprises
-Autres Classes d'Effectifs,8044100.00,913,354,68,#AAAAAA,"8,0 M€",913 aides,354 entreprises
-0 salarié,31199789.00,14577,4329,69,#8E24AA,"31,2 M€",14 577 aides,4 329 entreprises
-1 ou 2 salariés,94824828.96,36386,10961,69,#7E57C2,"94,8 M€",36 386 aides,10 961 entreprises
-3 à 5 salariés,47298072.90,13640,4270,69,#5C6BC0,"47,3 M€",13 640 aides,4 270 entreprises
-6 à 9 salariés,20017346.69,4538,1424,69,#1E88E5,"20,0 M€",4 538 aides,1 424 entreprises
-Etablissement non employeur,19052537.00,11260,3370,69,#D81B60,"19,1 M€",11 260 aides,3 370 entreprises
-Autres Classes d'Effectifs,18434775.00,2087,821,69,#AAAAAA,"18,4 M€",2 087 aides,821 entreprises
-0 salarié,2205073.00,1034,324,70,#8E24AA,"2,2 M€",1 034 aides,324 entreprises
-1 ou 2 salariés,6943813.00,2750,904,70,#7E57C2,"6,9 M€",2 750 aides,904 entreprises
-3 à 5 salariés,2646733.00,857,303,70,#5C6BC0,"2,6 M€",857 aides,303 entreprises
-6 à 9 salariés,1018849.00,281,110,70,#1E88E5,"1,0 M€",281 aides,110 entreprises
-Etablissement non employeur,1971482.00,1277,408,70,#D81B60,"2,0 M€",1 277 aides,408 entreprises
-Autres Classes d'Effectifs,829036.00,109,47,70,#AAAAAA,"0,8 M€",109 aides,47 entreprises
-0 salarié,7407854.41,3262,956,71,#8E24AA,"7,4 M€",3 262 aides,956 entreprises
-1 ou 2 salariés,25122229.03,9441,2886,71,#7E57C2,"25,1 M€",9 441 aides,2 886 entreprises
-3 à 5 salariés,10034155.90,2988,976,71,#5C6BC0,"10,0 M€",2 988 aides,976 entreprises
-6 à 9 salariés,3005619.00,720,259,71,#1E88E5,"3,0 M€",720 aides,259 entreprises
-Etablissement non employeur,6442887.00,3820,1228,71,#D81B60,"6,4 M€",3 820 aides,1 228 entreprises
-Autres Classes d'Effectifs,3091570.00,379,157,71,#AAAAAA,"3,1 M€",379 aides,157 entreprises
-0 salarié,5478284.00,2468,720,72,#8E24AA,"5,5 M€",2 468 aides,720 entreprises
-1 ou 2 salariés,17675777.83,6666,2049,72,#7E57C2,"17,7 M€",6 666 aides,2 049 entreprises
-3 à 5 salariés,7914166.16,2386,808,72,#5C6BC0,"7,9 M€",2 386 aides,808 entreprises
-6 à 9 salariés,3219057.08,750,256,72,#1E88E5,"3,2 M€",750 aides,256 entreprises
-Etablissement non employeur,3115088.00,2040,646,72,#D81B60,"3,1 M€",2 040 aides,646 entreprises
-Autres Classes d'Effectifs,3293625.00,346,163,72,#AAAAAA,"3,3 M€",346 aides,163 entreprises
-0 salarié,11507885.00,4792,1444,73,#8E24AA,"11,5 M€",4 792 aides,1 444 entreprises
-1 ou 2 salariés,34753736.56,11601,3369,73,#7E57C2,"34,8 M€",11 601 aides,3 369 entreprises
-3 à 5 salariés,24898065.65,6000,1702,73,#5C6BC0,"24,9 M€",6 000 aides,1 702 entreprises
-6 à 9 salariés,14173852.38,2632,817,73,#1E88E5,"14,2 M€",2 632 aides,817 entreprises
-Etablissement non employeur,20633973.00,11314,2954,73,#D81B60,"20,6 M€",11 314 aides,2 954 entreprises
-Autres Classes d'Effectifs,16076731.00,1659,635,73,#AAAAAA,"16,1 M€",1 659 aides,635 entreprises
-0 salarié,16966597.00,6775,2056,74,#8E24AA,"17,0 M€",6 775 aides,2 056 entreprises
-1 ou 2 salariés,45641000.92,15448,4762,74,#7E57C2,"45,6 M€",15 448 aides,4 762 entreprises
-3 à 5 salariés,28158164.25,7123,2211,74,#5C6BC0,"28,2 M€",7 123 aides,2 211 entreprises
-6 à 9 salariés,14514291.82,2795,911,74,#1E88E5,"14,5 M€",2 795 aides,911 entreprises
-Etablissement non employeur,13523057.00,7852,2400,74,#D81B60,"13,5 M€",7 852 aides,2 400 entreprises
-Autres Classes d'Effectifs,15716584.00,1733,681,74,#AAAAAA,"15,7 M€",1 733 aides,681 entreprises
-0 salarié,83185534.51,34941,8988,75,#8E24AA,"83,2 M€",34 941 aides,8 988 entreprises
-1 ou 2 salariés,254833387.34,94033,24041,75,#7E57C2,"254,8 M€",94 033 aides,24 041 entreprises
-3 à 5 salariés,181511963.12,49078,12020,75,#5C6BC0,"181,5 M€",49 078 aides,12 020 entreprises
-6 à 9 salariés,107332517.33,21813,5642,75,#1E88E5,"107,3 M€",21 813 aides,5 642 entreprises
-Etablissement non employeur,55469585.75,32198,8286,75,#D81B60,"55,5 M€",32 198 aides,8 286 entreprises
-Autres Classes d'Effectifs,125387851.49,12603,4408,75,#AAAAAA,"125,4 M€",12 603 aides,4 408 entreprises
-0 salarié,11141363.00,5022,1460,76,#8E24AA,"11,1 M€",5 022 aides,1 460 entreprises
-1 ou 2 salariés,40194479.97,15188,4731,76,#7E57C2,"40,2 M€",15 188 aides,4 731 entreprises
-3 à 5 salariés,20640708.02,6023,1921,76,#5C6BC0,"20,6 M€",6 023 aides,1 921 entreprises
-6 à 9 salariés,8302531.60,1937,677,76,#1E88E5,"8,3 M€",1 937 aides,677 entreprises
-Etablissement non employeur,7024017.00,4416,1389,76,#D81B60,"7,0 M€",4 416 aides,1 389 entreprises
-Autres Classes d'Effectifs,8055661.73,981,381,76,#AAAAAA,"8,1 M€",981 aides,381 entreprises
-0 salarié,15694053.13,7333,2019,77,#8E24AA,"15,7 M€",7 333 aides,2 019 entreprises
-1 ou 2 salariés,47811637.21,19749,5994,77,#7E57C2,"47,8 M€",19 749 aides,5 994 entreprises
-3 à 5 salariés,24184839.71,7644,2525,77,#5C6BC0,"24,2 M€",7 644 aides,2 525 entreprises
-6 à 9 salariés,10461158.99,2654,876,77,#1E88E5,"10,5 M€",2 654 aides,876 entreprises
-Etablissement non employeur,11891575.71,7313,1884,77,#D81B60,"11,9 M€",7 313 aides,1 884 entreprises
-Autres Classes d'Effectifs,9529522.97,1085,429,77,#AAAAAA,"9,5 M€",1 085 aides,429 entreprises
-0 salarié,14264304.54,6712,1964,78,#8E24AA,"14,3 M€",6 712 aides,1 964 entreprises
-1 ou 2 salariés,45106302.58,17999,5515,78,#7E57C2,"45,1 M€",17 999 aides,5 515 entreprises
-3 à 5 salariés,26174764.81,7618,2367,78,#5C6BC0,"26,2 M€",7 618 aides,2 367 entreprises
-6 à 9 salariés,11371330.70,2720,847,78,#1E88E5,"11,4 M€",2 720 aides,847 entreprises
-Etablissement non employeur,10047634.00,6187,1873,78,#D81B60,"10,0 M€",6 187 aides,1 873 entreprises
-Autres Classes d'Effectifs,10073316.00,1155,437,78,#AAAAAA,"10,1 M€",1 155 aides,437 entreprises
-0 salarié,3094910.00,1439,434,79,#8E24AA,"3,1 M€",1 439 aides,434 entreprises
-1 ou 2 salariés,11854416.15,4562,1471,79,#7E57C2,"11,9 M€",4 562 aides,1 471 entreprises
-3 à 5 salariés,5053683.80,1615,547,79,#5C6BC0,"5,1 M€",1 615 aides,547 entreprises
-6 à 9 salariés,1901383.00,480,176,79,#1E88E5,"1,9 M€",480 aides,176 entreprises
-Etablissement non employeur,2327801.00,1472,474,79,#D81B60,"2,3 M€",1 472 aides,474 entreprises
-Autres Classes d'Effectifs,1541846.28,223,81,79,#AAAAAA,"1,5 M€",223 aides,81 entreprises
-0 salarié,5156263.00,2324,702,80,#8E24AA,"5,2 M€",2 324 aides,702 entreprises
-1 ou 2 salariés,17077497.24,6705,2080,80,#7E57C2,"17,1 M€",6 705 aides,2 080 entreprises
-3 à 5 salariés,8756937.00,2671,861,80,#5C6BC0,"8,8 M€",2 671 aides,861 entreprises
-6 à 9 salariés,3290278.23,778,278,80,#1E88E5,"3,3 M€",778 aides,278 entreprises
-Etablissement non employeur,3731107.00,2411,760,80,#D81B60,"3,7 M€",2 411 aides,760 entreprises
-Autres Classes d'Effectifs,3289794.00,376,146,80,#AAAAAA,"3,3 M€",376 aides,146 entreprises
-0 salarié,5520010.50,2685,822,81,#8E24AA,"5,5 M€",2 685 aides,822 entreprises
-1 ou 2 salariés,16585019.47,6599,2150,81,#7E57C2,"16,6 M€",6 599 aides,2 150 entreprises
-3 à 5 salariés,6863734.25,2130,716,81,#5C6BC0,"6,9 M€",2 130 aides,716 entreprises
-6 à 9 salariés,2285639.45,568,215,81,#1E88E5,"2,3 M€",568 aides,215 entreprises
-Etablissement non employeur,4023966.00,2634,852,81,#D81B60,"4,0 M€",2 634 aides,852 entreprises
-Autres Classes d'Effectifs,1774101.00,225,107,81,#AAAAAA,"1,8 M€",225 aides,107 entreprises
-0 salarié,3687426.00,1756,535,82,#8E24AA,"3,7 M€",1 756 aides,535 entreprises
-1 ou 2 salariés,10704527.60,4191,1369,82,#7E57C2,"10,7 M€",4 191 aides,1 369 entreprises
-3 à 5 salariés,4279645.78,1375,473,82,#5C6BC0,"4,3 M€",1 375 aides,473 entreprises
-6 à 9 salariés,1681716.10,408,153,82,#1E88E5,"1,7 M€",408 aides,153 entreprises
-Etablissement non employeur,2611218.00,1775,579,82,#D81B60,"2,6 M€",1 775 aides,579 entreprises
-Autres Classes d'Effectifs,1025822.00,148,67,82,#AAAAAA,"1,0 M€",148 aides,67 entreprises
-0 salarié,33762088.95,14687,4226,83,#8E24AA,"33,8 M€",14 687 aides,4 226 entreprises
-1 ou 2 salariés,71111389.95,27559,8563,83,#7E57C2,"71,1 M€",27 559 aides,8 563 entreprises
-3 à 5 salariés,28697942.63,8290,2707,83,#5C6BC0,"28,7 M€",8 290 aides,2 707 entreprises
-6 à 9 salariés,10753648.67,2413,818,83,#1E88E5,"10,8 M€",2 413 aides,818 entreprises
-Etablissement non employeur,12937039.00,8225,2621,83,#D81B60,"12,9 M€",8 225 aides,2 621 entreprises
-Autres Classes d'Effectifs,8878935.00,1005,443,83,#AAAAAA,"8,9 M€",1 005 aides,443 entreprises
-0 salarié,14617680.83,6384,1785,84,#8E24AA,"14,6 M€",6 384 aides,1 785 entreprises
-1 ou 2 salariés,40982360.77,15944,4629,84,#7E57C2,"41,0 M€",15 944 aides,4 629 entreprises
-3 à 5 salariés,15027496.00,4589,1454,84,#5C6BC0,"15,0 M€",4 589 aides,1 454 entreprises
-6 à 9 salariés,5318968.00,1262,431,84,#1E88E5,"5,3 M€",1 262 aides,431 entreprises
-Etablissement non employeur,7372258.00,4687,1480,84,#D81B60,"7,4 M€",4 687 aides,1 480 entreprises
-Autres Classes d'Effectifs,4410125.00,532,211,84,#AAAAAA,"4,4 M€",532 aides,211 entreprises
-0 salarié,13020821.70,5224,1538,85,#8E24AA,"13,0 M€",5 224 aides,1 538 entreprises
-1 ou 2 salariés,27660537.04,10248,3319,85,#7E57C2,"27,7 M€",10 248 aides,3 319 entreprises
-3 à 5 salariés,14757405.25,4143,1439,85,#5C6BC0,"14,8 M€",4 143 aides,1 439 entreprises
-6 à 9 salariés,4257972.26,1026,419,85,#1E88E5,"4,3 M€",1 026 aides,419 entreprises
-Etablissement non employeur,4785002.00,2977,1002,85,#D81B60,"4,8 M€",2 977 aides,1 002 entreprises
-Autres Classes d'Effectifs,3481926.88,382,191,85,#AAAAAA,"3,5 M€",382 aides,191 entreprises
-0 salarié,3973331.09,1870,557,86,#8E24AA,"4,0 M€",1 870 aides,557 entreprises
-1 ou 2 salariés,13338081.00,5375,1718,86,#7E57C2,"13,3 M€",5 375 aides,1 718 entreprises
-3 à 5 salariés,5715541.78,1866,634,86,#5C6BC0,"5,7 M€",1 866 aides,634 entreprises
-6 à 9 salariés,2636765.00,646,234,86,#1E88E5,"2,6 M€",646 aides,234 entreprises
-Etablissement non employeur,2880111.00,1797,577,86,#D81B60,"2,9 M€",1 797 aides,577 entreprises
-Autres Classes d'Effectifs,2879979.00,311,130,86,#AAAAAA,"2,9 M€",311 aides,130 entreprises
-0 salarié,4563037.37,2143,611,87,#8E24AA,"4,6 M€",2 143 aides,611 entreprises
-1 ou 2 salariés,12938781.01,5125,1587,87,#7E57C2,"12,9 M€",5 125 aides,1 587 entreprises
-3 à 5 salariés,6183179.00,1850,623,87,#5C6BC0,"6,2 M€",1 850 aides,623 entreprises
-6 à 9 salariés,2890483.55,691,214,87,#1E88E5,"2,9 M€",691 aides,214 entreprises
-Etablissement non employeur,3727253.00,2355,736,87,#D81B60,"3,7 M€",2 355 aides,736 entreprises
-Autres Classes d'Effectifs,2950655.00,327,130,87,#AAAAAA,"3,0 M€",327 aides,130 entreprises
-0 salarié,5480214.00,2532,736,88,#8E24AA,"5,5 M€",2 532 aides,736 entreprises
-1 ou 2 salariés,16705849.90,6352,1922,88,#7E57C2,"16,7 M€",6 352 aides,1 922 entreprises
-3 à 5 salariés,6745991.20,2128,702,88,#5C6BC0,"6,7 M€",2 128 aides,702 entreprises
-6 à 9 salariés,2669268.00,691,223,88,#1E88E5,"2,7 M€",691 aides,223 entreprises
-Etablissement non employeur,3893218.00,2440,755,88,#D81B60,"3,9 M€",2 440 aides,755 entreprises
-Autres Classes d'Effectifs,1868933.00,267,117,88,#AAAAAA,"1,9 M€",267 aides,117 entreprises
-0 salarié,3891820.00,1729,535,89,#8E24AA,"3,9 M€",1 729 aides,535 entreprises
-1 ou 2 salariés,12986230.05,5128,1617,89,#7E57C2,"13,0 M€",5 128 aides,1 617 entreprises
-3 à 5 salariés,4962912.00,1547,517,89,#5C6BC0,"5,0 M€",1 547 aides,517 entreprises
-6 à 9 salariés,1793102.00,461,167,89,#1E88E5,"1,8 M€",461 aides,167 entreprises
-Etablissement non employeur,2696547.00,1707,529,89,#D81B60,"2,7 M€",1 707 aides,529 entreprises
-Autres Classes d'Effectifs,1299352.00,149,67,89,#AAAAAA,"1,3 M€",149 aides,67 entreprises
-0 salarié,1342968.00,635,200,90,#8E24AA,"1,3 M€",635 aides,200 entreprises
-1 ou 2 salariés,5146950.00,1887,558,90,#7E57C2,"5,1 M€",1 887 aides,558 entreprises
-3 à 5 salariés,2487305.00,722,235,90,#5C6BC0,"2,5 M€",722 aides,235 entreprises
-6 à 9 salariés,895671.00,202,68,90,#1E88E5,"0,9 M€",202 aides,68 entreprises
-Etablissement non employeur,887620.00,539,166,90,#D81B60,"0,9 M€",539 aides,166 entreprises
-Autres Classes d'Effectifs,673003.00,92,41,90,#AAAAAA,"0,7 M€",92 aides,41 entreprises
-0 salarié,12709634.00,6021,1655,91,#8E24AA,"12,7 M€",6 021 aides,1 655 entreprises
-1 ou 2 salariés,38820034.39,16494,4983,91,#7E57C2,"38,8 M€",16 494 aides,4 983 entreprises
-3 à 5 salariés,20441932.46,6567,2159,91,#5C6BC0,"20,4 M€",6 567 aides,2 159 entreprises
-6 à 9 salariés,8072873.00,2150,734,91,#1E88E5,"8,1 M€",2 150 aides,734 entreprises
-Etablissement non employeur,8877734.70,5343,1526,91,#D81B60,"8,9 M€",5 343 aides,1 526 entreprises
-Autres Classes d'Effectifs,6104424.00,810,329,91,#AAAAAA,"6,1 M€",810 aides,329 entreprises
-0 salarié,25919175.88,11707,2977,92,#8E24AA,"25,9 M€",11 707 aides,2 977 entreprises
-1 ou 2 salariés,69958428.59,27551,7335,92,#7E57C2,"70,0 M€",27 551 aides,7 335 entreprises
-3 à 5 salariés,45038628.85,12927,3535,92,#5C6BC0,"45,0 M€",12 927 aides,3 535 entreprises
-6 à 9 salariés,20905135.29,4651,1349,92,#1E88E5,"20,9 M€",4 651 aides,1 349 entreprises
-Etablissement non employeur,15634735.83,9551,2500,92,#D81B60,"15,6 M€",9 551 aides,2 500 entreprises
-Autres Classes d'Effectifs,17423324.00,2036,753,92,#AAAAAA,"17,4 M€",2 036 aides,753 entreprises
-0 salarié,19947901.13,9667,2275,93,#8E24AA,"19,9 M€",9 667 aides,2 275 entreprises
-1 ou 2 salariés,72942499.19,31619,8270,93,#7E57C2,"72,9 M€",31 619 aides,8 270 entreprises
-3 à 5 salariés,43207818.33,14575,4419,93,#5C6BC0,"43,2 M€",14 575 aides,4 419 entreprises
-6 à 9 salariés,15011146.00,4261,1426,93,#1E88E5,"15,0 M€",4 261 aides,1 426 entreprises
-Etablissement non employeur,16200220.89,9988,2195,93,#D81B60,"16,2 M€",9 988 aides,2 195 entreprises
-Autres Classes d'Effectifs,10751245.75,1721,622,93,#AAAAAA,"10,8 M€",1 721 aides,622 entreprises
-0 salarié,17852825.38,8345,2150,94,#8E24AA,"17,9 M€",8 345 aides,2 150 entreprises
-1 ou 2 salariés,56616732.45,23411,6418,94,#7E57C2,"56,6 M€",23 411 aides,6 418 entreprises
-3 à 5 salariés,30657081.08,9774,2874,94,#5C6BC0,"30,7 M€",9 774 aides,2 874 entreprises
-6 à 9 salariés,12586912.09,3197,1000,94,#1E88E5,"12,6 M€",3 197 aides,1 000 entreprises
-Etablissement non employeur,13998375.34,8664,2092,94,#D81B60,"14,0 M€",8 664 aides,2 092 entreprises
-Autres Classes d'Effectifs,9135308.00,1308,503,94,#AAAAAA,"9,1 M€",1 308 aides,503 entreprises
-0 salarié,12502896.71,6238,1610,95,#8E24AA,"12,5 M€",6 238 aides,1 610 entreprises
-1 ou 2 salariés,43665052.67,18726,5332,95,#7E57C2,"43,7 M€",18 726 aides,5 332 entreprises
-3 à 5 salariés,22576591.02,7721,2448,95,#5C6BC0,"22,6 M€",7 721 aides,2 448 entreprises
-6 à 9 salariés,8939223.74,2464,796,95,#1E88E5,"8,9 M€",2 464 aides,796 entreprises
-Etablissement non employeur,10127024.72,6393,1605,95,#D81B60,"10,1 M€",6 393 aides,1 605 entreprises
-Autres Classes d'Effectifs,7201035.00,992,399,95,#AAAAAA,"7,2 M€",992 aides,399 entreprises
-0 salarié,4944985.00,2870,770,971,#8E24AA,"4,9 M€",2 870 aides,770 entreprises
-1 ou 2 salariés,16916766.76,9543,2730,971,#7E57C2,"16,9 M€",9 543 aides,2 730 entreprises
-3 à 5 salariés,6451566.74,3222,992,971,#5C6BC0,"6,5 M€",3 222 aides,992 entreprises
-6 à 9 salariés,2609330.14,1066,352,971,#1E88E5,"2,6 M€",1 066 aides,352 entreprises
-Etablissement non employeur,15343708.00,9908,2564,971,#D81B60,"15,3 M€",9 908 aides,2 564 entreprises
-Autres Classes d'Effectifs,1318282.00,393,120,971,#AAAAAA,"1,3 M€",393 aides,120 entreprises
-0 salarié,4697202.00,2439,676,972,#8E24AA,"4,7 M€",2 439 aides,676 entreprises
-1 ou 2 salariés,16471860.34,7838,2200,972,#7E57C2,"16,5 M€",7 838 aides,2 200 entreprises
-3 à 5 salariés,6955617.60,2832,923,972,#5C6BC0,"7,0 M€",2 832 aides,923 entreprises
-6 à 9 salariés,2879041.00,1058,351,972,#1E88E5,"2,9 M€",1 058 aides,351 entreprises
-Etablissement non employeur,7732836.00,5204,1397,972,#D81B60,"7,7 M€",5 204 aides,1 397 entreprises
-Autres Classes d'Effectifs,1904832.00,457,174,972,#AAAAAA,"1,9 M€",457 aides,174 entreprises
-0 salarié,4473133.77,1938,369,973,#8E24AA,"4,5 M€",1 938 aides,369 entreprises
-1 ou 2 salariés,10583190.56,4620,941,973,#7E57C2,"10,6 M€",4 620 aides,941 entreprises
-3 à 5 salariés,4816706.00,1874,399,973,#5C6BC0,"4,8 M€",1 874 aides,399 entreprises
-6 à 9 salariés,1725537.00,627,139,973,#1E88E5,"1,7 M€",627 aides,139 entreprises
-Etablissement non employeur,5985716.00,2953,548,973,#D81B60,"6,0 M€",2 953 aides,548 entreprises
+0 salarié,24267153.01,11367,3232,59,#8E24AA,"24,3 M€",11 367 aides,3 232 entreprises
+1 ou 2 salariés,85126954.72,32555,9604,59,#7E57C2,"85,1 M€",32 555 aides,9 604 entreprises
+3 à 5 salariés,44375330.69,12553,3803,59,#5C6BC0,"44,4 M€",12 553 aides,3 803 entreprises
+6 à 9 salariés,17758310.96,4225,1384,59,#1E88E5,"17,8 M€",4 225 aides,1 384 entreprises
+Etablissement non employeur,14721777.00,9382,2811,59,#D81B60,"14,7 M€",9 382 aides,2 811 entreprises
+Autres Classes d'Effectifs,16357518.20,1944,762,59,#AAAAAA,"16,4 M€",1 944 aides,762 entreprises
+0 salarié,7067218.17,3300,1019,60,#8E24AA,"7,1 M€",3 300 aides,1 019 entreprises
+1 ou 2 salariés,25891131.85,10385,3190,60,#7E57C2,"25,9 M€",10 385 aides,3 190 entreprises
+3 à 5 salariés,12536281.23,3835,1257,60,#5C6BC0,"12,5 M€",3 835 aides,1 257 entreprises
+6 à 9 salariés,4182271.00,1135,400,60,#1E88E5,"4,2 M€",1 135 aides,400 entreprises
+Etablissement non employeur,4806098.00,2959,951,60,#D81B60,"4,8 M€",2 959 aides,951 entreprises
+Autres Classes d'Effectifs,4539393.00,495,208,60,#AAAAAA,"4,5 M€",495 aides,208 entreprises
+0 salarié,3179610.09,1485,441,61,#8E24AA,"3,2 M€",1 485 aides,441 entreprises
+1 ou 2 salariés,10967863.48,4239,1329,61,#7E57C2,"11,0 M€",4 239 aides,1 329 entreprises
+3 à 5 salariés,3757138.00,1251,423,61,#5C6BC0,"3,8 M€",1 251 aides,423 entreprises
+6 à 9 salariés,1201746.48,329,119,61,#1E88E5,"1,2 M€",329 aides,119 entreprises
+Etablissement non employeur,2601140.00,1595,502,61,#D81B60,"2,6 M€",1 595 aides,502 entreprises
+Autres Classes d'Effectifs,1012107.00,102,48,61,#AAAAAA,"1,0 M€",102 aides,48 entreprises
+0 salarié,11847433.00,5769,1698,62,#8E24AA,"11,8 M€",5 769 aides,1 698 entreprises
+1 ou 2 salariés,44542000.13,17351,5354,62,#7E57C2,"44,5 M€",17 351 aides,5 354 entreprises
+3 à 5 salariés,20222612.39,5973,1955,62,#5C6BC0,"20,2 M€",5 973 aides,1 955 entreprises
+6 à 9 salariés,8494385.92,2093,720,62,#1E88E5,"8,5 M€",2 093 aides,720 entreprises
+Etablissement non employeur,8911701.65,5764,1727,62,#D81B60,"8,9 M€",5 764 aides,1 727 entreprises
+Autres Classes d'Effectifs,8195307.13,922,380,62,#AAAAAA,"8,2 M€",922 aides,380 entreprises
+0 salarié,9544910.00,4351,1243,63,#8E24AA,"9,5 M€",4 351 aides,1 243 entreprises
+1 ou 2 salariés,30920356.65,11609,3441,63,#7E57C2,"30,9 M€",11 609 aides,3 441 entreprises
+3 à 5 salariés,14711792.49,4229,1342,63,#5C6BC0,"14,7 M€",4 229 aides,1 342 entreprises
+6 à 9 salariés,5691128.90,1319,437,63,#1E88E5,"5,7 M€",1 319 aides,437 entreprises
+Etablissement non employeur,7447331.00,4610,1393,63,#D81B60,"7,4 M€",4 610 aides,1 393 entreprises
+Autres Classes d'Effectifs,4986946.00,621,238,63,#AAAAAA,"5,0 M€",621 aides,238 entreprises
+0 salarié,15092791.98,6368,1786,64,#8E24AA,"15,1 M€",6 368 aides,1 786 entreprises
+1 ou 2 salariés,40343673.06,15020,4677,64,#7E57C2,"40,3 M€",15 020 aides,4 677 entreprises
+3 à 5 salariés,18498215.57,5401,1744,64,#5C6BC0,"18,5 M€",5 401 aides,1 744 entreprises
+6 à 9 salariés,7993873.36,1806,624,64,#1E88E5,"8,0 M€",1 806 aides,624 entreprises
+Etablissement non employeur,8607678.00,5425,1802,64,#D81B60,"8,6 M€",5 425 aides,1 802 entreprises
+Autres Classes d'Effectifs,6937536.04,744,322,64,#AAAAAA,"6,9 M€",744 aides,322 entreprises
+0 salarié,8257569.00,2958,705,65,#8E24AA,"8,3 M€",2 958 aides,705 entreprises
+1 ou 2 salariés,15934158.22,5626,1601,65,#7E57C2,"15,9 M€",5 626 aides,1 601 entreprises
+3 à 5 salariés,7742657.39,2026,622,65,#5C6BC0,"7,7 M€",2 026 aides,622 entreprises
+6 à 9 salariés,2862983.00,607,180,65,#1E88E5,"2,9 M€",607 aides,180 entreprises
+Etablissement non employeur,4916670.00,2997,817,65,#D81B60,"4,9 M€",2 997 aides,817 entreprises
+Autres Classes d'Effectifs,2448865.17,317,108,65,#AAAAAA,"2,4 M€",317 aides,108 entreprises
+0 salarié,17115228.37,6834,1848,66,#8E24AA,"17,1 M€",6 834 aides,1 848 entreprises
+1 ou 2 salariés,27754179.98,10831,3322,66,#7E57C2,"27,8 M€",10 831 aides,3 322 entreprises
+3 à 5 salariés,12704093.00,3625,1175,66,#5C6BC0,"12,7 M€",3 625 aides,1 175 entreprises
+6 à 9 salariés,4663968.00,1087,391,66,#1E88E5,"4,7 M€",1 087 aides,391 entreprises
+Etablissement non employeur,5957505.00,3856,1164,66,#D81B60,"6,0 M€",3 856 aides,1 164 entreprises
+Autres Classes d'Effectifs,4544479.00,441,184,66,#AAAAAA,"4,5 M€",441 aides,184 entreprises
+0 salarié,14866005.00,6617,2020,67,#8E24AA,"14,9 M€",6 617 aides,2 020 entreprises
+1 ou 2 salariés,51556606.18,20091,6445,67,#7E57C2,"51,6 M€",20 091 aides,6 445 entreprises
+3 à 5 salariés,28193867.96,8314,2672,67,#5C6BC0,"28,2 M€",8 314 aides,2 672 entreprises
+6 à 9 salariés,13861368.76,3115,1000,67,#1E88E5,"13,9 M€",3 115 aides,1 000 entreprises
+Etablissement non employeur,9397592.00,5657,1800,67,#D81B60,"9,4 M€",5 657 aides,1 800 entreprises
+Autres Classes d'Effectifs,15533377.00,1524,589,67,#AAAAAA,"15,5 M€",1 524 aides,589 entreprises
+0 salarié,10257516.00,4334,1313,68,#8E24AA,"10,3 M€",4 334 aides,1 313 entreprises
+1 ou 2 salariés,32750299.00,12587,3952,68,#7E57C2,"32,8 M€",12 587 aides,3 952 entreprises
+3 à 5 salariés,19093003.64,5531,1755,68,#5C6BC0,"19,1 M€",5 531 aides,1 755 entreprises
+6 à 9 salariés,7896145.00,1738,577,68,#1E88E5,"7,9 M€",1 738 aides,577 entreprises
+Etablissement non employeur,4890644.00,3134,1005,68,#D81B60,"4,9 M€",3 134 aides,1 005 entreprises
+Autres Classes d'Effectifs,8604639.00,945,368,68,#AAAAAA,"8,6 M€",945 aides,368 entreprises
+0 salarié,31726992.00,14724,4348,69,#8E24AA,"31,7 M€",14 724 aides,4 348 entreprises
+1 ou 2 salariés,96176927.96,36640,10985,69,#7E57C2,"96,2 M€",36 640 aides,10 985 entreprises
+3 à 5 salariés,48275394.90,13769,4290,69,#5C6BC0,"48,3 M€",13 769 aides,4 290 entreprises
+6 à 9 salariés,20684417.69,4599,1437,69,#1E88E5,"20,7 M€",4 599 aides,1 437 entreprises
+Etablissement non employeur,19185901.00,11329,3377,69,#D81B60,"19,2 M€",11 329 aides,3 377 entreprises
+Autres Classes d'Effectifs,19277873.00,2127,843,69,#AAAAAA,"19,3 M€",2 127 aides,843 entreprises
+0 salarié,2218073.00,1037,324,70,#8E24AA,"2,2 M€",1 037 aides,324 entreprises
+1 ou 2 salariés,7056240.00,2769,907,70,#7E57C2,"7,1 M€",2 769 aides,907 entreprises
+3 à 5 salariés,2693414.00,864,305,70,#5C6BC0,"2,7 M€",864 aides,305 entreprises
+6 à 9 salariés,1046271.00,285,111,70,#1E88E5,"1,0 M€",285 aides,111 entreprises
+Etablissement non employeur,2008069.00,1288,408,70,#D81B60,"2,0 M€",1 288 aides,408 entreprises
+Autres Classes d'Effectifs,853047.00,111,48,70,#AAAAAA,"0,9 M€",111 aides,48 entreprises
+0 salarié,7538263.41,3291,958,71,#8E24AA,"7,5 M€",3 291 aides,958 entreprises
+1 ou 2 salariés,25516782.03,9512,2892,71,#7E57C2,"25,5 M€",9 512 aides,2 892 entreprises
+3 à 5 salariés,10167321.90,3009,980,71,#5C6BC0,"10,2 M€",3 009 aides,980 entreprises
+6 à 9 salariés,3076974.00,730,263,71,#1E88E5,"3,1 M€",730 aides,263 entreprises
+Etablissement non employeur,6533270.00,3861,1235,71,#D81B60,"6,5 M€",3 861 aides,1 235 entreprises
+Autres Classes d'Effectifs,3776946.00,396,168,71,#AAAAAA,"3,8 M€",396 aides,168 entreprises
+0 salarié,5516259.00,2475,720,72,#8E24AA,"5,5 M€",2 475 aides,720 entreprises
+1 ou 2 salariés,17795742.83,6690,2054,72,#7E57C2,"17,8 M€",6 690 aides,2 054 entreprises
+3 à 5 salariés,7980464.16,2395,812,72,#5C6BC0,"8,0 M€",2 395 aides,812 entreprises
+6 à 9 salariés,3268335.08,756,257,72,#1E88E5,"3,3 M€",756 aides,257 entreprises
+Etablissement non employeur,3132891.00,2048,646,72,#D81B60,"3,1 M€",2 048 aides,646 entreprises
+Autres Classes d'Effectifs,3421248.00,354,165,72,#AAAAAA,"3,4 M€",354 aides,165 entreprises
+0 salarié,11770841.00,4859,1455,73,#8E24AA,"11,8 M€",4 859 aides,1 455 entreprises
+1 ou 2 salariés,35319207.56,11703,3385,73,#7E57C2,"35,3 M€",11 703 aides,3 385 entreprises
+3 à 5 salariés,25466984.65,6072,1718,73,#5C6BC0,"25,5 M€",6 072 aides,1 718 entreprises
+6 à 9 salariés,14552920.38,2671,826,73,#1E88E5,"14,6 M€",2 671 aides,826 entreprises
+Etablissement non employeur,21091486.00,11500,2971,73,#D81B60,"21,1 M€",11 500 aides,2 971 entreprises
+Autres Classes d'Effectifs,16762374.00,1703,649,73,#AAAAAA,"16,8 M€",1 703 aides,649 entreprises
+0 salarié,17365387.00,6870,2073,74,#8E24AA,"17,4 M€",6 870 aides,2 073 entreprises
+1 ou 2 salariés,46579810.92,15593,4789,74,#7E57C2,"46,6 M€",15 593 aides,4 789 entreprises
+3 à 5 salariés,28637142.25,7195,2226,74,#5C6BC0,"28,6 M€",7 195 aides,2 226 entreprises
+6 à 9 salariés,14824737.82,2828,923,74,#1E88E5,"14,8 M€",2 828 aides,923 entreprises
+Etablissement non employeur,13833581.00,7981,2417,74,#D81B60,"13,8 M€",7 981 aides,2 417 entreprises
+Autres Classes d'Effectifs,17202547.00,1769,691,74,#AAAAAA,"17,2 M€",1 769 aides,691 entreprises
+0 salarié,84453830.51,35234,9039,75,#8E24AA,"84,5 M€",35 234 aides,9 039 entreprises
+1 ou 2 salariés,258700813.38,94715,24148,75,#7E57C2,"258,7 M€",94 715 aides,24 148 entreprises
+3 à 5 salariés,185807568.12,49531,12090,75,#5C6BC0,"185,8 M€",49 531 aides,12 090 entreprises
+6 à 9 salariés,109708110.33,22027,5676,75,#1E88E5,"109,7 M€",22 027 aides,5 676 entreprises
+Etablissement non employeur,56209804.75,32426,8331,75,#D81B60,"56,2 M€",32 426 aides,8 331 entreprises
+Autres Classes d'Effectifs,134760444.49,12871,4489,75,#AAAAAA,"134,8 M€",12 871 aides,4 489 entreprises
+0 salarié,11302903.00,5056,1465,76,#8E24AA,"11,3 M€",5 056 aides,1 465 entreprises
+1 ou 2 salariés,40802138.59,15295,4749,76,#7E57C2,"40,8 M€",15 295 aides,4 749 entreprises
+3 à 5 salariés,21050939.02,6075,1929,76,#5C6BC0,"21,1 M€",6 075 aides,1 929 entreprises
+6 à 9 salariés,8543665.60,1960,684,76,#1E88E5,"8,5 M€",1 960 aides,684 entreprises
+Etablissement non employeur,7091221.00,4443,1391,76,#D81B60,"7,1 M€",4 443 aides,1 391 entreprises
+Autres Classes d'Effectifs,8575385.73,1004,390,76,#AAAAAA,"8,6 M€",1 004 aides,390 entreprises
+0 salarié,15842063.13,7374,2022,77,#8E24AA,"15,8 M€",7 374 aides,2 022 entreprises
+1 ou 2 salariés,48535355.21,19903,6016,77,#7E57C2,"48,5 M€",19 903 aides,6 016 entreprises
+3 à 5 salariés,24644456.71,7716,2544,77,#5C6BC0,"24,6 M€",7 716 aides,2 544 entreprises
+6 à 9 salariés,10666657.99,2680,881,77,#1E88E5,"10,7 M€",2 680 aides,881 entreprises
+Etablissement non employeur,11993637.71,7372,1896,77,#D81B60,"12,0 M€",7 372 aides,1 896 entreprises
+Autres Classes d'Effectifs,10153395.97,1112,440,77,#AAAAAA,"10,2 M€",1 112 aides,440 entreprises
+0 salarié,14391482.54,6744,1966,78,#8E24AA,"14,4 M€",6 744 aides,1 966 entreprises
+1 ou 2 salariés,45624452.58,18111,5531,78,#7E57C2,"45,6 M€",18 111 aides,5 531 entreprises
+3 à 5 salariés,26641672.81,7685,2379,78,#5C6BC0,"26,6 M€",7 685 aides,2 379 entreprises
+6 à 9 salariés,11660880.70,2744,852,78,#1E88E5,"11,7 M€",2 744 aides,852 entreprises
+Etablissement non employeur,10114796.00,6215,1878,78,#D81B60,"10,1 M€",6 215 aides,1 878 entreprises
+Autres Classes d'Effectifs,10770206.00,1178,450,78,#AAAAAA,"10,8 M€",1 178 aides,450 entreprises
+0 salarié,3116828.00,1445,435,79,#8E24AA,"3,1 M€",1 445 aides,435 entreprises
+1 ou 2 salariés,11933820.15,4578,1476,79,#7E57C2,"11,9 M€",4 578 aides,1 476 entreprises
+3 à 5 salariés,5116024.80,1626,549,79,#5C6BC0,"5,1 M€",1 626 aides,549 entreprises
+6 à 9 salariés,1932522.00,485,179,79,#1E88E5,"1,9 M€",485 aides,179 entreprises
+Etablissement non employeur,2332044.00,1475,474,79,#D81B60,"2,3 M€",1 475 aides,474 entreprises
+Autres Classes d'Effectifs,1677932.28,228,85,79,#AAAAAA,"1,7 M€",228 aides,85 entreprises
+0 salarié,5213808.00,2341,704,80,#8E24AA,"5,2 M€",2 341 aides,704 entreprises
+1 ou 2 salariés,17331518.24,6750,2088,80,#7E57C2,"17,3 M€",6 750 aides,2 088 entreprises
+3 à 5 salariés,8837129.00,2684,862,80,#5C6BC0,"8,8 M€",2 684 aides,862 entreprises
+6 à 9 salariés,3349539.23,784,280,80,#1E88E5,"3,3 M€",784 aides,280 entreprises
+Etablissement non employeur,3766919.00,2422,764,80,#D81B60,"3,8 M€",2 422 aides,764 entreprises
+Autres Classes d'Effectifs,3637421.00,407,175,80,#AAAAAA,"3,6 M€",407 aides,175 entreprises
+0 salarié,5621564.50,2709,824,81,#8E24AA,"5,6 M€",2 709 aides,824 entreprises
+1 ou 2 salariés,16724762.47,6634,2155,81,#7E57C2,"16,7 M€",6 634 aides,2 155 entreprises
+3 à 5 salariés,6981190.25,2149,718,81,#5C6BC0,"7,0 M€",2 149 aides,718 entreprises
+6 à 9 salariés,2325639.45,572,217,81,#1E88E5,"2,3 M€",572 aides,217 entreprises
+Etablissement non employeur,4055830.00,2654,853,81,#D81B60,"4,1 M€",2 654 aides,853 entreprises
+Autres Classes d'Effectifs,1887128.00,232,111,81,#AAAAAA,"1,9 M€",232 aides,111 entreprises
+0 salarié,3776324.00,1777,538,82,#8E24AA,"3,8 M€",1 777 aides,538 entreprises
+1 ou 2 salariés,10752163.60,4207,1369,82,#7E57C2,"10,8 M€",4 207 aides,1 369 entreprises
+3 à 5 salariés,4314911.78,1383,474,82,#5C6BC0,"4,3 M€",1 383 aides,474 entreprises
+6 à 9 salariés,1683216.10,409,154,82,#1E88E5,"1,7 M€",409 aides,154 entreprises
+Etablissement non employeur,2641913.00,1785,580,82,#D81B60,"2,6 M€",1 785 aides,580 entreprises
+Autres Classes d'Effectifs,1045822.00,150,69,82,#AAAAAA,"1,0 M€",150 aides,69 entreprises
+0 salarié,34335504.95,14809,4242,83,#8E24AA,"34,3 M€",14 809 aides,4 242 entreprises
+1 ou 2 salariés,72004658.95,27748,8593,83,#7E57C2,"72,0 M€",27 748 aides,8 593 entreprises
+3 à 5 salariés,29158860.63,8344,2723,83,#5C6BC0,"29,2 M€",8 344 aides,2 723 entreprises
+6 à 9 salariés,11036422.67,2437,828,83,#1E88E5,"11,0 M€",2 437 aides,828 entreprises
+Etablissement non employeur,13016670.00,8266,2624,83,#D81B60,"13,0 M€",8 266 aides,2 624 entreprises
+Autres Classes d'Effectifs,9391460.00,1026,451,83,#AAAAAA,"9,4 M€",1 026 aides,451 entreprises
+0 salarié,14858701.83,6439,1790,84,#8E24AA,"14,9 M€",6 439 aides,1 790 entreprises
+1 ou 2 salariés,41705702.77,16079,4646,84,#7E57C2,"41,7 M€",16 079 aides,4 646 entreprises
+3 à 5 salariés,15384916.00,4633,1461,84,#5C6BC0,"15,4 M€",4 633 aides,1 461 entreprises
+6 à 9 salariés,5544988.00,1281,434,84,#1E88E5,"5,5 M€",1 281 aides,434 entreprises
+Etablissement non employeur,7462928.00,4726,1481,84,#D81B60,"7,5 M€",4 726 aides,1 481 entreprises
+Autres Classes d'Effectifs,4891202.00,546,212,84,#AAAAAA,"4,9 M€",546 aides,212 entreprises
+0 salarié,13339174.70,5286,1543,85,#8E24AA,"13,3 M€",5 286 aides,1 543 entreprises
+1 ou 2 salariés,27980479.04,10300,3323,85,#7E57C2,"28,0 M€",10 300 aides,3 323 entreprises
+3 à 5 salariés,14997890.25,4174,1446,85,#5C6BC0,"15,0 M€",4 174 aides,1 446 entreprises
+6 à 9 salariés,4358973.26,1037,422,85,#1E88E5,"4,4 M€",1 037 aides,422 entreprises
+Etablissement non employeur,4804802.00,2984,1002,85,#D81B60,"4,8 M€",2 984 aides,1 002 entreprises
+Autres Classes d'Effectifs,3644611.88,395,200,85,#AAAAAA,"3,6 M€",395 aides,200 entreprises
+0 salarié,3999274.09,1878,558,86,#8E24AA,"4,0 M€",1 878 aides,558 entreprises
+1 ou 2 salariés,13487688.00,5401,1722,86,#7E57C2,"13,5 M€",5 401 aides,1 722 entreprises
+3 à 5 salariés,5827700.78,1882,636,86,#5C6BC0,"5,8 M€",1 882 aides,636 entreprises
+6 à 9 salariés,2690546.00,652,235,86,#1E88E5,"2,7 M€",652 aides,235 entreprises
+Etablissement non employeur,2899283.00,1805,577,86,#D81B60,"2,9 M€",1 805 aides,577 entreprises
+Autres Classes d'Effectifs,3301895.00,321,134,86,#AAAAAA,"3,3 M€",321 aides,134 entreprises
+0 salarié,4613440.37,2156,613,87,#8E24AA,"4,6 M€",2 156 aides,613 entreprises
+1 ou 2 salariés,13166325.01,5163,1592,87,#7E57C2,"13,2 M€",5 163 aides,1 592 entreprises
+3 à 5 salariés,6367114.00,1872,628,87,#5C6BC0,"6,4 M€",1 872 aides,628 entreprises
+6 à 9 salariés,2927414.55,696,214,87,#1E88E5,"2,9 M€",696 aides,214 entreprises
+Etablissement non employeur,3744559.00,2364,737,87,#D81B60,"3,7 M€",2 364 aides,737 entreprises
+Autres Classes d'Effectifs,3090105.00,335,133,87,#AAAAAA,"3,1 M€",335 aides,133 entreprises
+0 salarié,5586822.00,2551,737,88,#8E24AA,"5,6 M€",2 551 aides,737 entreprises
+1 ou 2 salariés,16909241.90,6384,1927,88,#7E57C2,"16,9 M€",6 384 aides,1 927 entreprises
+3 à 5 salariés,6910156.20,2151,705,88,#5C6BC0,"6,9 M€",2 151 aides,705 entreprises
+6 à 9 salariés,2704394.00,696,225,88,#1E88E5,"2,7 M€",696 aides,225 entreprises
+Etablissement non employeur,3923065.00,2453,756,88,#D81B60,"3,9 M€",2 453 aides,756 entreprises
+Autres Classes d'Effectifs,2005268.00,276,118,88,#AAAAAA,"2,0 M€",276 aides,118 entreprises
+0 salarié,3939149.00,1737,535,89,#8E24AA,"3,9 M€",1 737 aides,535 entreprises
+1 ou 2 salariés,13229732.05,5176,1623,89,#7E57C2,"13,2 M€",5 176 aides,1 623 entreprises
+3 à 5 salariés,5059667.00,1557,518,89,#5C6BC0,"5,1 M€",1 557 aides,518 entreprises
+6 à 9 salariés,1823102.00,464,167,89,#1E88E5,"1,8 M€",464 aides,167 entreprises
+Etablissement non employeur,2716012.00,1716,529,89,#D81B60,"2,7 M€",1 716 aides,529 entreprises
+Autres Classes d'Effectifs,1337024.00,150,67,89,#AAAAAA,"1,3 M€",150 aides,67 entreprises
+0 salarié,1365620.00,641,201,90,#8E24AA,"1,4 M€",641 aides,201 entreprises
+1 ou 2 salariés,5197697.00,1897,561,90,#7E57C2,"5,2 M€",1 897 aides,561 entreprises
+3 à 5 salariés,2540111.00,731,236,90,#5C6BC0,"2,5 M€",731 aides,236 entreprises
+6 à 9 salariés,943088.00,207,69,90,#1E88E5,"0,9 M€",207 aides,69 entreprises
+Etablissement non employeur,891565.00,541,167,90,#D81B60,"0,9 M€",541 aides,167 entreprises
+Autres Classes d'Effectifs,729721.00,97,43,90,#AAAAAA,"0,7 M€",97 aides,43 entreprises
+0 salarié,12814799.00,6056,1657,91,#8E24AA,"12,8 M€",6 056 aides,1 657 entreprises
+1 ou 2 salariés,39465594.39,16614,4997,91,#7E57C2,"39,5 M€",16 614 aides,4 997 entreprises
+3 à 5 salariés,20852754.46,6625,2170,91,#5C6BC0,"20,9 M€",6 625 aides,2 170 entreprises
+6 à 9 salariés,8262096.00,2170,736,91,#1E88E5,"8,3 M€",2 170 aides,736 entreprises
+Etablissement non employeur,8983352.70,5376,1529,91,#D81B60,"9,0 M€",5 376 aides,1 529 entreprises
+Autres Classes d'Effectifs,6368885.00,830,341,91,#AAAAAA,"6,4 M€",830 aides,341 entreprises
+0 salarié,26217038.88,11799,2987,92,#8E24AA,"26,2 M€",11 799 aides,2 987 entreprises
+1 ou 2 salariés,71163808.59,27774,7372,92,#7E57C2,"71,2 M€",27 774 aides,7 372 entreprises
+3 à 5 salariés,46049339.85,13053,3553,92,#5C6BC0,"46,0 M€",13 053 aides,3 553 entreprises
+6 à 9 salariés,21739270.29,4705,1359,92,#1E88E5,"21,7 M€",4 705 aides,1 359 entreprises
+Etablissement non employeur,15758835.83,9606,2505,92,#D81B60,"15,8 M€",9 606 aides,2 505 entreprises
+Autres Classes d'Effectifs,18717864.00,2096,785,92,#AAAAAA,"18,7 M€",2 096 aides,785 entreprises
+0 salarié,20186519.13,9734,2279,93,#8E24AA,"20,2 M€",9 734 aides,2 279 entreprises
+1 ou 2 salariés,73991369.19,31833,8294,93,#7E57C2,"74,0 M€",31 833 aides,8 294 entreprises
+3 à 5 salariés,44001260.33,14679,4434,93,#5C6BC0,"44,0 M€",14 679 aides,4 434 entreprises
+6 à 9 salariés,15483815.00,4322,1441,93,#1E88E5,"15,5 M€",4 322 aides,1 441 entreprises
+Etablissement non employeur,16326150.89,10037,2199,93,#D81B60,"16,3 M€",10 037 aides,2 199 entreprises
+Autres Classes d'Effectifs,11945960.75,1770,647,93,#AAAAAA,"11,9 M€",1 770 aides,647 entreprises
+0 salarié,18250022.38,8401,2158,94,#8E24AA,"18,3 M€",8 401 aides,2 158 entreprises
+1 ou 2 salariés,57404924.45,23585,6434,94,#7E57C2,"57,4 M€",23 585 aides,6 434 entreprises
+3 à 5 salariés,31229220.08,9855,2884,94,#5C6BC0,"31,2 M€",9 855 aides,2 884 entreprises
+6 à 9 salariés,12922122.09,3237,1007,94,#1E88E5,"12,9 M€",3 237 aides,1 007 entreprises
+Etablissement non employeur,14087817.34,8707,2094,94,#D81B60,"14,1 M€",8 707 aides,2 094 entreprises
+Autres Classes d'Effectifs,9810479.00,1343,519,94,#AAAAAA,"9,8 M€",1 343 aides,519 entreprises
+0 salarié,12608711.71,6279,1614,95,#8E24AA,"12,6 M€",6 279 aides,1 614 entreprises
+1 ou 2 salariés,44242782.67,18852,5345,95,#7E57C2,"44,2 M€",18 852 aides,5 345 entreprises
+3 à 5 salariés,23085241.02,7793,2467,95,#5C6BC0,"23,1 M€",7 793 aides,2 467 entreprises
+6 à 9 salariés,9221402.74,2497,800,95,#1E88E5,"9,2 M€",2 497 aides,800 entreprises
+Etablissement non employeur,10176075.72,6415,1606,95,#D81B60,"10,2 M€",6 415 aides,1 606 entreprises
+Autres Classes d'Effectifs,7969860.00,1015,411,95,#AAAAAA,"8,0 M€",1 015 aides,411 entreprises
+0 salarié,4987034.00,2880,771,971,#8E24AA,"5,0 M€",2 880 aides,771 entreprises
+1 ou 2 salariés,17005176.76,9564,2730,971,#7E57C2,"17,0 M€",9 564 aides,2 730 entreprises
+3 à 5 salariés,6534122.74,3233,993,971,#5C6BC0,"6,5 M€",3 233 aides,993 entreprises
+6 à 9 salariés,2632828.14,1070,353,971,#1E88E5,"2,6 M€",1 070 aides,353 entreprises
+Etablissement non employeur,15499705.00,9961,2568,971,#D81B60,"15,5 M€",9 961 aides,2 568 entreprises
+Autres Classes d'Effectifs,1386852.00,396,122,971,#AAAAAA,"1,4 M€",396 aides,122 entreprises
+0 salarié,4731770.00,2449,676,972,#8E24AA,"4,7 M€",2 449 aides,676 entreprises
+1 ou 2 salariés,16600057.34,7867,2202,972,#7E57C2,"16,6 M€",7 867 aides,2 202 entreprises
+3 à 5 salariés,7031617.60,2843,924,972,#5C6BC0,"7,0 M€",2 843 aides,924 entreprises
+6 à 9 salariés,2909041.00,1061,351,972,#1E88E5,"2,9 M€",1 061 aides,351 entreprises
+Etablissement non employeur,7779411.00,5230,1398,972,#D81B60,"7,8 M€",5 230 aides,1 398 entreprises
+Autres Classes d'Effectifs,1989441.00,463,176,972,#AAAAAA,"2,0 M€",463 aides,176 entreprises
+0 salarié,4499462.77,1949,369,973,#8E24AA,"4,5 M€",1 949 aides,369 entreprises
+1 ou 2 salariés,10647052.56,4636,941,973,#7E57C2,"10,6 M€",4 636 aides,941 entreprises
+3 à 5 salariés,4899139.00,1883,400,973,#5C6BC0,"4,9 M€",1 883 aides,400 entreprises
+6 à 9 salariés,1745860.00,629,139,973,#1E88E5,"1,7 M€",629 aides,139 entreprises
+Etablissement non employeur,5994011.00,2956,548,973,#D81B60,"6,0 M€",2 956 aides,548 entreprises
 Autres Classes d'Effectifs,855731.69,280,66,973,#AAAAAA,"0,9 M€",280 aides,66 entreprises
-0 salarié,9362691.00,5849,1882,974,#8E24AA,"9,4 M€",5 849 aides,1 882 entreprises
-1 ou 2 salariés,23106431.16,14010,4927,974,#7E57C2,"23,1 M€",14 010 aides,4 927 entreprises
-3 à 5 salariés,7823904.21,4497,1825,974,#5C6BC0,"7,8 M€",4 497 aides,1 825 entreprises
-6 à 9 salariés,3187337.44,1611,673,974,#1E88E5,"3,2 M€",1 611 aides,673 entreprises
-Etablissement non employeur,9060086.00,6561,2046,974,#D81B60,"9,1 M€",6 561 aides,2 046 entreprises
-Autres Classes d'Effectifs,2547061.00,543,199,974,#AAAAAA,"2,5 M€",543 aides,199 entreprises
-0 salarié,2584003.00,1083,234,976,#8E24AA,"2,6 M€",1 083 aides,234 entreprises
+0 salarié,9485415.00,5876,1882,974,#8E24AA,"9,5 M€",5 876 aides,1 882 entreprises
+1 ou 2 salariés,23312809.16,14055,4929,974,#7E57C2,"23,3 M€",14 055 aides,4 929 entreprises
+3 à 5 salariés,7861961.21,4502,1825,974,#5C6BC0,"7,9 M€",4 502 aides,1 825 entreprises
+6 à 9 salariés,3197337.44,1612,674,974,#1E88E5,"3,2 M€",1 612 aides,674 entreprises
+Etablissement non employeur,9117116.00,6589,2046,974,#D81B60,"9,1 M€",6 589 aides,2 046 entreprises
+Autres Classes d'Effectifs,2578561.00,547,199,974,#AAAAAA,"2,6 M€",547 aides,199 entreprises
+0 salarié,2615503.00,1087,234,976,#8E24AA,"2,6 M€",1 087 aides,234 entreprises
 1 ou 2 salariés,1992839.00,754,135,976,#7E57C2,"2,0 M€",754 aides,135 entreprises
 3 à 5 salariés,638520.00,268,61,976,#5C6BC0,"0,6 M€",268 aides,61 entreprises
 6 à 9 salariés,168600.00,77,21,976,#1E88E5,"0,2 M€",77 aides,21 entreprises
