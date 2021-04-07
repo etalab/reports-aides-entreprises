@@ -32,17 +32,17 @@ Santé humaine et action sociale,1163275.00,31.00,974,#E53935,"1,2 M€",31 aide
 Hébergement et restauration,931804.00,76.00,974,#26A69A,"0,9 M€",76 aides
 Activités de services administratifs et de soutien,761432.00,40.00,974,#FF7043,"0,8 M€",40 aides
 Autres sections NAF,1400206.00,106.00,974,#AAAAAA,"1,4 M€",106 aides
-Commerce,34020389.00,283.00,78,#29B6F6,"34,0 M€",283 aides
+Commerce,34021726.00,284.00,78,#29B6F6,"34,0 M€",284 aides
 Activités immobilières,29284806.00,95.00,78,#FFCA28,"29,3 M€",95 aides
 Activités de services administratifs et de soutien,12350259.00,73.00,78,#FF7043,"12,4 M€",73 aides
 Industrie manufacturière,11068381.00,85.00,78,#AB47BC,"11,1 M€",85 aides
-"Activités spécialisées, scientifiques et techniques",5813058.00,229.00,78,#FFA726,"5,8 M€",229 aides
+"Activités spécialisées, scientifiques et techniques",5813362.00,230.00,78,#FFA726,"5,8 M€",230 aides
 Transports et entreposage,3296641.00,55.00,78,#26C6DA,"3,3 M€",55 aides
-Hébergement et restauration,3258146.00,276.00,78,#26A69A,"3,3 M€",276 aides
+Hébergement et restauration,3268992.00,278.00,78,#26A69A,"3,3 M€",278 aides
 Activités financières et d'assurance,2055486.00,59.00,78,#9CCC65,"2,1 M€",59 aides
 Construction,1951372.00,124.00,78,#42A5F5,"2,0 M€",124 aides
 Santé humaine et action sociale,1405959.00,57.00,78,#E53935,"1,4 M€",57 aides
-Autres sections NAF,2773635.00,202.00,78,#AAAAAA,"2,8 M€",202 aides
+Autres sections NAF,2774395.00,203.00,78,#AAAAAA,"2,8 M€",203 aides
 Commerce,3614561.00,112.00,80,#29B6F6,"3,6 M€",112 aides
 Industrie manufacturière,2519549.00,45.00,80,#AB47BC,"2,5 M€",45 aides
 Construction,1240440.00,48.00,80,#42A5F5,"1,2 M€",48 aides
@@ -52,8 +52,8 @@ Hébergement et restauration,629798.00,97.00,80,#26A69A,"0,6 M€",97 aides
 Santé humaine et action sociale,291243.00,19.00,80,#E53935,"0,3 M€",19 aides
 Activités immobilières,155721.00,31.00,80,#FFCA28,"0,2 M€",31 aides
 Activités financières et d'assurance,153106.00,15.00,80,#9CCC65,"0,2 M€",15 aides
-Non connu,136293.00,8.00,80,#AAAAAA,"0,1 M€",8 aides
-Autres sections NAF,365153.00,53.00,80,#AAAAAA,"0,4 M€",53 aides
+Autres activités de services,125766.00,27.00,80,#5E35B1,"0,1 M€",27 aides
+Autres sections NAF,375680.00,34.00,80,#AAAAAA,"0,4 M€",34 aides
 Commerce,2096150.00,145.00,2B,#29B6F6,"2,1 M€",145 aides
 Construction,1014387.00,56.00,2B,#42A5F5,"1,0 M€",56 aides
 Industrie manufacturière,943237.00,27.00,2B,#AB47BC,"0,9 M€",27 aides
@@ -63,8 +63,8 @@ Activités immobilières,414471.00,46.00,2B,#FFCA28,"0,4 M€",46 aides
 Activités de services administratifs et de soutien,324568.00,19.00,2B,#FF7043,"0,3 M€",19 aides
 "Activités spécialisées, scientifiques et techniques",307876.00,44.00,2B,#FFA726,"0,3 M€",44 aides
 Information et communication,272199.00,8.00,2B,#66BB6A,"0,3 M€",8 aides
-Non connu,162672.00,10.00,2B,#AAAAAA,"0,2 M€",10 aides
-Autres sections NAF,604566.00,77.00,2B,#AAAAAA,"0,6 M€",77 aides
+Non connu,178757.00,5.00,2B,#AAAAAA,"0,2 M€",5 aides
+Autres sections NAF,588481.00,82.00,2B,#AAAAAA,"0,6 M€",82 aides
 Industrie manufacturière,765093.00,27.00,52,#AB47BC,"0,8 M€",27 aides
 Commerce,310957.00,34.00,52,#29B6F6,"0,3 M€",34 aides
 "Arts, spectacles et activités récréatives",223847.00,5.00,52,#8E24AA,"0,2 M€",5 aides
@@ -86,7 +86,7 @@ Transports et entreposage,633677.00,15.00,40,#26C6DA,"0,6 M€",15 aides
 Activités financières et d'assurance,566562.00,16.00,40,#9CCC65,"0,6 M€",16 aides
 "Activités spécialisées, scientifiques et techniques",441639.00,26.00,40,#FFA726,"0,4 M€",26 aides
 Activités immobilières,209961.00,34.00,40,#FFCA28,"0,2 M€",34 aides
-Autres sections NAF,820074.00,69.00,40,#AAAAAA,"0,8 M€",69 aides
+Autres sections NAF,863333.00,69.00,40,#AAAAAA,"0,9 M€",69 aides
 Industrie manufacturière,1788035.00,34.00,19,#AB47BC,"1,8 M€",34 aides
 Commerce,991258.00,46.00,19,#29B6F6,"1,0 M€",46 aides
 Construction,260484.00,21.00,19,#42A5F5,"0,3 M€",21 aides
@@ -109,9 +109,9 @@ Activités immobilières,916082.00,75.00,68,#FFCA28,"0,9 M€",75 aides
 Activités de services administratifs et de soutien,542515.00,33.00,68,#FF7043,"0,5 M€",33 aides
 Transports et entreposage,454016.00,19.00,68,#26C6DA,"0,5 M€",19 aides
 Autres sections NAF,673164.00,99.00,68,#AAAAAA,"0,7 M€",99 aides
-Commerce,9350213.00,338.00,38,#29B6F6,"9,4 M€",338 aides
+Commerce,9351161.00,338.00,38,#29B6F6,"9,4 M€",338 aides
 "Activités spécialisées, scientifiques et techniques",6967528.00,177.00,38,#FFA726,"7,0 M€",177 aides
-Industrie manufacturière,6872158.00,153.00,38,#AB47BC,"6,9 M€",153 aides
+Industrie manufacturière,6879287.00,153.00,38,#AB47BC,"6,9 M€",153 aides
 Construction,5261958.00,187.00,38,#42A5F5,"5,3 M€",187 aides
 Information et communication,2353221.00,36.00,38,#66BB6A,"2,4 M€",36 aides
 Activités financières et d'assurance,2198865.00,60.00,38,#9CCC65,"2,2 M€",60 aides
@@ -120,17 +120,17 @@ Hébergement et restauration,1881354.00,251.00,38,#26A69A,"1,9 M€",251 aides
 "Arts, spectacles et activités récréatives",1351703.00,56.00,38,#8E24AA,"1,4 M€",56 aides
 "Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné",1242897.00,6.00,38,#7E57C2,"1,2 M€",6 aides
 Autres sections NAF,3203238.00,288.00,38,#AAAAAA,"3,2 M€",288 aides
-Commerce,14604417.00,423.00,31,#29B6F6,"14,6 M€",423 aides
+Commerce,14641277.00,423.00,31,#29B6F6,"14,6 M€",423 aides
 Construction,13538668.00,201.00,31,#42A5F5,"13,5 M€",201 aides
 Activités financières et d'assurance,10058055.00,78.00,31,#9CCC65,"10,1 M€",78 aides
-Industrie manufacturière,6282110.00,111.00,31,#AB47BC,"6,3 M€",111 aides
+Industrie manufacturière,6290883.00,111.00,31,#AB47BC,"6,3 M€",111 aides
 "Activités spécialisées, scientifiques et techniques",5968515.00,211.00,31,#FFA726,"6,0 M€",211 aides
 Activités de services administratifs et de soutien,5230749.00,106.00,31,#FF7043,"5,2 M€",106 aides
 Activités immobilières,3513313.00,153.00,31,#FFCA28,"3,5 M€",153 aides
 Transports et entreposage,3406323.00,93.00,31,#26C6DA,"3,4 M€",93 aides
-Hébergement et restauration,1969399.00,271.00,31,#26A69A,"2,0 M€",271 aides
+Hébergement et restauration,1976952.00,272.00,31,#26A69A,"2,0 M€",272 aides
 Santé humaine et action sociale,1847528.00,48.00,31,#E53935,"1,8 M€",48 aides
-Autres sections NAF,3305635.00,288.00,31,#AAAAAA,"3,3 M€",288 aides
+Autres sections NAF,3314789.00,289.00,31,#AAAAAA,"3,3 M€",289 aides
 "Activités spécialisées, scientifiques et techniques",8403447.00,68.00,73,#FFA726,"8,4 M€",68 aides
 Commerce,6119156.00,255.00,73,#29B6F6,"6,1 M€",255 aides
 Hébergement et restauration,5016003.00,317.00,73,#26A69A,"5,0 M€",317 aides
@@ -139,7 +139,7 @@ Transports et entreposage,2913907.00,33.00,73,#26C6DA,"2,9 M€",33 aides
 Activités de services administratifs et de soutien,1945157.00,49.00,73,#FF7043,"1,9 M€",49 aides
 Construction,1856735.00,91.00,73,#42A5F5,"1,9 M€",91 aides
 "Arts, spectacles et activités récréatives",1072585.00,32.00,73,#8E24AA,"1,1 M€",32 aides
-Activités immobilières,1002859.00,85.00,73,#FFCA28,"1,0 M€",85 aides
+Activités immobilières,1014472.00,86.00,73,#FFCA28,"1,0 M€",86 aides
 Information et communication,807597.00,25.00,73,#66BB6A,"0,8 M€",25 aides
 Autres sections NAF,1601678.00,111.00,73,#AAAAAA,"1,6 M€",111 aides
 Industrie manufacturière,2216276.00,21.00,09,#AB47BC,"2,2 M€",21 aides
@@ -154,15 +154,15 @@ Construction,41446.00,11.00,09,#42A5F5,"0,0 M€",11 aides
 Activités de services administratifs et de soutien,24834.00,7.00,09,#FF7043,"0,0 M€",7 aides
 Autres sections NAF,43568.00,11.00,09,#AAAAAA,"0,0 M€",11 aides
 Commerce,18029121.00,323.00,67,#29B6F6,"18,0 M€",323 aides
-Industrie manufacturière,11381959.00,109.00,67,#AB47BC,"11,4 M€",109 aides
+Industrie manufacturière,11478319.00,110.00,67,#AB47BC,"11,5 M€",110 aides
 Activités financières et d'assurance,3120617.00,65.00,67,#9CCC65,"3,1 M€",65 aides
 Activités immobilières,2924354.00,123.00,67,#FFCA28,"2,9 M€",123 aides
 Hébergement et restauration,2874141.00,201.00,67,#26A69A,"2,9 M€",201 aides
 Construction,2271469.00,130.00,67,#42A5F5,"2,3 M€",130 aides
 "Activités spécialisées, scientifiques et techniques",2006603.00,127.00,67,#FFA726,"2,0 M€",127 aides
 Santé humaine et action sociale,1437303.00,72.00,67,#E53935,"1,4 M€",72 aides
-Transports et entreposage,1074482.00,43.00,67,#26C6DA,"1,1 M€",43 aides
-Activités de services administratifs et de soutien,984449.00,57.00,67,#FF7043,"1,0 M€",57 aides
+Transports et entreposage,1075694.00,44.00,67,#26C6DA,"1,1 M€",44 aides
+Activités de services administratifs et de soutien,1011663.00,58.00,67,#FF7043,"1,0 M€",58 aides
 Autres sections NAF,1361569.00,112.00,67,#AAAAAA,"1,4 M€",112 aides
 Industrie manufacturière,6408309.00,71.00,27,#AB47BC,"6,4 M€",71 aides
 Commerce,4527943.00,158.00,27,#29B6F6,"4,5 M€",158 aides
@@ -218,17 +218,17 @@ Activités de services administratifs et de soutien,189089.00,17.00,28,#FF7043,"
 Activités immobilières,152133.00,22.00,28,#FFCA28,"0,2 M€",22 aides
 Santé humaine et action sociale,103417.00,9.00,28,#E53935,"0,1 M€",9 aides
 Autres sections NAF,230996.00,55.00,28,#AAAAAA,"0,2 M€",55 aides
-Commerce,7561066.00,336.00,06,#29B6F6,"7,6 M€",336 aides
-Transports et entreposage,5641074.00,62.00,06,#26C6DA,"5,6 M€",62 aides
-Industrie manufacturière,4040005.00,82.00,06,#AB47BC,"4,0 M€",82 aides
-Hébergement et restauration,3904984.00,295.00,06,#26A69A,"3,9 M€",295 aides
-"Activités spécialisées, scientifiques et techniques",2438302.00,110.00,06,#FFA726,"2,4 M€",110 aides
-Construction,2192207.00,131.00,06,#42A5F5,"2,2 M€",131 aides
-Activités de services administratifs et de soutien,976043.00,64.00,06,#FF7043,"1,0 M€",64 aides
-Information et communication,946923.00,28.00,06,#66BB6A,"0,9 M€",28 aides
-Activités immobilières,870039.00,92.00,06,#FFCA28,"0,9 M€",92 aides
-Enseignement,839553.00,25.00,06,#00897B,"0,8 M€",25 aides
-Autres sections NAF,2524762.00,198.00,06,#AAAAAA,"2,5 M€",198 aides
+Commerce,7572223.00,336.00,06,#29B6F6,"7,6 M€",336 aides
+Transports et entreposage,5644876.00,62.00,06,#26C6DA,"5,6 M€",62 aides
+Industrie manufacturière,4046753.00,82.00,06,#AB47BC,"4,0 M€",82 aides
+Hébergement et restauration,3947220.00,295.00,06,#26A69A,"3,9 M€",295 aides
+"Activités spécialisées, scientifiques et techniques",2440791.00,110.00,06,#FFA726,"2,4 M€",110 aides
+Construction,2206492.00,131.00,06,#42A5F5,"2,2 M€",131 aides
+Activités de services administratifs et de soutien,976728.00,64.00,06,#FF7043,"1,0 M€",64 aides
+Information et communication,949078.00,29.00,06,#66BB6A,"0,9 M€",29 aides
+Activités immobilières,885670.00,92.00,06,#FFCA28,"0,9 M€",92 aides
+Enseignement,851959.00,25.00,06,#00897B,"0,9 M€",25 aides
+Autres sections NAF,2580648.00,198.00,06,#AAAAAA,"2,6 M€",198 aides
 Commerce,3525399.00,218.00,84,#29B6F6,"3,5 M€",218 aides
 Construction,1441078.00,96.00,84,#42A5F5,"1,4 M€",96 aides
 Hébergement et restauration,1052963.00,162.00,84,#26A69A,"1,1 M€",162 aides
@@ -251,17 +251,17 @@ Activités immobilières,399433.00,38.00,01,#FFCA28,"0,4 M€",38 aides
 Santé humaine et action sociale,349626.00,16.00,01,#E53935,"0,3 M€",16 aides
 "Activités spécialisées, scientifiques et techniques",332385.00,31.00,01,#FFA726,"0,3 M€",31 aides
 Autres sections NAF,671037.00,66.00,01,#AAAAAA,"0,7 M€",66 aides
-Commerce,15969624.00,620.00,33,#29B6F6,"16,0 M€",620 aides
+Commerce,15971939.00,621.00,33,#29B6F6,"16,0 M€",621 aides
 Construction,11817731.00,258.00,33,#42A5F5,"11,8 M€",258 aides
 Industrie manufacturière,10143353.00,148.00,33,#AB47BC,"10,1 M€",148 aides
 Information et communication,6921623.00,59.00,33,#66BB6A,"6,9 M€",59 aides
-Hébergement et restauration,5156465.00,487.00,33,#26A69A,"5,2 M€",487 aides
-Activités immobilières,4636330.00,269.00,33,#FFCA28,"4,6 M€",269 aides
+Hébergement et restauration,5161866.00,490.00,33,#26A69A,"5,2 M€",490 aides
+Activités immobilières,4751584.00,270.00,33,#FFCA28,"4,8 M€",270 aides
 "Agriculture, sylviculture et pêche",4172997.00,67.00,33,#EF5350,"4,2 M€",67 aides
 "Activités spécialisées, scientifiques et techniques",2885480.00,286.00,33,#FFA726,"2,9 M€",286 aides
 Transports et entreposage,2678576.00,72.00,33,#26C6DA,"2,7 M€",72 aides
 Activités financières et d'assurance,2566642.00,120.00,33,#9CCC65,"2,6 M€",120 aides
-Autres sections NAF,6549084.00,423.00,33,#AAAAAA,"6,5 M€",423 aides
+Autres sections NAF,6550050.00,424.00,33,#AAAAAA,"6,6 M€",424 aides
 Construction,7119188.00,27.00,02,#42A5F5,"7,1 M€",27 aides
 Commerce,3278016.00,81.00,02,#29B6F6,"3,3 M€",81 aides
 Industrie manufacturière,3175269.00,35.00,02,#AB47BC,"3,2 M€",35 aides
@@ -330,7 +330,7 @@ Santé humaine et action sociale,754954.00,36.00,85,#E53935,"0,8 M€",36 aides
 Autres sections NAF,1977846.00,173.00,85,#AAAAAA,"2,0 M€",173 aides
 Industrie manufacturière,7768842.00,65.00,79,#AB47BC,"7,8 M€",65 aides
 Commerce,2671194.00,116.00,79,#29B6F6,"2,7 M€",116 aides
-Non connu,1788195.00,17.00,79,#AAAAAA,"1,8 M€",17 aides
+Non connu,1799798.00,5.00,79,#AAAAAA,"1,8 M€",5 aides
 Construction,1446128.00,59.00,79,#42A5F5,"1,4 M€",59 aides
 Activités financières et d'assurance,369162.00,16.00,79,#9CCC65,"0,4 M€",16 aides
 Transports et entreposage,300317.00,15.00,79,#26C6DA,"0,3 M€",15 aides
@@ -338,7 +338,7 @@ Transports et entreposage,300317.00,15.00,79,#26C6DA,"0,3 M€",15 aides
 Hébergement et restauration,269031.00,58.00,79,#26A69A,"0,3 M€",58 aides
 Information et communication,253910.00,6.00,79,#66BB6A,"0,3 M€",6 aides
 Activités immobilières,223380.00,21.00,79,#FFCA28,"0,2 M€",21 aides
-Autres sections NAF,422422.00,49.00,79,#AAAAAA,"0,4 M€",49 aides
+Autres sections NAF,410819.00,61.00,79,#AAAAAA,"0,4 M€",61 aides
 Non connu,2735539.00,10.00,971,#AAAAAA,"2,7 M€",10 aides
 Commerce,1842907.00,40.00,971,#29B6F6,"1,8 M€",40 aides
 Information et communication,1567427.00,6.00,971,#66BB6A,"1,6 M€",6 aides
@@ -350,53 +350,53 @@ Industrie manufacturière,163294.00,13.00,971,#AB47BC,"0,2 M€",13 aides
 Activités de services administratifs et de soutien,149922.00,14.00,971,#FF7043,"0,1 M€",14 aides
 "Activités spécialisées, scientifiques et techniques",78210.00,8.00,971,#FFA726,"0,1 M€",8 aides
 Autres sections NAF,60600.00,8.00,971,#AAAAAA,"0,1 M€",8 aides
-Commerce,28817529.00,316.00,93,#29B6F6,"28,8 M€",316 aides
-Hébergement et restauration,6963714.00,184.00,93,#26A69A,"7,0 M€",184 aides
-"Activités spécialisées, scientifiques et techniques",6467345.00,131.00,93,#FFA726,"6,5 M€",131 aides
+Commerce,28829697.00,316.00,93,#29B6F6,"28,8 M€",316 aides
+Hébergement et restauration,6968070.00,184.00,93,#26A69A,"7,0 M€",184 aides
+"Activités spécialisées, scientifiques et techniques",6486769.00,132.00,93,#FFA726,"6,5 M€",132 aides
 Information et communication,3617796.00,73.00,93,#66BB6A,"3,6 M€",73 aides
 Industrie manufacturière,3474846.00,87.00,93,#AB47BC,"3,5 M€",87 aides
-Construction,3247046.00,188.00,93,#42A5F5,"3,2 M€",188 aides
-Transports et entreposage,2731461.00,141.00,93,#26C6DA,"2,7 M€",141 aides
+Construction,3259480.00,189.00,93,#42A5F5,"3,3 M€",189 aides
+Transports et entreposage,2738836.00,142.00,93,#26C6DA,"2,7 M€",142 aides
 Activités financières et d'assurance,2679623.00,21.00,93,#9CCC65,"2,7 M€",21 aides
 Activités de services administratifs et de soutien,2662190.00,135.00,93,#FF7043,"2,7 M€",135 aides
-"Arts, spectacles et activités récréatives",1552839.00,43.00,93,#8E24AA,"1,6 M€",43 aides
-Autres sections NAF,2615030.00,169.00,93,#AAAAAA,"2,6 M€",169 aides
-Commerce,12016974.00,418.00,34,#29B6F6,"12,0 M€",418 aides
-Activités immobilières,4296549.00,165.00,34,#FFCA28,"4,3 M€",165 aides
+"Arts, spectacles et activités récréatives",1558405.00,43.00,93,#8E24AA,"1,6 M€",43 aides
+Autres sections NAF,2640915.00,170.00,93,#AAAAAA,"2,6 M€",170 aides
+Commerce,12023242.00,419.00,34,#29B6F6,"12,0 M€",419 aides
+Activités immobilières,4313657.00,167.00,34,#FFCA28,"4,3 M€",167 aides
 Industrie manufacturière,4073644.00,87.00,34,#AB47BC,"4,1 M€",87 aides
-Hébergement et restauration,3533284.00,319.00,34,#26A69A,"3,5 M€",319 aides
-"Activités spécialisées, scientifiques et techniques",3033288.00,128.00,34,#FFA726,"3,0 M€",128 aides
-Activités de services administratifs et de soutien,2907882.00,84.00,34,#FF7043,"2,9 M€",84 aides
+Hébergement et restauration,3546156.00,321.00,34,#26A69A,"3,5 M€",321 aides
+"Activités spécialisées, scientifiques et techniques",3037408.00,129.00,34,#FFA726,"3,0 M€",129 aides
+Activités de services administratifs et de soutien,2914481.00,85.00,34,#FF7043,"2,9 M€",85 aides
 Activités financières et d'assurance,2853575.00,60.00,34,#9CCC65,"2,9 M€",60 aides
 Construction,2825018.00,181.00,34,#42A5F5,"2,8 M€",181 aides
-Autres activités de services,1103333.00,79.00,34,#5E35B1,"1,1 M€",79 aides
+Autres activités de services,1105265.00,80.00,34,#5E35B1,"1,1 M€",80 aides
 Information et communication,912322.00,45.00,34,#66BB6A,"0,9 M€",45 aides
-Autres sections NAF,3564280.00,170.00,34,#AAAAAA,"3,6 M€",170 aides
-Commerce,5631300.00,205.00,30,#29B6F6,"5,6 M€",205 aides
+Autres sections NAF,3600916.00,170.00,34,#AAAAAA,"3,6 M€",170 aides
+Commerce,5635414.00,205.00,30,#29B6F6,"5,6 M€",205 aides
 "Arts, spectacles et activités récréatives",2057528.00,26.00,30,#8E24AA,"2,1 M€",26 aides
 Hébergement et restauration,1153269.00,118.00,30,#26A69A,"1,2 M€",118 aides
 Industrie manufacturière,991256.00,62.00,30,#AB47BC,"1,0 M€",62 aides
 Activités financières et d'assurance,857948.00,26.00,30,#9CCC65,"0,9 M€",26 aides
 Transports et entreposage,832723.00,22.00,30,#26C6DA,"0,8 M€",22 aides
-"Activités spécialisées, scientifiques et techniques",740771.00,61.00,30,#FFA726,"0,7 M€",61 aides
+"Activités spécialisées, scientifiques et techniques",787300.00,61.00,30,#FFA726,"0,8 M€",61 aides
 Construction,670652.00,86.00,30,#42A5F5,"0,7 M€",86 aides
 Activités immobilières,429504.00,57.00,30,#FFCA28,"0,4 M€",57 aides
 Santé humaine et action sociale,326904.00,22.00,30,#E53935,"0,3 M€",22 aides
 Autres sections NAF,726738.00,84.00,30,#AAAAAA,"0,7 M€",84 aides
-Commerce,11473042.00,561.00,13,#29B6F6,"11,5 M€",561 aides
+Commerce,11486070.00,563.00,13,#29B6F6,"11,5 M€",563 aides
 "Activités spécialisées, scientifiques et techniques",9464005.00,237.00,13,#FFA726,"9,5 M€",237 aides
-Hébergement et restauration,6624503.00,442.00,13,#26A69A,"6,6 M€",442 aides
-Industrie manufacturière,6356200.00,161.00,13,#AB47BC,"6,4 M€",161 aides
+Hébergement et restauration,6634975.00,444.00,13,#26A69A,"6,6 M€",444 aides
+Industrie manufacturière,6357686.00,162.00,13,#AB47BC,"6,4 M€",162 aides
 Activités de services administratifs et de soutien,4953650.00,122.00,13,#FF7043,"5,0 M€",122 aides
-Construction,3930225.00,224.00,13,#42A5F5,"3,9 M€",224 aides
-Santé humaine et action sociale,3288047.00,114.00,13,#E53935,"3,3 M€",114 aides
+Construction,3946158.00,226.00,13,#42A5F5,"3,9 M€",226 aides
+Santé humaine et action sociale,3292769.00,115.00,13,#E53935,"3,3 M€",115 aides
 Transports et entreposage,2872206.00,89.00,13,#26C6DA,"2,9 M€",89 aides
 "Arts, spectacles et activités récréatives",2710815.00,76.00,13,#8E24AA,"2,7 M€",76 aides
 Information et communication,2177194.00,56.00,13,#66BB6A,"2,2 M€",56 aides
 Autres sections NAF,4221024.00,390.00,13,#AAAAAA,"4,2 M€",390 aides
 Industrie manufacturière,22079625.00,95.00,94,#AB47BC,"22,1 M€",95 aides
-Commerce,14410798.00,388.00,94,#29B6F6,"14,4 M€",388 aides
-Construction,7314543.00,191.00,94,#42A5F5,"7,3 M€",191 aides
+Commerce,14410885.00,389.00,94,#29B6F6,"14,4 M€",389 aides
+Construction,7320953.00,191.00,94,#42A5F5,"7,3 M€",191 aides
 Information et communication,4863735.00,80.00,94,#66BB6A,"4,9 M€",80 aides
 "Activités spécialisées, scientifiques et techniques",3929975.00,187.00,94,#FFA726,"3,9 M€",187 aides
 Activités de services administratifs et de soutien,3288570.00,85.00,94,#FF7043,"3,3 M€",85 aides
@@ -412,7 +412,7 @@ Industrie manufacturière,1163526.00,53.00,12,#AB47BC,"1,2 M€",53 aides
 Enseignement,363018.00,10.00,12,#00897B,"0,4 M€",10 aides
 Hébergement et restauration,314818.00,43.00,12,#26A69A,"0,3 M€",43 aides
 Activités financières et d'assurance,270278.00,15.00,12,#9CCC65,"0,3 M€",15 aides
-Transports et entreposage,160123.00,9.00,12,#26C6DA,"0,2 M€",9 aides
+Transports et entreposage,166166.00,10.00,12,#26C6DA,"0,2 M€",10 aides
 Activités immobilières,100877.00,21.00,12,#FFCA28,"0,1 M€",21 aides
 Activités de services administratifs et de soutien,90757.00,19.00,12,#FF7043,"0,1 M€",19 aides
 Autres sections NAF,268531.00,49.00,12,#AAAAAA,"0,3 M€",49 aides
@@ -423,20 +423,20 @@ Construction,672280.00,28.00,87,#42A5F5,"0,7 M€",28 aides
 "Activités spécialisées, scientifiques et techniques",541454.00,27.00,87,#FFA726,"0,5 M€",27 aides
 Transports et entreposage,522920.00,13.00,87,#26C6DA,"0,5 M€",13 aides
 Activités de services administratifs et de soutien,414152.00,19.00,87,#FF7043,"0,4 M€",19 aides
-Hébergement et restauration,265746.00,56.00,87,#26A69A,"0,3 M€",56 aides
+Hébergement et restauration,267837.00,57.00,87,#26A69A,"0,3 M€",57 aides
 Activités immobilières,245961.00,37.00,87,#FFCA28,"0,2 M€",37 aides
 Activités financières et d'assurance,184492.00,18.00,87,#9CCC65,"0,2 M€",18 aides
 Autres sections NAF,375205.00,49.00,87,#AAAAAA,"0,4 M€",49 aides
 Commerce,12105583.00,293.00,91,#29B6F6,"12,1 M€",293 aides
 Industrie manufacturière,9267945.00,85.00,91,#AB47BC,"9,3 M€",85 aides
-Construction,7638260.00,159.00,91,#42A5F5,"7,6 M€",159 aides
+Construction,7639658.00,160.00,91,#42A5F5,"7,6 M€",160 aides
 "Activités spécialisées, scientifiques et techniques",4665573.00,151.00,91,#FFA726,"4,7 M€",151 aides
-Transports et entreposage,3510507.00,95.00,91,#26C6DA,"3,5 M€",95 aides
+Transports et entreposage,3511097.00,96.00,91,#26C6DA,"3,5 M€",96 aides
 Activités financières et d'assurance,3279670.00,35.00,91,#9CCC65,"3,3 M€",35 aides
-"Arts, spectacles et activités récréatives",2568860.00,56.00,91,#8E24AA,"2,6 M€",56 aides
+"Arts, spectacles et activités récréatives",2586829.00,58.00,91,#8E24AA,"2,6 M€",58 aides
 Activités de services administratifs et de soutien,1788104.00,78.00,91,#FF7043,"1,8 M€",78 aides
 Hébergement et restauration,1367835.00,167.00,91,#26A69A,"1,4 M€",167 aides
-Activités immobilières,1146655.00,94.00,91,#FFCA28,"1,1 M€",94 aides
+Activités immobilières,1154270.00,95.00,91,#FFCA28,"1,2 M€",95 aides
 Autres sections NAF,1974427.00,173.00,91,#AAAAAA,"2,0 M€",173 aides
 Industrie manufacturière,6709559.00,64.00,88,#AB47BC,"6,7 M€",64 aides
 Transports et entreposage,2482915.00,10.00,88,#26C6DA,"2,5 M€",10 aides
@@ -471,7 +471,7 @@ Activités de services administratifs et de soutien,2848092.00,87.00,77,#FF7043,
 Hébergement et restauration,2307232.00,198.00,77,#26A69A,"2,3 M€",198 aides
 Transports et entreposage,1847174.00,87.00,77,#26C6DA,"1,8 M€",87 aides
 Autres sections NAF,5160404.00,206.00,77,#AAAAAA,"5,2 M€",206 aides
-Activités de services administratifs et de soutien,7675399.00,37.00,95,#FF7043,"7,7 M€",37 aides
+Activités de services administratifs et de soutien,7752031.00,38.00,95,#FF7043,"7,8 M€",38 aides
 Commerce,6257274.00,158.00,95,#29B6F6,"6,3 M€",158 aides
 Construction,3731921.00,102.00,95,#42A5F5,"3,7 M€",102 aides
 Industrie manufacturière,3133638.00,63.00,95,#AB47BC,"3,1 M€",63 aides
@@ -505,7 +505,7 @@ Santé humaine et action sociale,130166.00,6.00,04,#E53935,"0,1 M€",6 aides
 Transports et entreposage,39925.00,5.00,04,#26C6DA,"0,0 M€",5 aides
 Autres sections NAF,58258.00,17.00,04,#AAAAAA,"0,1 M€",17 aides
 Industrie manufacturière,23559672.00,121.00,62,#AB47BC,"23,6 M€",121 aides
-Commerce,5132418.00,345.00,62,#29B6F6,"5,1 M€",345 aides
+Commerce,5137078.00,346.00,62,#29B6F6,"5,1 M€",346 aides
 Construction,4219559.00,125.00,62,#42A5F5,"4,2 M€",125 aides
 Hébergement et restauration,1702836.00,236.00,62,#26A69A,"1,7 M€",236 aides
 "Prod./dist. eau, assainissement, déchets, dépollution",1243768.00,10.00,62,#5C6BC0,"1,2 M€",10 aides
@@ -545,12 +545,12 @@ Construction,1591415.00,70.00,60,#42A5F5,"1,6 M€",70 aides
 Activités immobilières,1010618.00,47.00,60,#FFCA28,"1,0 M€",47 aides
 Activités de services administratifs et de soutien,740377.00,22.00,60,#FF7043,"0,7 M€",22 aides
 Hébergement et restauration,684177.00,92.00,60,#26A69A,"0,7 M€",92 aides
-Transports et entreposage,582883.00,40.00,60,#26C6DA,"0,6 M€",40 aides
+Transports et entreposage,598801.00,40.00,60,#26C6DA,"0,6 M€",40 aides
 "Arts, spectacles et activités récréatives",423610.00,16.00,60,#8E24AA,"0,4 M€",16 aides
 Autres sections NAF,703438.00,113.00,60,#AAAAAA,"0,7 M€",113 aides
 Industrie manufacturière,5962127.00,75.00,51,#AB47BC,"6,0 M€",75 aides
-Commerce,5454003.00,197.00,51,#29B6F6,"5,5 M€",197 aides
-"Activités spécialisées, scientifiques et techniques",1998110.00,87.00,51,#FFA726,"2,0 M€",87 aides
+Commerce,5466527.00,198.00,51,#29B6F6,"5,5 M€",198 aides
+"Activités spécialisées, scientifiques et techniques",2004791.00,88.00,51,#FFA726,"2,0 M€",88 aides
 "Agriculture, sylviculture et pêche",1708395.00,68.00,51,#EF5350,"1,7 M€",68 aides
 Hébergement et restauration,1578059.00,146.00,51,#26A69A,"1,6 M€",146 aides
 Construction,1464249.00,87.00,51,#42A5F5,"1,5 M€",87 aides
@@ -558,7 +558,7 @@ Activités financières et d'assurance,1006186.00,33.00,51,#9CCC65,"1,0 M€",33
 Activités de services administratifs et de soutien,830604.00,37.00,51,#FF7043,"0,8 M€",37 aides
 Santé humaine et action sociale,788411.00,19.00,51,#E53935,"0,8 M€",19 aides
 Transports et entreposage,654719.00,26.00,51,#26C6DA,"0,7 M€",26 aides
-Autres sections NAF,1408078.00,159.00,51,#AAAAAA,"1,4 M€",159 aides
+Autres sections NAF,1408820.00,160.00,51,#AAAAAA,"1,4 M€",160 aides
 Industrie manufacturière,6537870.00,61.00,39,#AB47BC,"6,5 M€",61 aides
 "Arts, spectacles et activités récréatives",1543914.00,8.00,39,#8E24AA,"1,5 M€",8 aides
 Commerce,536060.00,79.00,39,#29B6F6,"0,5 M€",79 aides
@@ -582,7 +582,7 @@ Activités de services administratifs et de soutien,193189.00,11.00,11,#FF7043,"
 Activités financières et d'assurance,158564.00,9.00,11,#9CCC65,"0,2 M€",9 aides
 Autres sections NAF,325474.00,47.00,11,#AAAAAA,"0,3 M€",47 aides
 Commerce,5565572.00,177.00,49,#29B6F6,"5,6 M€",177 aides
-Industrie manufacturière,4903367.00,111.00,49,#AB47BC,"4,9 M€",111 aides
+Industrie manufacturière,4929609.00,112.00,49,#AB47BC,"4,9 M€",112 aides
 Construction,1171936.00,67.00,49,#42A5F5,"1,2 M€",67 aides
 Santé humaine et action sociale,1171145.00,29.00,49,#E53935,"1,2 M€",29 aides
 Hébergement et restauration,1047269.00,95.00,49,#26A69A,"1,0 M€",95 aides
@@ -593,17 +593,17 @@ Activités immobilières,561264.00,57.00,49,#FFCA28,"0,6 M€",57 aides
 Enseignement,385905.00,12.00,49,#00897B,"0,4 M€",12 aides
 Autres sections NAF,1166877.00,86.00,49,#AAAAAA,"1,2 M€",86 aides
 Commerce,6865289.00,201.00,54,#29B6F6,"6,9 M€",201 aides
-Industrie manufacturière,3313326.00,65.00,54,#AB47BC,"3,3 M€",65 aides
+Industrie manufacturière,3319772.00,66.00,54,#AB47BC,"3,3 M€",66 aides
 "Arts, spectacles et activités récréatives",1558971.00,11.00,54,#8E24AA,"1,6 M€",11 aides
 Construction,1383381.00,70.00,54,#42A5F5,"1,4 M€",70 aides
 Hébergement et restauration,1233691.00,144.00,54,#26A69A,"1,2 M€",144 aides
 "Activités spécialisées, scientifiques et techniques",676858.00,48.00,54,#FFA726,"0,7 M€",48 aides
 Transports et entreposage,609897.00,16.00,54,#26C6DA,"0,6 M€",16 aides
 Activités financières et d'assurance,544567.00,26.00,54,#9CCC65,"0,5 M€",26 aides
+Activités de services administratifs et de soutien,500166.00,27.00,54,#FF7043,"0,5 M€",27 aides
 Activités immobilières,471720.00,57.00,54,#FFCA28,"0,5 M€",57 aides
-Activités de services administratifs et de soutien,440430.00,26.00,54,#FF7043,"0,4 M€",26 aides
 Autres sections NAF,1263739.00,107.00,54,#AAAAAA,"1,3 M€",107 aides
-Commerce,122750118.00,796.00,59,#29B6F6,"122,8 M€",796 aides
+Commerce,123511160.00,797.00,59,#29B6F6,"123,5 M€",797 aides
 Industrie manufacturière,41248452.00,310.00,59,#AB47BC,"41,2 M€",310 aides
 Construction,30008777.00,273.00,59,#42A5F5,"30,0 M€",273 aides
 Activités de services administratifs et de soutien,10009822.00,128.00,59,#FF7043,"10,0 M€",128 aides
@@ -628,14 +628,14 @@ Autres sections NAF,1567.00,3.00,55,#AAAAAA,"0,0 M€",3 aides
 Commerce,4653105.00,210.00,14,#29B6F6,"4,7 M€",210 aides
 Industrie manufacturière,2555365.00,66.00,14,#AB47BC,"2,6 M€",66 aides
 Hébergement et restauration,2052568.00,222.00,14,#26A69A,"2,1 M€",222 aides
-"Activités spécialisées, scientifiques et techniques",1598066.00,93.00,14,#FFA726,"1,6 M€",93 aides
+"Activités spécialisées, scientifiques et techniques",1604182.00,94.00,14,#FFA726,"1,6 M€",94 aides
 Construction,1486372.00,91.00,14,#42A5F5,"1,5 M€",91 aides
 "Arts, spectacles et activités récréatives",1006205.00,36.00,14,#8E24AA,"1,0 M€",36 aides
 Transports et entreposage,988738.00,33.00,14,#26C6DA,"1,0 M€",33 aides
 Santé humaine et action sociale,979684.00,28.00,14,#E53935,"1,0 M€",28 aides
 Activités immobilières,778016.00,69.00,14,#FFCA28,"0,8 M€",69 aides
 Activités de services administratifs et de soutien,564802.00,32.00,14,#FF7043,"0,6 M€",32 aides
-Autres sections NAF,1082099.00,96.00,14,#AAAAAA,"1,1 M€",96 aides
+Autres sections NAF,1164877.00,97.00,14,#AAAAAA,"1,2 M€",97 aides
 Commerce,19941936.00,235.00,42,#29B6F6,"19,9 M€",235 aides
 Industrie manufacturière,7628067.00,143.00,42,#AB47BC,"7,6 M€",143 aides
 "Arts, spectacles et activités récréatives",4575929.00,23.00,42,#8E24AA,"4,6 M€",23 aides
@@ -723,7 +723,7 @@ Activités immobilières,1589684.00,17.00,2A,#FFCA28,"1,6 M€",17 aides
 Construction,1536777.00,20.00,2A,#42A5F5,"1,5 M€",20 aides
 Hébergement et restauration,1340400.00,45.00,2A,#26A69A,"1,3 M€",45 aides
 "Arts, spectacles et activités récréatives",913735.00,4.00,2A,#8E24AA,"0,9 M€",4 aides
-Commerce,736682.00,38.00,2A,#29B6F6,"0,7 M€",38 aides
+Commerce,775555.00,39.00,2A,#29B6F6,"0,8 M€",39 aides
 Transports et entreposage,624897.00,7.00,2A,#26C6DA,"0,6 M€",7 aides
 Activités financières et d'assurance,245569.00,5.00,2A,#9CCC65,"0,2 M€",5 aides
 Santé humaine et action sociale,187671.00,6.00,2A,#E53935,"0,2 M€",6 aides
@@ -731,7 +731,7 @@ Activités de services administratifs et de soutien,111688.00,9.00,2A,#FF7043,"0
 Industrie manufacturière,69367.00,7.00,2A,#AB47BC,"0,1 M€",7 aides
 Autres sections NAF,115023.00,22.00,2A,#AAAAAA,"0,1 M€",22 aides
 Industrie manufacturière,5606322.00,76.00,56,#AB47BC,"5,6 M€",76 aides
-Commerce,2754848.00,199.00,56,#29B6F6,"2,8 M€",199 aides
+Commerce,2760642.00,199.00,56,#29B6F6,"2,8 M€",199 aides
 Transports et entreposage,1902192.00,24.00,56,#26C6DA,"1,9 M€",24 aides
 Hébergement et restauration,1541532.00,167.00,56,#26A69A,"1,5 M€",167 aides
 Construction,1238719.00,72.00,56,#42A5F5,"1,2 M€",72 aides
@@ -781,7 +781,7 @@ Activités immobilières,16009.00,3.00,976,#FFCA28,"0,0 M€",3 aides
 Industrie manufacturière,8644614.00,74.00,25,#AB47BC,"8,6 M€",74 aides
 Commerce,3061923.00,116.00,25,#29B6F6,"3,1 M€",116 aides
 Construction,1084923.00,44.00,25,#42A5F5,"1,1 M€",44 aides
-"Arts, spectacles et activités récréatives",923562.00,16.00,25,#8E24AA,"0,9 M€",16 aides
+"Arts, spectacles et activités récréatives",927864.00,17.00,25,#8E24AA,"0,9 M€",17 aides
 Activités immobilières,658483.00,42.00,25,#FFCA28,"0,7 M€",42 aides
 "Activités spécialisées, scientifiques et techniques",582270.00,39.00,25,#FFA726,"0,6 M€",39 aides
 Hébergement et restauration,413976.00,104.00,25,#26A69A,"0,4 M€",104 aides
@@ -792,7 +792,7 @@ Autres sections NAF,243944.00,39.00,25,#AAAAAA,"0,2 M€",39 aides
 Commerce,2135885.00,137.00,47,#29B6F6,"2,1 M€",137 aides
 Activités de services administratifs et de soutien,1164309.00,14.00,47,#FF7043,"1,2 M€",14 aides
 Activités financières et d'assurance,1081154.00,25.00,47,#9CCC65,"1,1 M€",25 aides
-Industrie manufacturière,884145.00,43.00,47,#AB47BC,"0,9 M€",43 aides
+Industrie manufacturière,1044108.00,44.00,47,#AB47BC,"1,0 M€",44 aides
 "Activités spécialisées, scientifiques et techniques",760045.00,33.00,47,#FFA726,"0,8 M€",33 aides
 Construction,560829.00,43.00,47,#42A5F5,"0,6 M€",43 aides
 Transports et entreposage,370267.00,14.00,47,#26C6DA,"0,4 M€",14 aides
@@ -801,8 +801,8 @@ Activités immobilières,241937.00,33.00,47,#FFCA28,"0,2 M€",33 aides
 Non connu,95274.00,4.00,47,#AAAAAA,"0,1 M€",4 aides
 Autres sections NAF,175111.00,42.00,47,#AAAAAA,"0,2 M€",42 aides
 Commerce,12961738.00,425.00,44,#29B6F6,"13,0 M€",425 aides
-Industrie manufacturière,7615391.00,156.00,44,#AB47BC,"7,6 M€",156 aides
-Activités financières et d'assurance,5042088.00,128.00,44,#9CCC65,"5,0 M€",128 aides
+Industrie manufacturière,7960473.00,157.00,44,#AB47BC,"8,0 M€",157 aides
+Activités financières et d'assurance,5067633.00,129.00,44,#9CCC65,"5,1 M€",129 aides
 "Activités spécialisées, scientifiques et techniques",4360103.00,258.00,44,#FFA726,"4,4 M€",258 aides
 Construction,4248910.00,185.00,44,#42A5F5,"4,2 M€",185 aides
 Santé humaine et action sociale,3925469.00,60.00,44,#E53935,"3,9 M€",60 aides
@@ -834,28 +834,28 @@ Information et communication,672952.00,21.00,45,#66BB6A,"0,7 M€",21 aides
 Activités immobilières,601507.00,93.00,45,#FFCA28,"0,6 M€",93 aides
 Autres sections NAF,1477970.00,112.00,45,#AAAAAA,"1,5 M€",112 aides
 Information et communication,53895784.00,241.00,92,#66BB6A,"53,9 M€",241 aides
-Transports et entreposage,45873301.00,161.00,92,#26C6DA,"45,9 M€",161 aides
-"Activités spécialisées, scientifiques et techniques",44004102.00,491.00,92,#FFA726,"44,0 M€",491 aides
-Commerce,36334213.00,405.00,92,#29B6F6,"36,3 M€",405 aides
+Transports et entreposage,45874881.00,161.00,92,#26C6DA,"45,9 M€",161 aides
+"Activités spécialisées, scientifiques et techniques",44013063.00,492.00,92,#FFA726,"44,0 M€",492 aides
+Commerce,36336748.00,405.00,92,#29B6F6,"36,3 M€",405 aides
 Industrie manufacturière,23865384.00,76.00,92,#AB47BC,"23,9 M€",76 aides
 Activités de services administratifs et de soutien,9546354.00,128.00,92,#FF7043,"9,5 M€",128 aides
 Activités financières et d'assurance,8568350.00,108.00,92,#9CCC65,"8,6 M€",108 aides
 Activités immobilières,7479568.00,137.00,92,#FFCA28,"7,5 M€",137 aides
 Hébergement et restauration,6430670.00,364.00,92,#26A69A,"6,4 M€",364 aides
-Construction,6186888.00,142.00,92,#42A5F5,"6,2 M€",142 aides
+Construction,6193021.00,143.00,92,#42A5F5,"6,2 M€",143 aides
 Autres sections NAF,6233298.00,421.00,92,#AAAAAA,"6,2 M€",421 aides
 Industrie manufacturière,8427365.00,107.00,83,#AB47BC,"8,4 M€",107 aides
-Commerce,7960764.00,489.00,83,#29B6F6,"8,0 M€",489 aides
-Hébergement et restauration,3975097.00,385.00,83,#26A69A,"4,0 M€",385 aides
-Construction,2492203.00,203.00,83,#42A5F5,"2,5 M€",203 aides
+Commerce,7989334.00,489.00,83,#29B6F6,"8,0 M€",489 aides
+Hébergement et restauration,4027135.00,386.00,83,#26A69A,"4,0 M€",386 aides
+Construction,2867107.00,205.00,83,#42A5F5,"2,9 M€",205 aides
 Santé humaine et action sociale,1961540.00,66.00,83,#E53935,"2,0 M€",66 aides
 "Activités spécialisées, scientifiques et techniques",1881667.00,146.00,83,#FFA726,"1,9 M€",146 aides
 Activités immobilières,1681905.00,165.00,83,#FFCA28,"1,7 M€",165 aides
-Activités de services administratifs et de soutien,1300920.00,81.00,83,#FF7043,"1,3 M€",81 aides
+Activités de services administratifs et de soutien,1341918.00,83.00,83,#FF7043,"1,3 M€",83 aides
 Activités financières et d'assurance,1147975.00,80.00,83,#9CCC65,"1,1 M€",80 aides
 Transports et entreposage,954888.00,49.00,83,#26C6DA,"1,0 M€",49 aides
-Autres sections NAF,1118881.00,220.00,83,#AAAAAA,"1,1 M€",220 aides
-Commerce,33905559.00,629.00,69,#29B6F6,"33,9 M€",629 aides
+Autres sections NAF,1187131.00,221.00,83,#AAAAAA,"1,2 M€",221 aides
+Commerce,33907639.00,630.00,69,#29B6F6,"33,9 M€",630 aides
 Industrie manufacturière,18772678.00,225.00,69,#AB47BC,"18,8 M€",225 aides
 "Activités spécialisées, scientifiques et techniques",17065302.00,506.00,69,#FFA726,"17,1 M€",506 aides
 Activités financières et d'assurance,11211819.00,165.00,69,#9CCC65,"11,2 M€",165 aides
@@ -910,22 +910,22 @@ Activités de services administratifs et de soutien,977253.00,37.00,29,#FF7043,"
 Information et communication,915515.00,14.00,29,#66BB6A,"0,9 M€",14 aides
 Autres sections NAF,908968.00,87.00,29,#AAAAAA,"0,9 M€",87 aides
 Information et communication,111271859.00,399.00,75,#66BB6A,"111,3 M€",399 aides
-Commerce,66479326.00,916.00,75,#29B6F6,"66,5 M€",916 aides
+Commerce,66482527.00,916.00,75,#29B6F6,"66,5 M€",916 aides
 "Activités spécialisées, scientifiques et techniques",65331043.00,1074.00,75,#FFA726,"65,3 M€",1 074 aides
 Activités financières et d'assurance,51645122.00,364.00,75,#9CCC65,"51,6 M€",364 aides
 Industrie manufacturière,50791660.00,178.00,75,#AB47BC,"50,8 M€",178 aides
-Hébergement et restauration,26359715.00,879.00,75,#26A69A,"26,4 M€",879 aides
-Activités immobilières,21730642.00,387.00,75,#FFCA28,"21,7 M€",387 aides
-Activités de services administratifs et de soutien,21362890.00,254.00,75,#FF7043,"21,4 M€",254 aides
+Hébergement et restauration,26585045.00,881.00,75,#26A69A,"26,6 M€",881 aides
+Activités immobilières,21750828.00,388.00,75,#FFCA28,"21,8 M€",388 aides
+Activités de services administratifs et de soutien,21500938.00,254.00,75,#FF7043,"21,5 M€",254 aides
 Enseignement,10106670.00,94.00,75,#00897B,"10,1 M€",94 aides
 Construction,7035470.00,126.00,75,#42A5F5,"7,0 M€",126 aides
 Autres sections NAF,24772207.00,490.00,75,#AAAAAA,"24,8 M€",490 aides
-Commerce,8576473.00,349.00,74,#29B6F6,"8,6 M€",349 aides
+Commerce,8588297.00,350.00,74,#29B6F6,"8,6 M€",350 aides
 Industrie manufacturière,5764999.00,137.00,74,#AB47BC,"5,8 M€",137 aides
-Construction,3958215.00,161.00,74,#42A5F5,"4,0 M€",161 aides
+Construction,3966764.00,163.00,74,#42A5F5,"4,0 M€",163 aides
 Activités immobilières,3807892.00,158.00,74,#FFCA28,"3,8 M€",158 aides
-Hébergement et restauration,3145051.00,307.00,74,#26A69A,"3,1 M€",307 aides
-"Activités spécialisées, scientifiques et techniques",2447949.00,108.00,74,#FFA726,"2,4 M€",108 aides
+Hébergement et restauration,3146271.00,308.00,74,#26A69A,"3,1 M€",308 aides
+"Activités spécialisées, scientifiques et techniques",2490190.00,109.00,74,#FFA726,"2,5 M€",109 aides
 Information et communication,1293040.00,32.00,74,#66BB6A,"1,3 M€",32 aides
 Activités financières et d'assurance,1258187.00,68.00,74,#9CCC65,"1,3 M€",68 aides
 Transports et entreposage,1092729.00,28.00,74,#26C6DA,"1,1 M€",28 aides
@@ -952,7 +952,7 @@ Construction,736902.00,60.00,66,#42A5F5,"0,7 M€",60 aides
 Activités de services administratifs et de soutien,571793.00,25.00,66,#FF7043,"0,6 M€",25 aides
 Activités financières et d'assurance,531247.00,24.00,66,#9CCC65,"0,5 M€",24 aides
 "Arts, spectacles et activités récréatives",413576.00,18.00,66,#8E24AA,"0,4 M€",18 aides
-Autres sections NAF,896866.00,112.00,66,#AAAAAA,"0,9 M€",112 aides
+Autres sections NAF,898332.00,113.00,66,#AAAAAA,"0,9 M€",113 aides
 Industrie manufacturière,1539955.00,26.00,61,#AB47BC,"1,5 M€",26 aides
 Commerce,849496.00,53.00,61,#29B6F6,"0,8 M€",53 aides
 Construction,357672.00,26.00,61,#42A5F5,"0,4 M€",26 aides
@@ -1073,7 +1073,7 @@ Activités financières et d'assurance,1585156.00,43.00,76,#9CCC65,"1,6 M€",43
 Santé humaine et action sociale,1525817.00,47.00,76,#E53935,"1,5 M€",47 aides
 "Activités spécialisées, scientifiques et techniques",1485563.00,112.00,76,#FFA726,"1,5 M€",112 aides
 Activités immobilières,975205.00,74.00,76,#FFCA28,"1,0 M€",74 aides
-Autres sections NAF,1305383.00,96.00,76,#AAAAAA,"1,3 M€",96 aides
+Autres sections NAF,1336609.00,99.00,76,#AAAAAA,"1,3 M€",99 aides
 Commerce,782652.00,30.00,90,#29B6F6,"0,8 M€",30 aides
 "Activités spécialisées, scientifiques et techniques",367419.00,10.00,90,#FFA726,"0,4 M€",10 aides
 Construction,128451.00,13.00,90,#42A5F5,"0,1 M€",13 aides
