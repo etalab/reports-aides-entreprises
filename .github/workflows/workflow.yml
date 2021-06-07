@@ -31,6 +31,13 @@ jobs:
           pip install papermill
       - name: Run notebook
         run: papermill report-pdf.ipynb report-pdf.ipynb
+	  - name: Free disk space
+	    run: |
+	      sudo swapoff -a
+	      sudo rm -f /swapfile
+	      sudo apt clean
+	      docker rmi $(docker image ls -aq)
+	      df -h
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
