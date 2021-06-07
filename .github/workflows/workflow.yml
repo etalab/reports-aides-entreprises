@@ -33,19 +33,19 @@ jobs:
           pip install papermill
       - name: Run notebook
         run: papermill report-pdf.ipynb report-pdf.ipynb
-	  - name: Free disk space
-	    run: |
-	      sudo swapoff -a
-	      sudo rm -f /swapfile
-	      sudo apt clean
-	      docker rmi $(docker image ls -aq)
-	      df -h
+      - name: Free disk space
+        run: |
+          sudo swapoff -a
+          sudo rm -f /swapfile
+          sudo apt clean
+          docker rmi $(docker image ls -aq)
+          df -h
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          #git add -A
-		  git add report-pdf.ipynb reports/pdf reports/Suivi_aides_entreprises_*.zip img/ data/
+          # git add -A
+          git add report-pdf.ipynb reports/pdf reports/Suivi_aides_entreprises_*.zip img/ data/
           git commit -m "GitHub Actions - Reports updates $(date)" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
