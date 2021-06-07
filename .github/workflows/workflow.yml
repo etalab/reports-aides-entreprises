@@ -1,8 +1,8 @@
 name: Run-PDFReports-Notebook
 
-on: push
-  #schedule:
-    #- cron: "0 0 * * *"
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   workflow:
@@ -43,7 +43,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          # git add report-pdf.ipynb reports/pdf reports/Suivi_aides_entreprises_*.zip img/ data/
           git commit -m "GitHub Actions - Reports updates $(date)" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
