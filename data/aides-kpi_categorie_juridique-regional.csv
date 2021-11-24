@@ -1,74 +1,74 @@
 libelle_cat_juridique,montant,nombre,nombre_siren,reg,color,montant_fr,nombre_fr,nombre_siren_fr
-Entrepreneur individuel,109892629.53,69885,12392,01,#E53935,"109,9 M€",69 885 aides,12 392 entreprises
-Société à responsabilité limitée (SARL),67311681.31,18031,3370,01,#FF8F00,"67,3 M€",18 031 aides,3 370 entreprises
-Société par actions simplifiée,46551572.67,16314,2912,01,#6D4C41,"46,6 M€",16 314 aides,2 912 entreprises
-Autres Catégories Juridiques,7004515.85,2093,430,01,#AAAAAA,"7,0 M€",2 093 aides,430 entreprises
-Société à responsabilité limitée (SARL),63411863.81,17174,3282,02,#FF8F00,"63,4 M€",17 174 aides,3 282 entreprises
-Entrepreneur individuel,59022609.00,37937,7130,02,#E53935,"59,0 M€",37 937 aides,7 130 entreprises
-Société par actions simplifiée,35737099.35,11691,2140,02,#6D4C41,"35,7 M€",11 691 aides,2 140 entreprises
-Autres Catégories Juridiques,4889201.00,1383,302,02,#AAAAAA,"4,9 M€",1 383 aides,302 entreprises
-Entrepreneur individuel,56744452.17,28906,3795,03,#E53935,"56,7 M€",28 906 aides,3 795 entreprises
-Société par actions simplifiée,23690499.02,9173,1297,03,#6D4C41,"23,7 M€",9 173 aides,1 297 entreprises
-Société à responsabilité limitée (SARL),19097199.38,6156,910,03,#FF8F00,"19,1 M€",6 156 aides,910 entreprises
-Autres Catégories Juridiques,3824208.23,884,149,03,#AAAAAA,"3,8 M€",884 aides,149 entreprises
-Entrepreneur individuel,114023424.29,76210,17492,04,#E53935,"114,0 M€",76 210 aides,17 492 entreprises
-Société à responsabilité limitée (SARL),88240875.09,24627,6164,04,#FF8F00,"88,2 M€",24 627 aides,6 164 entreprises
-Société par actions simplifiée,33812564.00,7291,1664,04,#6D4C41,"33,8 M€",7 291 aides,1 664 entreprises
-Autres Catégories Juridiques,19733933.75,2165,553,04,#AAAAAA,"19,7 M€",2 165 aides,553 entreprises
-Entrepreneur individuel,102386119.00,44045,5415,06,#E53935,"102,4 M€",44 045 aides,5 415 entreprises
-Société à responsabilité limitée (SARL),12658628.23,4272,681,06,#FF8F00,"12,7 M€",4 272 aides,681 entreprises
+Entrepreneur individuel,110178018.53,70092,12406,01,#E53935,"110,2 M€",70 092 aides,12 406 entreprises
+Société à responsabilité limitée (SARL),69072156.31,18153,3378,01,#FF8F00,"69,1 M€",18 153 aides,3 378 entreprises
+Société par actions simplifiée,46919980.67,16406,2925,01,#6D4C41,"46,9 M€",16 406 aides,2 925 entreprises
+Autres Catégories Juridiques,7040718.85,2108,432,01,#AAAAAA,"7,0 M€",2 108 aides,432 entreprises
+Société à responsabilité limitée (SARL),63949510.81,17283,3288,02,#FF8F00,"63,9 M€",17 283 aides,3 288 entreprises
+Entrepreneur individuel,59176648.00,38057,7141,02,#E53935,"59,2 M€",38 057 aides,7 141 entreprises
+Société par actions simplifiée,36310769.35,11742,2142,02,#6D4C41,"36,3 M€",11 742 aides,2 142 entreprises
+Autres Catégories Juridiques,4964211.00,1394,303,02,#AAAAAA,"5,0 M€",1 394 aides,303 entreprises
+Entrepreneur individuel,56871057.17,28984,3799,03,#E53935,"56,9 M€",28 984 aides,3 799 entreprises
+Société par actions simplifiée,23726226.02,9195,1298,03,#6D4C41,"23,7 M€",9 195 aides,1 298 entreprises
+Société à responsabilité limitée (SARL),19123104.38,6170,910,03,#FF8F00,"19,1 M€",6 170 aides,910 entreprises
+Autres Catégories Juridiques,3827208.23,886,150,03,#AAAAAA,"3,8 M€",886 aides,150 entreprises
+Entrepreneur individuel,114076897.29,76273,17494,04,#E53935,"114,1 M€",76 273 aides,17 494 entreprises
+Société à responsabilité limitée (SARL),88798605.09,24687,6166,04,#FF8F00,"88,8 M€",24 687 aides,6 166 entreprises
+Société par actions simplifiée,34511366.00,7315,1664,04,#6D4C41,"34,5 M€",7 315 aides,1 664 entreprises
+Autres Catégories Juridiques,19914808.75,2170,553,04,#AAAAAA,"19,9 M€",2 170 aides,553 entreprises
+Entrepreneur individuel,102386499.00,44046,5415,06,#E53935,"102,4 M€",44 046 aides,5 415 entreprises
+Société à responsabilité limitée (SARL),12727612.23,4276,682,06,#FF8F00,"12,7 M€",4 276 aides,682 entreprises
 Société par actions simplifiée,1530243.00,561,94,06,#6D4C41,"1,5 M€",561 aides,94 entreprises
 Autres Catégories Juridiques,959676.00,393,60,06,#AAAAAA,"1,0 M€",393 aides,60 entreprises
-Société par actions simplifiée,3752718800.20,588998,90717,11,#6D4C41,"3752,7 M€",588 998 aides,90 717 entreprises
-Société à responsabilité limitée (SARL),3423660409.57,637959,104919,11,#FF8F00,"3423,7 M€",637 959 aides,104 919 entreprises
-Entrepreneur individuel,2300478280.27,1314446,220341,11,#E53935,"2300,5 M€",1 314 446 aides,220 341 entreprises
-Autres Catégories Juridiques,559467500.97,49082,8218,11,#AAAAAA,"559,5 M€",49 082 aides,8 218 entreprises
-Société à responsabilité limitée (SARL),368317904.52,76056,14915,24,#FF8F00,"368,3 M€",76 056 aides,14 915 entreprises
-Entrepreneur individuel,277642054.09,151079,33530,24,#E53935,"277,6 M€",151 079 aides,33 530 entreprises
-Société par actions simplifiée,172712162.95,31915,6017,24,#6D4C41,"172,7 M€",31 915 aides,6 017 entreprises
-Autres Catégories Juridiques,61296804.25,12122,2332,24,#AAAAAA,"61,3 M€",12 122 aides,2 332 entreprises
-Société à responsabilité limitée (SARL),452897789.28,91209,17557,27,#FF8F00,"452,9 M€",91 209 aides,17 557 entreprises
-Entrepreneur individuel,319590608.48,175897,38052,27,#E53935,"319,6 M€",175 897 aides,38 052 entreprises
-Société par actions simplifiée,197839559.53,35451,6528,27,#6D4C41,"197,8 M€",35 451 aides,6 528 entreprises
-Autres Catégories Juridiques,77778960.07,13668,2745,27,#AAAAAA,"77,8 M€",13 668 aides,2 745 entreprises
-Société à responsabilité limitée (SARL),500638718.84,97129,18308,28,#FF8F00,"500,6 M€",97 129 aides,18 308 entreprises
-Entrepreneur individuel,374277823.70,197076,42635,28,#E53935,"374,3 M€",197 076 aides,42 635 entreprises
-Société par actions simplifiée,254884578.14,41051,7187,28,#6D4C41,"254,9 M€",41 051 aides,7 187 entreprises
-Autres Catégories Juridiques,71836505.00,13749,2471,28,#AAAAAA,"71,8 M€",13 749 aides,2 471 entreprises
-Société à responsabilité limitée (SARL),732085162.85,147209,27840,32,#FF8F00,"732,1 M€",147 209 aides,27 840 entreprises
-Entrepreneur individuel,566744220.54,320955,67903,32,#E53935,"566,7 M€",320 955 aides,67 903 entreprises
-Société par actions simplifiée,469998127.42,83003,14450,32,#6D4C41,"470,0 M€",83 003 aides,14 450 entreprises
-Autres Catégories Juridiques,119422929.05,18836,3375,32,#AAAAAA,"119,4 M€",18 836 aides,3 375 entreprises
-Société à responsabilité limitée (SARL),909725760.76,180222,34687,44,#FF8F00,"909,7 M€",180 222 aides,34 687 entreprises
-Entrepreneur individuel,639128061.32,332209,71638,44,#E53935,"639,1 M€",332 209 aides,71 638 entreprises
-Société par actions simplifiée,527956610.66,89251,16597,44,#6D4C41,"528,0 M€",89 251 aides,16 597 entreprises
-Autres Catégories Juridiques,289163604.12,43905,9314,44,#AAAAAA,"289,2 M€",43 905 aides,9 314 entreprises
-Société à responsabilité limitée (SARL),696461691.82,137093,27172,52,#FF8F00,"696,5 M€",137 093 aides,27 172 entreprises
-Entrepreneur individuel,411379065.00,230877,52404,52,#E53935,"411,4 M€",230 877 aides,52 404 entreprises
-Société par actions simplifiée,269833754.63,40106,7241,52,#6D4C41,"269,8 M€",40 106 aides,7 241 entreprises
-Autres Catégories Juridiques,105462753.00,18164,3428,52,#AAAAAA,"105,5 M€",18 164 aides,3 428 entreprises
-Société à responsabilité limitée (SARL),691959682.83,128895,24263,53,#FF8F00,"692,0 M€",128 895 aides,24 263 entreprises
-Entrepreneur individuel,408167879.84,212053,48182,53,#E53935,"408,2 M€",212 053 aides,48 182 entreprises
-Société par actions simplifiée,213242502.62,29857,5528,53,#6D4C41,"213,2 M€",29 857 aides,5 528 entreprises
-Autres Catégories Juridiques,123560038.30,18028,3102,53,#AAAAAA,"123,6 M€",18 028 aides,3 102 entreprises
-Société à responsabilité limitée (SARL),1211951859.05,239554,46313,75,#FF8F00,"1212,0 M€",239 554 aides,46 313 entreprises
-Entrepreneur individuel,897546377.96,517342,115373,75,#E53935,"897,5 M€",517 342 aides,115 373 entreprises
-Société par actions simplifiée,578082843.51,101531,18354,75,#6D4C41,"578,1 M€",101 531 aides,18 354 entreprises
-Autres Catégories Juridiques,237861494.56,41079,8218,75,#AAAAAA,"237,9 M€",41 079 aides,8 218 entreprises
-Société à responsabilité limitée (SARL),1298257092.02,268989,49765,76,#FF8F00,"1298,3 M€",268 989 aides,49 765 entreprises
-Entrepreneur individuel,992586677.57,598173,127117,76,#E53935,"992,6 M€",598 173 aides,127 117 entreprises
-Société par actions simplifiée,772094760.09,156493,27118,76,#6D4C41,"772,1 M€",156 493 aides,27 118 entreprises
-Autres Catégories Juridiques,239676125.46,40487,7618,76,#AAAAAA,"239,7 M€",40 487 aides,7 618 entreprises
-Société à responsabilité limitée (SARL),1853217405.17,349010,64162,84,#FF8F00,"1853,2 M€",349 010 aides,64 162 entreprises
-Entrepreneur individuel,1438558796.43,768961,155952,84,#E53935,"1438,6 M€",768 961 aides,155 952 entreprises
-Société par actions simplifiée,1331404699.49,189547,33263,84,#6D4C41,"1331,4 M€",189 547 aides,33 263 entreprises
-Autres Catégories Juridiques,665757686.32,45884,8640,84,#AAAAAA,"665,8 M€",45 884 aides,8 640 entreprises
-Société à responsabilité limitée (SARL),1460743737.54,286407,49795,93,#FF8F00,"1460,7 M€",286 407 aides,49 795 entreprises
-Société par actions simplifiée,1163403653.59,208116,33985,93,#6D4C41,"1163,4 M€",208 116 aides,33 985 entreprises
-Entrepreneur individuel,1049365022.09,615238,121231,93,#E53935,"1049,4 M€",615 238 aides,121 231 entreprises
-Autres Catégories Juridiques,242372694.62,32884,5656,93,#AAAAAA,"242,4 M€",32 884 aides,5 656 entreprises
-Société à responsabilité limitée (SARL),171371365.44,27496,4262,94,#FF8F00,"171,4 M€",27 496 aides,4 262 entreprises
-Société par actions simplifiée,106031164.27,18137,2907,94,#6D4C41,"106,0 M€",18 137 aides,2 907 entreprises
-Entrepreneur individuel,104796890.37,49520,9528,94,#E53935,"104,8 M€",49 520 aides,9 528 entreprises
-Autres Catégories Juridiques,11956864.77,2986,518,94,#AAAAAA,"12,0 M€",2 986 aides,518 entreprises
+Société par actions simplifiée,3777392472.20,590237,90735,11,#6D4C41,"3777,4 M€",590 237 aides,90 735 entreprises
+Société à responsabilité limitée (SARL),3438482492.57,639250,104932,11,#FF8F00,"3438,5 M€",639 250 aides,104 932 entreprises
+Entrepreneur individuel,2301621306.27,1315265,220347,11,#E53935,"2301,6 M€",1 315 265 aides,220 347 entreprises
+Autres Catégories Juridiques,562731952.97,49235,8219,11,#AAAAAA,"562,7 M€",49 235 aides,8 219 entreprises
+Société à responsabilité limitée (SARL),368877274.52,76142,14915,24,#FF8F00,"368,9 M€",76 142 aides,14 915 entreprises
+Entrepreneur individuel,277747385.09,151143,33532,24,#E53935,"277,7 M€",151 143 aides,33 532 entreprises
+Société par actions simplifiée,172879283.95,31942,6018,24,#6D4C41,"172,9 M€",31 942 aides,6 018 entreprises
+Autres Catégories Juridiques,61555872.25,12135,2332,24,#AAAAAA,"61,6 M€",12 135 aides,2 332 entreprises
+Société à responsabilité limitée (SARL),453585830.28,91343,17557,27,#FF8F00,"453,6 M€",91 343 aides,17 557 entreprises
+Entrepreneur individuel,319647529.48,175977,38052,27,#E53935,"319,6 M€",175 977 aides,38 052 entreprises
+Société par actions simplifiée,199226885.53,35497,6528,27,#6D4C41,"199,2 M€",35 497 aides,6 528 entreprises
+Autres Catégories Juridiques,78104567.07,13699,2745,27,#AAAAAA,"78,1 M€",13 699 aides,2 745 entreprises
+Société à responsabilité limitée (SARL),501299559.84,97243,18310,28,#FF8F00,"501,3 M€",97 243 aides,18 310 entreprises
+Entrepreneur individuel,374371169.70,197161,42635,28,#E53935,"374,4 M€",197 161 aides,42 635 entreprises
+Société par actions simplifiée,255486848.14,41095,7187,28,#6D4C41,"255,5 M€",41 095 aides,7 187 entreprises
+Autres Catégories Juridiques,71886173.00,13764,2471,28,#AAAAAA,"71,9 M€",13 764 aides,2 471 entreprises
+Société à responsabilité limitée (SARL),733066325.85,147357,27841,32,#FF8F00,"733,1 M€",147 357 aides,27 841 entreprises
+Entrepreneur individuel,566849165.54,321067,67903,32,#E53935,"566,8 M€",321 067 aides,67 903 entreprises
+Société par actions simplifiée,470816361.42,83098,14452,32,#6D4C41,"470,8 M€",83 098 aides,14 452 entreprises
+Autres Catégories Juridiques,119818648.05,18861,3375,32,#AAAAAA,"119,8 M€",18 861 aides,3 375 entreprises
+Société à responsabilité limitée (SARL),910817677.76,180444,34688,44,#FF8F00,"910,8 M€",180 444 aides,34 688 entreprises
+Entrepreneur individuel,639328403.32,332339,71639,44,#E53935,"639,3 M€",332 339 aides,71 639 entreprises
+Société par actions simplifiée,529420794.66,89357,16597,44,#6D4C41,"529,4 M€",89 357 aides,16 597 entreprises
+Autres Catégories Juridiques,291131370.12,43995,9316,44,#AAAAAA,"291,1 M€",43 995 aides,9 316 entreprises
+Société à responsabilité limitée (SARL),697361142.82,137222,27172,52,#FF8F00,"697,4 M€",137 222 aides,27 172 entreprises
+Entrepreneur individuel,411475049.00,230976,52404,52,#E53935,"411,5 M€",230 976 aides,52 404 entreprises
+Société par actions simplifiée,271008390.63,40147,7244,52,#6D4C41,"271,0 M€",40 147 aides,7 244 entreprises
+Autres Catégories Juridiques,105753761.00,18183,3428,52,#AAAAAA,"105,8 M€",18 183 aides,3 428 entreprises
+Société à responsabilité limitée (SARL),692693033.83,129008,24263,53,#FF8F00,"692,7 M€",129 008 aides,24 263 entreprises
+Entrepreneur individuel,408241017.84,212138,48184,53,#E53935,"408,2 M€",212 138 aides,48 184 entreprises
+Société par actions simplifiée,214081683.62,29897,5529,53,#6D4C41,"214,1 M€",29 897 aides,5 529 entreprises
+Autres Catégories Juridiques,124009622.30,18055,3102,53,#AAAAAA,"124,0 M€",18 055 aides,3 102 entreprises
+Société à responsabilité limitée (SARL),1213838172.05,239832,46313,75,#FF8F00,"1213,8 M€",239 832 aides,46 313 entreprises
+Entrepreneur individuel,897771383.96,517536,115375,75,#E53935,"897,8 M€",517 536 aides,115 375 entreprises
+Société par actions simplifiée,579455474.51,101653,18358,75,#6D4C41,"579,5 M€",101 653 aides,18 358 entreprises
+Autres Catégories Juridiques,238404546.56,41170,8218,75,#AAAAAA,"238,4 M€",41 170 aides,8 218 entreprises
+Société à responsabilité limitée (SARL),1300042786.02,269302,49768,76,#FF8F00,"1300,0 M€",269 302 aides,49 768 entreprises
+Entrepreneur individuel,992725222.57,598345,127117,76,#E53935,"992,7 M€",598 345 aides,127 117 entreprises
+Société par actions simplifiée,773982354.09,156654,27119,76,#6D4C41,"774,0 M€",156 654 aides,27 119 entreprises
+Autres Catégories Juridiques,239943880.46,40532,7618,76,#AAAAAA,"239,9 M€",40 532 aides,7 618 entreprises
+Société à responsabilité limitée (SARL),1857915784.17,349496,64166,84,#FF8F00,"1857,9 M€",349 496 aides,64 166 entreprises
+Entrepreneur individuel,1438996876.43,769281,155954,84,#E53935,"1439,0 M€",769 281 aides,155 954 entreprises
+Société par actions simplifiée,1336655635.49,189858,33270,84,#6D4C41,"1336,7 M€",189 858 aides,33 270 entreprises
+Autres Catégories Juridiques,667458016.32,45988,8643,84,#AAAAAA,"667,5 M€",45 988 aides,8 643 entreprises
+Société à responsabilité limitée (SARL),1462641804.54,286706,49797,93,#FF8F00,"1462,6 M€",286 706 aides,49 797 entreprises
+Société par actions simplifiée,1166519263.59,208342,33987,93,#6D4C41,"1166,5 M€",208 342 aides,33 987 entreprises
+Entrepreneur individuel,1049593221.09,615463,121233,93,#E53935,"1049,6 M€",615 463 aides,121 233 entreprises
+Autres Catégories Juridiques,243480339.62,32953,5657,93,#AAAAAA,"243,5 M€",32 953 aides,5 657 entreprises
+Société à responsabilité limitée (SARL),171596003.44,27523,4262,94,#FF8F00,"171,6 M€",27 523 aides,4 262 entreprises
+Société par actions simplifiée,106054714.27,18148,2907,94,#6D4C41,"106,1 M€",18 148 aides,2 907 entreprises
+Entrepreneur individuel,104806378.37,49532,9528,94,#E53935,"104,8 M€",49 532 aides,9 528 entreprises
+Autres Catégories Juridiques,11959442.77,2988,518,94,#AAAAAA,"12,0 M€",2 988 aides,518 entreprises
 Autres Catégories Juridiques,0,0,0,None,#AAAAAA,"0,0 M€",0 aides,0 entreprises
