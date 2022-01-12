@@ -3,7 +3,7 @@ Hébergement et restauration,97376927.67,15900,1653,01,#26A69A,"97,4 M€",15 90
 Commerce,33643882.00,10708,2602,01,#29B6F6,"33,6 M€",10 708 aides,2 602 entreprises
 Autres activités de services,15527959.87,7749,1801,01,#5E35B1,"15,5 M€",7 749 aides,1 801 entreprises
 Construction,10806436.00,6732,2382,01,#42A5F5,"10,8 M€",6 732 aides,2 382 entreprises
-"Arts, spectacles et activités récréatives",17914188.20,5947,758,01,#8E24AA,"17,9 M€",5 947 aides,758 entreprises
+"Arts, spectacles et activités récréatives",17919926.20,5948,758,01,#8E24AA,"17,9 M€",5 948 aides,758 entreprises
 "Activités spécialisées, scientifiques et techniques",14698352.22,5395,1218,01,#FFA726,"14,7 M€",5 395 aides,1 218 entreprises
 Enseignement,8426111.00,4422,793,01,#00897B,"8,4 M€",4 422 aides,793 entreprises
 Santé humaine et action sociale,4291266.00,3299,1362,01,#E53935,"4,3 M€",3 299 aides,1 362 entreprises
@@ -375,7 +375,7 @@ Enseignement,25439771.00,15078,2498,33,#00897B,"25,4 M€",15 078 aides,2 498 en
 Autres sections NAF,107728880.50,38834,8613,33,#AAAAAA,"107,7 M€",38 834 aides,8 613 entreprises
 Hébergement et restauration,295135395.62,47873,5147,34,#26A69A,"295,1 M€",47 873 aides,5 147 entreprises
 Commerce,112285074.00,41250,8131,34,#29B6F6,"112,3 M€",41 250 aides,8 131 entreprises
-"Activités spécialisées, scientifiques et techniques",79237288.00,26432,5346,34,#FFA726,"79,2 M€",26 432 aides,5 346 entreprises
+"Activités spécialisées, scientifiques et techniques",79248645.00,26433,5346,34,#FFA726,"79,2 M€",26 433 aides,5 346 entreprises
 Construction,33553500.07,21075,6659,34,#42A5F5,"33,6 M€",21 075 aides,6 659 entreprises
 "Arts, spectacles et activités récréatives",71645674.04,20626,2400,34,#8E24AA,"71,6 M€",20 626 aides,2 400 entreprises
 Autres activités de services,39473851.37,20031,4329,34,#5E35B1,"39,5 M€",20 031 aides,4 329 entreprises
@@ -695,7 +695,7 @@ Autres sections NAF,22313960.19,9533,2221,62,#AAAAAA,"22,3 M€",9 533 aides,2 2
 Hébergement et restauration,130501288.61,22141,2293,63,#26A69A,"130,5 M€",22 141 aides,2 293 entreprises
 Commerce,44305975.00,13309,2944,63,#29B6F6,"44,3 M€",13 309 aides,2 944 entreprises
 Autres activités de services,16007673.00,8317,1905,63,#5E35B1,"16,0 M€",8 317 aides,1 905 entreprises
-"Arts, spectacles et activités récréatives",28245055.12,7276,866,63,#8E24AA,"28,2 M€",7 276 aides,866 entreprises
+"Arts, spectacles et activités récréatives",28272517.12,7277,866,63,#8E24AA,"28,3 M€",7 277 aides,866 entreprises
 Construction,11600313.00,7219,2483,63,#42A5F5,"11,6 M€",7 219 aides,2 483 entreprises
 "Activités spécialisées, scientifiques et techniques",24689001.00,7108,1536,63,#FFA726,"24,7 M€",7 108 aides,1 536 entreprises
 Enseignement,9799834.00,5136,829,63,#00897B,"9,8 M€",5 136 aides,829 entreprises
@@ -824,15 +824,15 @@ Activités de services administratifs et de soutien,36055050.00,8315,1565,74,#FF
 Santé humaine et action sociale,9971602.00,7251,2767,74,#E53935,"10,0 M€",7 251 aides,2 767 entreprises
 Activités immobilières,18190084.00,6072,1356,74,#FFCA28,"18,2 M€",6 072 aides,1 356 entreprises
 Autres sections NAF,200392330.21,13828,2908,74,#AAAAAA,"200,4 M€",13 828 aides,2 908 entreprises
-Hébergement et restauration,1800252592.31,184432,17508,75,#26A69A,"1800,3 M€",184 432 aides,17 508 entreprises
+Hébergement et restauration,1800356530.31,184434,17508,75,#26A69A,"1800,4 M€",184 434 aides,17 508 entreprises
 "Activités spécialisées, scientifiques et techniques",596393060.69,184286,35375,75,#FFA726,"596,4 M€",184 286 aides,35 375 entreprises
-"Arts, spectacles et activités récréatives",465944540.15,115088,14324,75,#8E24AA,"465,9 M€",115 088 aides,14 324 entreprises
+"Arts, spectacles et activités récréatives",465944740.15,115089,14324,75,#8E24AA,"465,9 M€",115 089 aides,14 324 entreprises
 Commerce,668157987.68,111482,19712,75,#29B6F6,"668,2 M€",111 482 aides,19 712 entreprises
 Transports et entreposage,239424445.80,91651,10472,75,#26C6DA,"239,4 M€",91 651 aides,10 472 entreprises
-Information et communication,321407196.62,60082,9801,75,#66BB6A,"321,4 M€",60 082 aides,9 801 entreprises
-Activités de services administratifs et de soutien,454302537.56,51342,6419,75,#FF7043,"454,3 M€",51 342 aides,6 419 entreprises
+Information et communication,321407947.62,60083,9801,75,#66BB6A,"321,4 M€",60 083 aides,9 801 entreprises
+Activités de services administratifs et de soutien,454302655.56,51343,6419,75,#FF7043,"454,3 M€",51 343 aides,6 419 entreprises
 Autres activités de services,137644986.33,48976,8873,75,#5E35B1,"137,6 M€",48 976 aides,8 873 entreprises
-Enseignement,69727636.60,34726,5551,75,#00897B,"69,7 M€",34 726 aides,5 551 entreprises
+Enseignement,69727686.60,34727,5551,75,#00897B,"69,7 M€",34 727 aides,5 551 entreprises
 Santé humaine et action sociale,36005679.00,25730,9251,75,#E53935,"36,0 M€",25 730 aides,9 251 entreprises
 Autres sections NAF,279742922.68,70924,15243,75,#AAAAAA,"279,7 M€",70 924 aides,15 243 entreprises
 Hébergement et restauration,172704188.95,28556,3142,76,#26A69A,"172,7 M€",28 556 aides,3 142 entreprises
@@ -871,7 +871,7 @@ Autres sections NAF,47200365.78,18099,4121,78,#AAAAAA,"47,2 M€",18 099 aides,4
 Hébergement et restauration,39951611.32,7238,803,79,#26A69A,"40,0 M€",7 238 aides,803 entreprises
 Commerce,19288494.00,5737,1315,79,#29B6F6,"19,3 M€",5 737 aides,1 315 entreprises
 Autres activités de services,7573090.00,3838,924,79,#5E35B1,"7,6 M€",3 838 aides,924 entreprises
-"Arts, spectacles et activités récréatives",9734873.00,3120,406,79,#8E24AA,"9,7 M€",3 120 aides,406 entreprises
+"Arts, spectacles et activités récréatives",9748503.00,3121,406,79,#8E24AA,"9,7 M€",3 121 aides,406 entreprises
 Construction,3962187.00,2421,1006,79,#42A5F5,"4,0 M€",2 421 aides,1 006 entreprises
 "Activités spécialisées, scientifiques et techniques",6091888.80,2234,483,79,#FFA726,"6,1 M€",2 234 aides,483 entreprises
 Santé humaine et action sociale,1991397.00,1618,588,79,#E53935,"2,0 M€",1 618 aides,588 entreprises
@@ -1069,7 +1069,7 @@ Autres sections NAF,21184082.72,10661,2602,971,#AAAAAA,"21,2 M€",10 661 aides,
 Commerce,32956643.00,12849,2289,972,#29B6F6,"33,0 M€",12 849 aides,2 289 entreprises
 Hébergement et restauration,40237315.34,10314,1313,972,#26A69A,"40,2 M€",10 314 aides,1 313 entreprises
 Activités de services administratifs et de soutien,18099113.60,6173,979,972,#FF7043,"18,1 M€",6 173 aides,979 entreprises
-Autres activités de services,11171809.00,6113,1075,972,#5E35B1,"11,2 M€",6 113 aides,1 075 entreprises
+Autres activités de services,11179199.00,6114,1075,972,#5E35B1,"11,2 M€",6 114 aides,1 075 entreprises
 "Activités spécialisées, scientifiques et techniques",11624091.00,5232,1135,972,#FFA726,"11,6 M€",5 232 aides,1 135 entreprises
 Construction,7615533.00,4660,1387,972,#42A5F5,"7,6 M€",4 660 aides,1 387 entreprises
 Transports et entreposage,10907672.22,4578,728,972,#26C6DA,"10,9 M€",4 578 aides,728 entreprises
